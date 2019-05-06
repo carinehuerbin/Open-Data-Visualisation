@@ -1,17 +1,26 @@
 
         .municipalities {
-	       fill: green;
+	       fill: lightgrey;
 	       stroke: #000; //#fff;
            stroke-width: 0.5;
-	   }
-           
+        }
+        
         .lakes {
-            fill: lightblue;
-            stroke: #000; //#fff;
-            stroke-width: 0.5;
-        }
-           
-        .cantons {
-            stroke: #000; //#fff;
-            stroke-width: 1;
-        }
+	       fill: lightblue;
+	       stroke: #000; //#fff;
+           stroke-width: 0.75;
+	   }
+
+div.tooltip{
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    font: 12px sans-serif;
+    color: #ffffff;
+    background: #000000;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
