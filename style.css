@@ -1,0 +1,17 @@
+
+        .municipalities {
+	       fill: green;
+	       stroke: #000; //#fff;
+           stroke-width: 0.5;
+	   }
+           
+        .lakes {
+            fill: lightblue;
+            stroke: #000; //#fff;
+            stroke-width: 0.5;
+        }
+           
+        .cantons {
+            stroke: #000; //#fff;
+            stroke-width: 1;
+        }
