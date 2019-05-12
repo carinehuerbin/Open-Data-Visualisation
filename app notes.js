@@ -2,20 +2,22 @@
 function drawMap() {
     
         var dataset;
-
+    
+        // define map size
         var width = 960,
             height = 500;
 
         var svg = d3.select("body").append("svg")
             .attr("width", width)
             .attr("height", height);
-    
+
 
         //load data files
-        d3.queue()
-            .defer(d3.json, "ch_withoutmunic.json")
-            .defer(d3.json, "G_Klassen_ger.json")
-            .await(ready)
+            d3.queue()
+                .defer(d3.json, "ch_withoutmunic.json")
+                .defer(d3.csv, "G_Klassen_ger.csv")
+                .defer(d3.csv, "Solarenergiepotenziale_Gemeinden_used_only.csv")
+                .await(ready)
 
 
     function ready (error, data){
@@ -23,18 +25,10 @@ function drawMap() {
         if(error){console.log("Error: "+ error)};
 
         dataset = data;
-
+        
+        
+        // define data variables
         var Gemeinden = topojson.feature(data, data.objects.municipalities).features;
-  
-     // evtl. nicht benötigt   Gemeinden.forEach(function (name){
-     /*   G_Klassen_ger.some(function (csvrow){
-        if(name == csvrow.MunicipalityNumber) {
-            municipalities.properties.data2 = csvrow; 
-            return true;           
-                }    
-            });    
-        });
-        */ 
         
         var Seen = topojson.feature(data, data.objects.lakes).features;   
         
@@ -44,16 +38,68 @@ function drawMap() {
         var path = d3.geoPath()
             .projection(null);
         
-        
+        // define tooltip as div
         div =
             d3.select("body").append("div")
-            .attr("class", "tooltip") // ergänzen id = tooltip
-            //.attr("class", "donutChart", id="donutChart")
-            .style("opacity", 0);
+            .attr("class", "tooltip", id="tooltip")
+            .style("opacity", 0); 
        
-        // hier Variablen zu donutChart einfüllen       
-
+        // define donutChart as div which should go inside the tooltip
+        divdonutChart =
+            d3.select("tooltip").append("div")
+            .attr("class", "chart", id="donutChart")
+            .style("opacity", 0);
         
+        
+        
+        // load data and variables for donut Chart here
+        // margin
+        var margin = {top: 20, right: 20, bottom: 20, left: 20},
+            width = 500 - margin.right - margin.left,
+            height = 500 - margin.top - margin.bottom,
+            radius = width/2;
+
+        // color range
+        var color = d3.scaleOrdinal()
+            .range(["#BBDEFB", "#90CAF9", "#64B5F6", "#42A5F5", "#2196F3", "#1E88E5", "#1976D2"]);
+
+
+        // donut chart arc
+        var arc2 = d3.arc()
+            .outerRadius(radius - 10)
+            .innerRadius(radius - 70);
+
+        // arc for the labels position
+        var labelArc = d3.arc()
+            .outerRadius(radius - 40)
+            .innerRadius(radius - 40);
+
+        // generate pie chart and donut chart
+        var pie = d3.pie()
+            .sort(null)
+            .value(function(d) { return d; });
+        
+        var donutChart = pie("G_Klassen_ger.csv")
+        
+        var svgDonutChart = d3.select("donutChart")
+            .append("svg")
+            .attr("width", 50)
+            .attr("height", 50);
+        
+        d3.select("svgDonutChart")
+            .append("g")
+            .attr("transform", "translate(250,250)")
+            .selectAll("path")
+            .data(pie)
+            .enter()
+            .append("path")
+            .attr("d", arc2)
+            .style("fill", (d,i) => fillScale (i))
+            .style("stroke", "black")
+            .style("stroke-width", "2px");
+        
+        
+        // highlight municipalities...
         svg.append("g")
             .attr("class", "municipalities")
             .selectAll("path")
@@ -63,8 +109,7 @@ function drawMap() {
             .style("fill", "WhiteSmoke")   
             .style('stroke-width', '0.5')
         
-        
-        
+        // ...when moving the mouse
         .on("mouseover", function (d) {
             d3.select(this)
             .style("fill", "Orange")
@@ -72,51 +117,35 @@ function drawMap() {
             .style('stroke-width', function (d) {
             return '1';
           });
-            
-           // evtl. nicht benötigt /* bei Mouseover kommt eine Funktion rein mit der Anweisung, welche Daten mit dem Donut Chart angezeigt werden sollen: 
-          /*  .on("click", function (d) {
-            d3.select('#donutChart').select(d.properties.data); 
-            */ 
-            
-            
+           
+        // define transition for mouseover  
         div.transition()
             .duration(200)
             .style("opacity", 0.9);
        
-            
-            // hier drunter im Tooltip den Donut Chart reinladen / verknüpfen via ID oder Gemeindename
+        // load tooltip
         div
-            .html("<strong>" + d.properties.name + "</strong>")
+            .html("<strong>" + d.properties.name + "</strong>" + " " + "#donutChart") // here the donutChart should be added (but adds only text?)
             .style("left", (d3.event.pageX) + "px")
             .style("top", (d3.event.pageY-28) + "px");
-            
-            // append svg: d als data
-            /* svg.append(data)
-                .attr("class", "Einfamhaus")
-                .selectAll("path")
-                .data(Einfamhaus)
-                .enter().append("path")
-                // donut styling here
-                
-                 /* hier das ganze Donut Chart zeug reinkopieren */
-            
             })
         
+        // define mouseout function
         .on("mouseout", function (d) {
             d3.select(this)
               .style("fill", "WhiteSmoke")
               .style('stroke', "#000")
               .style('stroke-width', '0.5');
             
-            
+        // define transition for mouseout   
         div.transition()
             .duration(500)
             .style("opacity", 0.9);
         })
-	  
 		      .attr("d", path);
-
+   
         
+        // highlight cantons lines
         svg.append("g")
             .attr("class", "cantons")
             .selectAll("path")
@@ -128,8 +157,9 @@ function drawMap() {
             .style('stroke-width', '1')
         
             .attr("d", path);
-            
         
+            
+        // color and style the lakes
         svg.append("g")
             .attr("class", "lakes")
             .selectAll("path")
@@ -141,9 +171,7 @@ function drawMap() {
     
             .attr("d", path);
          
-        
-
-        
-        
-}
+ 
+    
+    }     
 };

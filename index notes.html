@@ -4,8 +4,14 @@
 <head>
 	<meta charset="utf-8">
 	<title>Solarstrompotenziale der Schweizer Gemeinden </title>
+    
+   <!-- Eigenes CSS Stylesheet verlinken -->
     <link rel="stylesheet" href="style.css" type="text/css">
-          
+    
+    <!-- Einbinden des CSS Teils von Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        
+    <!-- Einbinden von D3.js und weitere online -->
         <script src="d3.js" charset="utf-8"></script>
         <script src="d3.min.js" charset="utf-8"></script>
 		<script src="https://d3js.org/d3-array.v1.min.js"></script>
@@ -16,10 +22,106 @@
 		<script src="https://d3js.org/d3-request.v1.min.js"></script>
 		<script src="http://d3js.org/topojson.v1.min.js"></script>
         <script src="https://d3js.org/d3.v4.min.js"></script>
+    
+    <!-- Einbinden von JQuery und Popper.js -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <!-- Einbinden von Bootstrap -->             
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    
+    <!-- Einbinden der eigenen App -->
         <script src="app notes.js"></script>
-</head>
-    <body onload="drawMap()">
-        <svg></svg> 
+    </head>
+    
+    <body>         
+        <div class="jumbotron text-center" style="margin-bottom: 0" style="padding-bottom: 30"> 
+            
+        <div class="container">
+        <h1 class="font-weight-normal">Solarenergiepotenziale der Schweizer Gemeinden <br> – Fokus Strom </h1>
+        <p class="font-weight-lighter"> Übung Open Data, Universität Bern </p> </div>
+        <nav class="navbar navbar-expand-sm bg-light navbar-light sticky-top">
+          <a class="navbar-brand" href="#home">Home</a>
+          <button class="navbar-toggler" type="button" data-toggle="tab" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            
+          <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="nav nav-tabs" role="tablist">
+              <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#bedienungsanleitung">Bedienungsanleitung</a>
+              </li>
+                <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#interpretation">Interpretation</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#dokumentation">Dokumentation</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#quellen">Quellen</a>
+              </li>    
+            </ul>
+          </div>  
+        </nav>
+
+    <div class="tab-content">
+    <!-- content of the different tabs comes here, breaks einfügen!-->
+      <div id="home" class="container tab-pane active"> 
+        <!--- draw the map here -->  
+        <script> drawMap();</script>
+        </div>
+    <div id="bedienungsanleitung" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter">Bedienungsanleitung</h3>
+      <p> > Grundlagen Karte der Schweizer Gemeinden => Karte könnte noch ein wenig grösser sein im Verhältnis zum Rest der Seite!
+          > Mouseover PieChart?
+          > Visualisierung des Solarenergiepotentials durch Farbastufungen
+          > Auswahl der Szenarien via interaktive Legende
+        </p>
+    </div>
+    <div id="interpretation" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter">Interpretation</h3>
+      <p> > folgt an dieser Stelle, wenn Visualisierung inhaltlich abgeschlossen ist
+                >	Gebäudeklassen Interpretation?
+        >	Durch die Zusammenfassung einiger Gebäudeklassen unter „übrige“ (die Klasse „übrige“ schon in den Originaldaten vorhanden, aber so vergrössert) könnte die Aussagekraft der Gebäudeklassen sinken. Diese sind aber auch nicht Fokus der App und sollen nur als Ergänzung dienen.
+        >	Wichtig zu beachten (Quelle Bericht sonnendach.ch): 
+        Im berechneten Potential sind die bereits gebauten Solaranlagen mit einberechnet. Das heisst, das bestehende Potential wird zum Teil bereits genutzt. Allerdings ist das bestehende Potential immer noch sehr gross und noch lange nicht vollständig ausgeschöpft. 
+        >	Die wichtigsten Erkenntnisse aus der Visualisierung hier schildern
+        >	Bezug auf Frage von Nico: Berggemeinden?
+</p>
+    </div>
+    <div id="dokumentation" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter">Dokumentation</h3>
+      <p>
+        > Viele Entscheidungen
+          Die App visualisiert verschiedene Szenarien des Solarenergiepotentials in den Schweizer Gemeinden. Zu Beginn mussten wir und mit den Solardaten und einem Bericht über die verschiedenen Szenarien des Solarpotentials vertraut machen. Die Daten dazu stammen von unserem Data Coach Nico Rohrbach vom Bundesamt für Energie (BFE); sie sind ausserdem verfügbar auf www.opendata.swiss. Aufbereitung und Umwandlung (csv/json) durch uns für die Bearbeitung mit D3.js
+            Zusätzlich zur Visualisierung mittels Farbabstufungen wollten wir auch vorhandene Daten zu den erhobenen Gebäudeklassen in die App einbeziehen. Dazu haben wir eine Statistik über die in Zusammenhang mit dem Solarpotential erhobenen Gebäudeklassen in die Visualisierung einbezogen. Aus Gründen der Übersichtlichkeit haben wir entschieden, nicht alle Gebäudeklassen in die zu den Gemeinden gehörigen Kreisdiagramme einfliessen zu lassen. Daher haben wir die Einfamilien- und Mehrfamilien-Wohnhäuser sowie gewerbliche Gebäude in den Kreisdiagrammen separat abgebildet und die vielen weiteren Gebäudeklassen aus dem Sonnendach.ch-Bericht unter der Kategorie „übrige“ zusammengefasst.
+            Dokumentation Donut Chart: Genauigkeit plus/minus 1 Prozent als Kompromiss wegen Leserlichkeit
+            Szenarien: 4 ausgewählt wegen Umfang und Vergleichbarkeit > alle vier mit Strom > gleichzeitig Fokus gesetzt für die App
+
+        </p>
+    </div>
+    <div id="quellen" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter"> Quellen</h3>
+      <p> > Die Daten sind verfügbar unter: opendata.swiss (genauen Link angeben)
+          > stammen vom Bundesamt für Energie BFE
+          
+          > Kontakt Autorinnen: 
+          Suvetha Somasundram, suvetha.somasundram@students.unibe.ch
+          Carine Hürbin, carine.huerbin@students.unibe.ch
+          
+          Entstanden im Rahmen der Übung Open Data der Forschungsstelle Digitale Nachhaltigkeit, Universität Bern, im Frühlingssemester 2019.
         
+        </p>
+    </div>
+        
+  </div>
+</div>
+
+    <!-- some information at the bottom of the page here -->
+        <div class="jumbotron text-center" style="margin-bottom: 0">
+        <p>Creative Commons Namensnennung 4.0 International Lizenz</p>
+        <p> Suvetha Somasundram und Carine Hürbin, Universität Bern - Frühlingssemester 2019 </p>
+        </div>
+        <svg></svg> 
+
     </body>
 </html>
