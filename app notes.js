@@ -4,8 +4,8 @@ function drawMap() {
         var dataset;
     
         // define map size
-        var width = 960,
-            height = 500;
+        var width = 1200,
+            height = 600;
 
         var svg = d3.select("body").append("svg")
             .attr("width", width)
@@ -79,7 +79,7 @@ function drawMap() {
             .sort(null)
             .value(function(d) { return d; });
         
-        var donutChart = pie("G_Klassen_ger.csv")
+        var donutChart = pie(data)
         
         var svgDonutChart = d3.select("donutChart")
             .append("svg")
