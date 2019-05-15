@@ -1,0 +1,2224 @@
+MunicipalityNumber,MunicipalityName,Canton,Country,Scenario1,Scenario2,Scenario3,Scenario4
+1,Aeugst am Albis,Zürich,CH,13.43,8.7,18.06,13.33
+2,Affoltern am Albis,Zürich,CH,50.06,33.83,69.25,53.02
+3,Bonstetten,Zürich,CH,19.66,11.48,26.72,18.54
+4,Hausen am Albis,Zürich,CH,23.67,15.7,32.61,24.64
+5,Hedingen,Zürich,CH,19.14,11.97,25.68,18.51
+6,Kappel am Albis,Zürich,CH,9.47,6.5,12.45,9.48
+7,Knonau,Zürich,CH,13.18,9.13,17.83,13.78
+8,Maschwanden,Zürich,CH,6.12,4.12,7.94,5.94
+9,Mettmenstetten,Zürich,CH,30.41,21.05,41.17,31.81
+10,Obfelden,Zürich,CH,24.82,14.98,34.26,24.42
+11,Ottenbach,Zürich,CH,15.96,9.71,21.53,15.28
+12,Rifferswil,Zürich,CH,9.55,6.96,12.52,9.93
+13,Stallikon,Zürich,CH,16.73,9.13,22.02,14.42
+14,Wettswil am Albis,Zürich,CH,19.45,11.22,26.06,17.83
+21,Adlikon,Zürich,CH,7.06,4.88,9.21,7.03
+22,Benken (ZH),Zürich,CH,8.9,5.98,11.1,8.18
+23,Berg am Irchel,Zürich,CH,6.1,3.88,7.67,5.45
+24,Buch am Irchel,Zürich,CH,9.65,6.65,12.4,9.4
+25,Dachsen,Zürich,CH,10.66,5.98,13.98,9.3
+26,Dorf,Zürich,CH,5.12,3.2,6.72,4.8
+27,Feuerthalen,Zürich,CH,15.51,9.15,21.41,15.05
+28,Flaach,Zürich,CH,12.91,8.38,16.39,11.86
+29,Flurlingen,Zürich,CH,8.85,5.26,10.93,7.34
+30,Andelfingen,Zürich,CH,16.54,10.81,21.11,15.38
+31,Henggart,Zürich,CH,10.54,5.95,14.29,9.7
+32,Humlikon,Zürich,CH,4.04,2.48,5.21,3.65
+33,Kleinandelfingen,Zürich,CH,16.5,9.94,22.32,15.76
+34,Laufen-Uhwiesen,Zürich,CH,11.35,6.21,15.04,9.9
+35,Marthalen,Zürich,CH,22.02,14.08,28.09,20.15
+37,Ossingen,Zürich,CH,16.18,11.48,20.53,15.83
+38,Rheinau,Zürich,CH,12.05,7.24,15.9,11.09
+39,Thalheim an der Thur,Zürich,CH,8.94,6.09,11.52,8.67
+40,Trüllikon,Zürich,CH,11.37,7.58,14.6,10.81
+41,Truttikon,Zürich,CH,4.98,3.43,6.77,5.22
+43,Volken,Zürich,CH,3.3,2.21,4.26,3.17
+51,Bachenbülach,Zürich,CH,20.79,14.81,26.29,20.31
+52,Bassersdorf,Zürich,CH,37.67,23.68,53.39,39.4
+53,Bülach,Zürich,CH,70.63,49.49,94.33,73.19
+54,Dietlikon,Zürich,CH,38.14,27.49,49.78,39.13
+55,Eglisau,Zürich,CH,23.49,14.83,31.3,22.64
+56,Embrach,Zürich,CH,45.23,32.3,57.34,44.41
+57,Freienstein-Teufen,Zürich,CH,11.57,6.25,15.91,10.59
+58,Glattfelden,Zürich,CH,21.15,12.18,28.69,19.72
+59,Hochfelden,Zürich,CH,9.85,6.51,12.63,9.29
+60,Höri,Zürich,CH,14.91,10.64,19.6,15.33
+61,Hüntwangen,Zürich,CH,8.3,5.11,10.97,7.78
+62,Kloten,Zürich,CH,113.84,92.26,141.9,120.32
+63,Lufingen,Zürich,CH,9.88,6.04,13.15,9.31
+64,Nürensdorf,Zürich,CH,30.35,19.62,40.3,29.57
+65,Oberembrach,Zürich,CH,10.21,6.95,13.3,10.04
+66,Opfikon,Zürich,CH,50.91,35.27,71.46,55.82
+67,Rafz,Zürich,CH,29.73,20.66,38.62,29.55
+68,Rorbas,Zürich,CH,10.02,5.56,13.38,8.92
+69,Wallisellen,Zürich,CH,61.57,40.12,82.58,61.13
+70,Wasterkingen,Zürich,CH,3.98,2.37,4.99,3.38
+71,Wil (ZH),Zürich,CH,13.59,9.05,17.67,13.13
+72,Winkel,Zürich,CH,19.91,12.64,26.24,18.97
+81,Bachs,Zürich,CH,6.92,4.81,8.76,6.65
+82,Boppelsen,Zürich,CH,8.46,5.16,10.89,7.59
+83,Buchs (ZH),Zürich,CH,33.08,25.05,43.47,35.44
+84,Dällikon,Zürich,CH,24.21,18.91,31.25,25.95
+85,Dänikon,Zürich,CH,7.52,4.54,10.05,7.07
+86,Dielsdorf,Zürich,CH,33.18,23.68,43.44,33.94
+87,Hüttikon,Zürich,CH,3.74,2.23,4.96,3.45
+88,Neerach,Zürich,CH,16.6,9.4,21.99,14.79
+89,Niederglatt,Zürich,CH,19.21,11.77,26.14,18.7
+90,Niederhasli,Zürich,CH,39.68,27.9,52.73,40.95
+91,Niederweningen,Zürich,CH,16.29,9.67,21.67,15.05
+92,Oberglatt,Zürich,CH,23.12,15.83,31.98,24.69
+93,Oberweningen,Zürich,CH,8.46,5.18,11.49,8.21
+94,Otelfingen,Zürich,CH,29.4,23.93,35.83,30.36
+95,Regensberg,Zürich,CH,2.24,1.03,2.75,1.54
+96,Regensdorf,Zürich,CH,87.36,65.52,114.31,92.47
+97,Rümlang,Zürich,CH,48.9,38.3,62.33,51.73
+98,Schleinikon,Zürich,CH,5.81,3.86,7.59,5.64
+99,Schöfflisdorf,Zürich,CH,7.93,4.49,10.36,6.92
+100,Stadel,Zürich,CH,17.97,12.63,22.55,17.21
+101,Steinmaur,Zürich,CH,21.28,13.69,27.75,20.16
+102,Weiach,Zürich,CH,9.9,6.45,12.91,9.46
+111,Bäretswil,Zürich,CH,33.47,20.58,45.95,33.06
+112,Bubikon,Zürich,CH,43.04,28.94,58.26,44.16
+113,Dürnten,Zürich,CH,36.61,21.7,50.22,35.31
+114,Fischenthal,Zürich,CH,17.45,11.91,24.38,18.84
+115,Gossau (ZH),Zürich,CH,49.79,30.74,68.3,49.25
+116,Grüningen,Zürich,CH,22.26,14.66,29.92,22.32
+117,Hinwil,Zürich,CH,84.82,60.04,109.86,85.08
+118,Rüti (ZH),Zürich,CH,48.81,30.2,67.97,49.36
+119,Seegräben,Zürich,CH,8.71,5.38,11.51,8.18
+120,Wald (ZH),Zürich,CH,53.58,34.77,74.53,55.72
+121,Wetzikon (ZH),Zürich,CH,94.35,61.03,132.66,99.34
+131,Adliswil,Zürich,CH,46.76,28.6,67.34,49.18
+135,Kilchberg (ZH),Zürich,CH,24.25,12.04,32.85,20.64
+136,Langnau am Albis,Zürich,CH,24.14,14.03,33.07,22.96
+137,Oberrieden,Zürich,CH,13.7,6.46,18.61,11.37
+138,Richterswil,Zürich,CH,41.77,24.57,58.58,41.38
+139,Rüschlikon,Zürich,CH,19.38,9.94,25.85,16.41
+141,Thalwil,Zürich,CH,41.82,21.72,58.03,37.93
+151,Erlenbach (ZH),Zürich,CH,19.9,9.59,27.47,17.16
+152,Herrliberg,Zürich,CH,27.71,14.02,38.91,25.22
+153,Hombrechtikon,Zürich,CH,40.46,23.93,55.6,39.07
+154,Küsnacht (ZH),Zürich,CH,53.75,27.13,74.06,47.44
+155,Männedorf,Zürich,CH,32.3,18.14,47.2,33.04
+156,Meilen,Zürich,CH,48.98,29,68.36,48.38
+157,Oetwil am See,Zürich,CH,24.1,14.82,32.33,23.05
+158,Stäfa,Zürich,CH,49.49,28.86,68.31,47.68
+159,Uetikon am See,Zürich,CH,23.46,12.7,32.49,21.73
+160,Zumikon,Zürich,CH,22.75,11.62,31.37,20.24
+161,Zollikon,Zürich,CH,38.29,18.22,53.08,33.01
+172,Fehraltorf,Zürich,CH,34.51,24.63,45.77,35.89
+173,Hittnau,Zürich,CH,22.99,13.96,29.93,20.9
+176,Lindau,Zürich,CH,31.7,21.57,42.56,32.43
+177,Pfäffikon,Zürich,CH,55.28,34.29,75.13,54.14
+178,Russikon,Zürich,CH,27.32,17.71,36.66,27.05
+180,Weisslingen,Zürich,CH,20.77,12.55,27.07,18.85
+181,Wila,Zürich,CH,13.74,8.31,18.09,12.66
+182,Wildberg,Zürich,CH,10.17,6.11,13.48,9.42
+191,Dübendorf,Zürich,CH,91.84,58.68,126.58,93.42
+192,Egg,Zürich,CH,39.34,24.15,52.99,37.8
+193,Fällanden,Zürich,CH,28.18,17.21,38.37,27.4
+194,Greifensee,Zürich,CH,13.45,8.21,18.19,12.95
+195,Maur,Zürich,CH,41.12,23.18,54.29,36.35
+196,Mönchaltorf,Zürich,CH,21.31,14.96,28.39,22.04
+197,Schwerzenbach,Zürich,CH,18.4,12.5,24.85,18.95
+198,Uster,Zürich,CH,121.41,76.52,169.68,124.79
+199,Volketswil,Zürich,CH,81.94,58.18,107.04,83.28
+200,Wangen-Brüttisellen,Zürich,CH,37.66,26.08,48.71,37.13
+211,Altikon,Zürich,CH,8.9,6.6,11.56,9.26
+213,Brütten,Zürich,CH,13.87,9,18.27,13.4
+214,Dägerlen,Zürich,CH,9.12,5.19,11.84,7.91
+215,Dättlikon,Zürich,CH,4.58,2.37,6.29,4.08
+216,Dinhard,Zürich,CH,12.22,7.18,15.94,10.9
+218,Ellikon an der Thur,Zürich,CH,17.58,14.76,20.4,17.58
+219,Elsau,Zürich,CH,20.23,12.05,27.46,19.28
+220,Hagenbuch,Zürich,CH,9.24,5.11,12.44,8.31
+221,Hettlingen,Zürich,CH,15.93,8.46,21.65,14.18
+223,Neftenbach,Zürich,CH,37.25,25.26,48.77,36.78
+224,Pfungen,Zürich,CH,19.83,13.73,25.88,19.78
+225,Rickenbach (ZH),Zürich,CH,16.64,10.33,22.29,15.98
+226,Schlatt (ZH),Zürich,CH,6.73,4.12,8.84,6.23
+227,Seuzach,Zürich,CH,31.5,17.49,43.25,29.24
+228,Turbenthal,Zürich,CH,26.21,14.98,35.65,24.42
+230,Winterthur,Zürich,CH,356.4,227.59,485.22,356.41
+231,Zell (ZH),Zürich,CH,26.65,16.74,36.47,26.56
+241,Aesch (ZH),Zürich,CH,9.01,5.33,11.49,7.81
+242,Birmensdorf (ZH),Zürich,CH,28.94,17.39,39.27,27.72
+243,Dietikon,Zürich,CH,84.98,59.44,113.84,88.3
+244,Geroldswil,Zürich,CH,15.1,9.45,21.46,15.81
+245,Oberengstringen,Zürich,CH,15.29,8.98,23.08,16.77
+246,Oetwil an der Limmat,Zürich,CH,8.13,4.06,11.68,7.61
+247,Schlieren,Zürich,CH,66.06,50.72,82.58,67.24
+248,Uitikon,Zürich,CH,18.72,10.43,25.48,17.19
+249,Unterengstringen,Zürich,CH,14.27,9.02,19.4,14.15
+250,Urdorf,Zürich,CH,38.56,26.34,47.95,35.73
+251,Weiningen (ZH),Zürich,CH,17.49,11.16,23.87,17.54
+261,Zürich,Zürich,CH,865.54,512.11,1215.29,861.86
+292,Stammheim,Zürich,CH,34.51,23.12,43.51,32.12
+293,Wädenswil,Zürich,CH,96.35,62.49,134.07,100.21
+294,Elgg,Zürich,CH,35.43,23.95,45.37,33.89
+295,Horgen,Zürich,CH,72.49,40.53,101.42,69.46
+296,Illnau-Effretikon,Zürich,CH,73.85,47.48,99.48,73.11
+297,Bauma,Zürich,CH,32.51,17.33,43.12,27.94
+298,Wiesendangen,Zürich,CH,38.77,23.39,51.41,36.03
+301,Aarberg,Bern,CH,35.55,25.65,45.03,35.13
+302,Bargen (BE),Bern,CH,12.36,9.2,15.75,12.59
+303,Grossaffoltern,Bern,CH,31.47,22.21,40.54,31.28
+304,Kallnach,Bern,CH,30.26,22.55,37.76,30.05
+305,Kappelen,Bern,CH,18.28,13.38,23.26,18.36
+306,Lyss,Bern,CH,88.8,64.03,114.44,89.67
+307,Meikirch,Bern,CH,19.87,13.06,26.43,19.62
+309,Radelfingen,Bern,CH,16.06,11,20.73,15.67
+310,Rapperswil (BE),Bern,CH,35.7,26.43,44.56,35.29
+311,Schüpfen,Bern,CH,34.87,24.96,44.27,34.36
+312,Seedorf (BE),Bern,CH,34.39,24.31,43.8,33.72
+321,Aarwangen,Bern,CH,28.96,18.25,38.1,27.39
+322,Auswil,Bern,CH,6.54,4.44,8.05,5.95
+323,Bannwil,Bern,CH,7.81,5.49,9.9,7.58
+324,Bleienbach,Bern,CH,9.95,7.36,12.33,9.74
+325,Busswil bei Melchnau,Bern,CH,2.92,2.04,3.82,2.94
+326,Gondiswil,Bern,CH,10.87,7.06,13.75,9.94
+329,Langenthal,Bern,CH,99.91,68.99,128.64,97.72
+331,Lotzwil,Bern,CH,19.2,13.35,25.47,19.62
+332,Madiswil,Bern,CH,35.77,24.4,46.36,34.99
+333,Melchnau,Bern,CH,16.02,10.62,20.83,15.43
+334,Obersteckholz,Bern,CH,5.31,3.57,6.83,5.09
+335,Oeschenbach,Bern,CH,3.86,2.49,4.74,3.37
+336,Reisiswil,Bern,CH,2.09,1.3,2.75,1.96
+337,Roggwil (BE),Bern,CH,32.99,22.6,41.92,31.53
+338,Rohrbach,Bern,CH,14.69,9.82,18.08,13.21
+339,Rohrbachgraben,Bern,CH,5.8,3.85,7.22,5.27
+340,Rütschelen,Bern,CH,5.66,3.77,7.32,5.43
+341,Schwarzhäusern,Bern,CH,5.14,3.43,6.69,4.98
+342,Thunstetten,Bern,CH,33.48,25.64,42.74,34.9
+344,Ursenbach,Bern,CH,10.82,6.93,13.69,9.8
+345,Wynau,Bern,CH,12.04,7.62,16.04,11.62
+351,Bern,Bern,CH,436.35,333.61,592.33,489.59
+352,Bolligen,Bern,CH,33.63,23.34,43.87,33.58
+353,Bremgarten bei Bern,Bern,CH,17.08,9.63,24.33,16.88
+354,Kirchlindach,Bern,CH,23.43,16.46,31.5,24.53
+355,Köniz,Bern,CH,169.35,111.43,232.49,174.57
+356,Muri bei Bern,Bern,CH,55.64,35.58,70.19,50.13
+357,Oberbalm,Bern,CH,12.26,8.61,16.59,12.94
+358,Stettlen,Bern,CH,17.18,11.79,21.62,16.23
+359,Vechigen,Bern,CH,38.87,26.12,51.78,39.03
+360,Wohlen bei Bern,Bern,CH,60.57,41.35,82.19,62.97
+361,Zollikofen,Bern,CH,44.3,29.98,64.69,50.37
+362,Ittigen,Bern,CH,44.18,31.02,61.78,48.62
+363,Ostermundigen,Bern,CH,50.97,35.25,69.42,53.7
+371,Biel/Bienne,Bern,CH,192.35,128.94,253.33,189.92
+372,Evilard,Bern,CH,14.3,7.94,19.38,13.02
+381,Arch,Bern,CH,12.25,7.68,15.7,11.13
+382,Büetigen,Bern,CH,9.01,6.48,11.03,8.5
+383,Büren an der Aare,Bern,CH,27.78,19.28,34.86,26.36
+385,Diessbach bei Büren,Bern,CH,11.84,8.41,14.54,11.11
+386,Dotzigen,Bern,CH,12.78,8.81,16.54,12.57
+387,Lengnau (BE),Bern,CH,27.13,16.13,37.04,26.04
+388,Leuzigen,Bern,CH,13.7,9.24,17.24,12.78
+389,Meienried,Bern,CH,1.02,0.74,1.32,1.04
+390,Meinisberg,Bern,CH,10.95,7.09,14.01,10.15
+391,Oberwil bei Büren,Bern,CH,9.74,7,12.4,9.66
+392,Pieterlen,Bern,CH,23.4,15.28,31.27,23.15
+393,Rüti bei Büren,Bern,CH,10.8,7.79,13.32,10.31
+394,Wengi,Bern,CH,9.39,6.9,12,9.51
+401,Aefligen,Bern,CH,9.68,6.17,12.32,8.81
+402,Alchenstorf,Bern,CH,7.57,5.56,9.66,7.65
+403,Bäriswil,Bern,CH,6.57,3.79,8.57,5.79
+404,Burgdorf,Bern,CH,101.21,72.49,126.46,97.74
+405,Ersigen,Bern,CH,22.8,15.86,28.41,21.47
+406,Hasle bei Burgdorf,Bern,CH,31.05,21.19,42.62,32.76
+407,Heimiswil,Bern,CH,20.04,13.37,29.55,22.88
+408,Hellsau,Bern,CH,2.35,1.71,2.9,2.26
+409,Hindelbank,Bern,CH,17.75,11.72,22.62,16.59
+410,Höchstetten,Bern,CH,3.84,2.8,4.71,3.67
+411,Kernenried,Bern,CH,5.72,4.02,7.16,5.46
+412,Kirchberg (BE),Bern,CH,40.3,27.31,50.55,37.56
+413,Koppigen,Bern,CH,20.54,14.08,25.86,19.4
+414,Krauchthal,Bern,CH,19.79,12.88,25.64,18.73
+415,Lyssach,Bern,CH,21.53,17.46,25.63,21.56
+416,Mötschwil,Bern,CH,2.4,1.85,2.88,2.33
+418,Oberburg,Bern,CH,23,15.03,29.01,21.04
+420,Rüdtligen-Alchenflüh,Bern,CH,16.94,12.19,21.15,16.4
+421,Rumendingen,Bern,CH,2.6,2.15,3.12,2.67
+422,Rüti bei Lyssach,Bern,CH,1.84,1.23,2.28,1.67
+423,Willadingen,Bern,CH,2.82,2.04,3.36,2.58
+424,Wynigen,Bern,CH,23.37,14.98,32.25,23.86
+431,Corgémont,Bern,CH,16.11,11.11,21.81,16.81
+432,Cormoret,Bern,CH,5.72,4.06,7.82,6.16
+433,Cortébert,Bern,CH,7.52,5.01,9.84,7.33
+434,Courtelary,Bern,CH,14.44,10.15,19.42,15.13
+435,La Ferrière,Bern,CH,8.47,6.15,11.76,9.44
+437,Mont-Tramelan,Bern,CH,2.95,2.27,3.75,3.07
+438,Orvin,Bern,CH,12.07,7.24,15.49,10.66
+441,Renan (BE),Bern,CH,9.12,6.06,12.5,9.44
+442,Romont (BE),Bern,CH,2.2,1.42,2.93,2.15
+443,Saint-Imier,Bern,CH,26.56,15.59,38.29,27.32
+444,Sonceboz-Sombeval,Bern,CH,14.46,9.46,19.19,14.19
+445,Sonvilier,Bern,CH,14.23,9.78,19.94,15.49
+446,Tramelan,Bern,CH,35.38,22.86,48.49,35.97
+448,Villeret,Bern,CH,8.69,5.81,11.95,9.07
+449,Sauge,Bern,CH,7.94,4.91,10.41,7.38
+450,Péry-La Heutte,Bern,CH,13.36,8.26,17.89,12.79
+491,Brüttelen,Bern,CH,9.14,6.87,11.36,9.09
+492,Erlach,Bern,CH,10.06,6.71,12.55,9.2
+493,Finsterhennen,Bern,CH,6.47,4.63,8.22,6.38
+494,Gals,Bern,CH,12.15,9.47,14.88,12.2
+495,Gampelen,Bern,CH,15.46,12.3,19.03,15.87
+496,Ins,Bern,CH,37.62,28.03,47.71,38.12
+497,Lüscherz,Bern,CH,5.34,3.52,6.69,4.87
+498,Müntschemier,Bern,CH,24.21,20.31,29.19,25.29
+499,Siselen,Bern,CH,8.08,5.49,10.24,7.65
+500,Treiten,Bern,CH,5.64,3.93,7.28,5.57
+501,Tschugg,Bern,CH,5.22,3.66,6.88,5.32
+502,Vinelz,Bern,CH,9.52,6.44,11.7,8.62
+533,Bätterkinden,Bern,CH,30.23,21.7,37.16,28.63
+535,Deisswil bei Münchenbuchsee,Bern,CH,2.56,2.07,3.11,2.62
+536,Diemerswil,Bern,CH,3.57,2.73,4.52,3.68
+538,Fraubrunnen,Bern,CH,49.77,34.53,61.9,46.66
+540,Jegenstorf,Bern,CH,34.73,21.98,44.13,31.38
+541,Iffwil,Bern,CH,5.11,3.61,6.41,4.91
+543,Mattstetten,Bern,CH,5.31,3.55,6.4,4.64
+544,Moosseedorf,Bern,CH,30.03,24.26,36.91,31.14
+546,Münchenbuchsee,Bern,CH,50.46,35.31,67.59,52.44
+551,Urtenen-Schönbühl,Bern,CH,27.86,19.16,36.9,28.2
+552,Utzenstorf,Bern,CH,43.76,32.9,53.73,42.87
+553,Wiggiswil,Bern,CH,1.82,1.33,2.1,1.61
+554,Wiler bei Utzenstorf,Bern,CH,9.43,6.77,11.93,9.27
+556,Zielebach,Bern,CH,3.36,2.33,4.22,3.19
+557,Zuzwil (BE),Bern,CH,5.75,3.92,7.45,5.62
+561,Adelboden,Bern,CH,44.07,26.18,62.62,44.73
+562,Aeschi bei Spiez,Bern,CH,24.38,16.4,32.83,24.85
+563,Frutigen,Bern,CH,65.62,44.92,88.07,67.37
+564,Kandergrund,Bern,CH,8.88,5.97,11.21,8.3
+565,Kandersteg,Bern,CH,13.64,7.14,18.2,11.7
+566,Krattigen,Bern,CH,7.62,3.87,9.94,6.19
+567,Reichenbach im Kandertal,Bern,CH,45.6,29.51,60.24,44.15
+571,Beatenberg,Bern,CH,16.74,10.31,22.71,16.28
+572,Bönigen,Bern,CH,14.56,7.58,18.11,11.13
+573,Brienz (BE),Bern,CH,33.12,20.71,43.85,31.44
+574,Brienzwiler,Bern,CH,6.35,4.19,8.29,6.13
+575,Därligen,Bern,CH,2.18,1,2.77,1.59
+576,Grindelwald,Bern,CH,65.18,44.42,90.98,70.22
+577,Gsteigwiler,Bern,CH,3.25,2.01,4.3,3.06
+578,Gündlischwand,Bern,CH,2.49,1.73,3.27,2.51
+579,Habkern,Bern,CH,14.11,11.31,18.84,16.04
+580,Hofstetten bei Brienz,Bern,CH,7.55,5.07,10.29,7.81
+581,Interlaken,Bern,CH,34.17,20.57,42.74,29.14
+582,Iseltwald,Bern,CH,4.07,2.12,4.97,3.02
+584,Lauterbrunnen,Bern,CH,30.91,17.6,43.42,30.11
+585,Leissigen,Bern,CH,5.96,2.74,7.59,4.37
+586,Lütschental,Bern,CH,2.23,1.58,3.09,2.44
+587,Matten bei Interlaken,Bern,CH,21.89,13.63,28.49,20.23
+588,Niederried bei Interlaken,Bern,CH,3.17,1.74,4.41,2.98
+589,Oberried am Brienzersee,Bern,CH,5.68,3.72,7.85,5.89
+590,Ringgenberg (BE),Bern,CH,18.36,10.35,23.57,15.56
+591,Saxeten,Bern,CH,1.89,1.36,2.53,2
+592,Schwanden bei Brienz,Bern,CH,5.99,3.75,8.2,5.96
+593,Unterseen,Bern,CH,29.98,17.16,39.04,26.22
+594,Wilderswil,Bern,CH,18.56,11.28,23.35,16.07
+602,Arni (BE),Bern,CH,12.07,8.33,15.68,11.94
+603,Biglen,Bern,CH,16.64,11.34,21.52,16.22
+605,Bowil,Bern,CH,13.8,8.67,17.43,12.3
+606,Brenzikofen,Bern,CH,4.51,2.92,5.68,4.09
+607,Freimettigen,Bern,CH,3.68,2.46,4.67,3.45
+608,Grosshöchstetten,Bern,CH,26.05,16.74,35.57,26.26
+609,Häutligen,Bern,CH,3.06,2.07,3.79,2.8
+610,Herbligen,Bern,CH,5.39,3.63,7.13,5.37
+611,Kiesen,Bern,CH,8.1,5.83,10.54,8.27
+612,Konolfingen,Bern,CH,38.16,26.75,52.17,40.76
+613,Landiswil,Bern,CH,8.93,5.97,11.35,8.39
+614,Linden,Bern,CH,15.83,10.34,20.39,14.9
+615,Mirchel,Bern,CH,5.21,3.4,6.81,5
+616,Münsingen,Bern,CH,66.11,45.41,89.48,68.78
+617,Niederhünigen,Bern,CH,4.78,2.95,6.25,4.42
+619,Oberdiessbach,Bern,CH,28.88,18.39,37.42,26.93
+620,Oberthal,Bern,CH,9.92,6.23,12.79,9.1
+622,Oppligen,Bern,CH,5.34,3.42,7.3,5.38
+623,Rubigen,Bern,CH,18.92,13.9,25.2,20.18
+626,Walkringen,Bern,CH,19.2,12.43,24.56,17.79
+627,Worb,Bern,CH,65.09,45.39,88.33,68.63
+628,Zäziwil,Bern,CH,12.5,8.26,16.54,12.3
+629,Oberhünigen,Bern,CH,3.23,2.07,4.18,3.02
+630,Allmendingen,Bern,CH,5.81,4.16,7.16,5.51
+632,Wichtrach,Bern,CH,27.27,18.13,36.22,27.08
+661,Clavaleyres,Bern,CH,0.94,0.7,1.26,1.02
+662,Ferenbalm,Bern,CH,15.9,10.52,20.2,14.82
+663,Frauenkappelen,Bern,CH,11.95,8.61,15.61,12.27
+665,Gurbrü,Bern,CH,3.89,2.79,5.07,3.97
+666,Kriechenwil,Bern,CH,5.36,3.63,7.18,5.45
+667,Laupen,Bern,CH,19.31,13.32,25.11,19.12
+668,Mühleberg,Bern,CH,38.81,28.83,50.11,40.13
+669,Münchenwiler,Bern,CH,5.56,4.11,7.07,5.62
+670,Neuenegg,Bern,CH,44.88,31.53,60.79,47.44
+671,Wileroltigen,Bern,CH,4.72,3.44,6.05,4.77
+681,Belprahon,Bern,CH,3.09,1.98,3.96,2.85
+683,Champoz,Bern,CH,2.48,1.76,3.07,2.35
+687,Corcelles (BE),Bern,CH,2.96,2.11,3.77,2.92
+690,Court,Bern,CH,13.24,8.65,16.73,12.14
+691,Crémines,Bern,CH,6.25,4.34,7.99,6.08
+692,Eschert,Bern,CH,3.25,2.1,4.2,3.05
+694,Grandval,Bern,CH,4.07,2.61,5.16,3.7
+696,Loveresse,Bern,CH,3.79,2.64,5.02,3.87
+700,Moutier,Bern,CH,37.56,22.39,48.8,33.63
+701,Perrefitte,Bern,CH,4,2.5,5.17,3.67
+703,Reconvilier,Bern,CH,18.73,12.88,23.86,18.01
+704,Roches (BE),Bern,CH,1.69,1.03,2.2,1.54
+706,Saicourt,Bern,CH,8.27,5.65,10.88,8.26
+707,Saules (BE),Bern,CH,2.08,1.41,2.63,1.96
+708,Schelten,Bern,CH,0.64,0.42,0.87,0.65
+709,Seehof,Bern,CH,1.44,1.17,1.87,1.6
+711,Sorvilier,Bern,CH,3.51,2.3,4.62,3.41
+713,Tavannes,Bern,CH,23.02,14.82,30.17,21.97
+715,Rebévelier,Bern,CH,1.17,1,1.54,1.37
+716,Petit-Val,Bern,CH,8.62,6.57,10.91,8.86
+717,Valbirse,Bern,CH,31.07,20.26,41.25,30.44
+723,La Neuveville,Bern,CH,18.03,11.01,23.02,16
+724,Nods,Bern,CH,11.13,8.07,14.53,11.47
+726,Plateau de Diesse,Bern,CH,22.26,14.86,28.92,21.52
+731,Aegerten,Bern,CH,10.85,6.41,14.26,9.82
+732,Bellmund,Bern,CH,9.28,5.64,12.32,8.68
+733,Brügg,Bern,CH,33.19,25.63,42.52,34.96
+734,Bühl,Bern,CH,5.51,4.2,7.11,5.8
+735,Epsach,Bern,CH,3.79,2.4,4.73,3.34
+736,Hagneck,Bern,CH,3.86,2.52,4.96,3.62
+737,Hermrigen,Bern,CH,3.41,2.41,4.49,3.49
+738,Jens,Bern,CH,7.02,4.51,9.1,6.59
+739,Ipsach,Bern,CH,14.56,9.13,20.11,14.68
+740,Ligerz,Bern,CH,3.44,1.82,4.34,2.72
+741,Merzligen,Bern,CH,3.8,2.39,4.91,3.5
+742,Mörigen,Bern,CH,6.76,4.13,8.45,5.82
+743,Nidau,Bern,CH,21.92,14.13,29.13,21.34
+744,Orpund,Bern,CH,14.88,9.54,20.19,14.85
+745,Port,Bern,CH,16.64,10.14,22.1,15.6
+746,Safnern,Bern,CH,15.09,9.44,19.76,14.11
+747,Scheuren,Bern,CH,4.95,3.42,6.31,4.78
+748,Schwadernau,Bern,CH,7.76,5.53,9.63,7.4
+749,Studen (BE),Bern,CH,19.61,13.78,25.13,19.3
+750,Sutz-Lattrigen,Bern,CH,10.96,7.72,13.94,10.7
+751,Täuffelen,Bern,CH,18.17,11.15,24.42,17.4
+754,Walperswil,Bern,CH,11.1,7.49,13.97,10.36
+755,Worben,Bern,CH,16.46,11.4,21.28,16.22
+756,Twann-Tüscherz,Bern,CH,8.8,5.16,11.02,7.38
+761,Därstetten,Bern,CH,15.7,12.3,20.23,16.83
+762,Diemtigen,Bern,CH,39.29,28.45,50.71,39.87
+763,Erlenbach im Simmental,Bern,CH,28.04,21.57,36.54,30.07
+766,Oberwil im Simmental,Bern,CH,21.39,17.78,28.2,24.59
+767,Reutigen,Bern,CH,8.65,5.52,10.34,7.21
+768,Spiez,Bern,CH,65.57,37.39,83.41,55.23
+769,Wimmis,Bern,CH,20.28,13.61,26.03,19.36
+770,Stocken-Höfen,Bern,CH,7.94,4.75,9.69,6.5
+782,Guttannen,Bern,CH,4.11,3.03,5.66,4.58
+783,Hasliberg,Bern,CH,27.18,19.69,37.72,30.23
+784,Innertkirchen,Bern,CH,15.8,11.32,21.02,16.54
+785,Meiringen,Bern,CH,34.82,20.81,47.2,33.19
+786,Schattenhalb,Bern,CH,5.75,3.38,7.58,5.21
+791,Boltigen,Bern,CH,29.98,23.55,39.42,32.99
+792,Lenk,Bern,CH,50.89,35.25,69.21,53.57
+793,St. Stephan,Bern,CH,24.37,17.52,32.55,25.7
+794,Zweisimmen,Bern,CH,46.3,33.87,61.06,48.63
+841,Gsteig,Bern,CH,18.2,13.65,24.75,20.2
+842,Lauenen,Bern,CH,15.14,10.6,20.94,16.4
+843,Saanen,Bern,CH,115.01,79.79,153.39,118.17
+852,Guggisberg,Bern,CH,26.32,17.84,35.55,27.07
+853,Rüschegg,Bern,CH,20.18,12.63,27.2,19.65
+855,Schwarzenburg,Bern,CH,71.67,49.56,95.99,73.88
+861,Belp,Bern,CH,61.92,43.13,77.35,58.56
+863,Burgistein,Bern,CH,11.64,7.8,15.32,11.48
+866,Gerzensee,Bern,CH,10.78,6.91,14.17,10.3
+867,Gurzelen,Bern,CH,8.32,5.58,10.81,8.07
+868,Jaberg,Bern,CH,2.66,1.91,3.44,2.69
+869,Kaufdorf,Bern,CH,6.8,4.29,8.91,6.4
+870,Kehrsatz,Bern,CH,17.03,10.76,22.66,16.39
+872,Kirchdorf (BE),Bern,CH,20,13.85,25.99,19.84
+873,Kirchenthurnen,Bern,CH,2.57,1.62,3.36,2.41
+874,Lohnstorf,Bern,CH,2.68,1.91,3.54,2.77
+876,Mühlethurnen,Bern,CH,10.03,6.46,13.39,9.82
+877,Niedermuhlern,Bern,CH,8.02,5.88,10.74,8.6
+879,Riggisberg,Bern,CH,27.35,18.72,36.24,27.61
+880,Rüeggisberg,Bern,CH,28.99,20.12,38.42,29.55
+881,Rümligen,Bern,CH,5.08,3.42,6.68,5.02
+883,Seftigen,Bern,CH,16.08,10.39,20.95,15.26
+884,Toffen,Bern,CH,17.21,11.48,21.42,15.69
+885,Uttigen,Bern,CH,14.07,9.72,18.23,13.88
+886,Wattenwil,Bern,CH,18.63,10.66,23.76,15.79
+888,Wald (BE),Bern,CH,17.29,12.46,23.11,18.28
+901,Eggiwil,Bern,CH,29.46,20.89,37.48,28.91
+902,Langnau im Emmental,Bern,CH,70.61,45.94,91.5,66.83
+903,Lauperswil,Bern,CH,31.39,21.1,39.83,29.54
+904,Röthenbach im Emmental,Bern,CH,15.47,10.2,19.59,14.32
+905,Rüderswil,Bern,CH,25.28,17.22,32,23.94
+906,Schangnau,Bern,CH,12.31,8.64,16.42,12.75
+907,Signau,Bern,CH,27.76,18.22,35.41,25.87
+908,Trub,Bern,CH,17.64,12.81,22.89,18.06
+909,Trubschachen,Bern,CH,11.23,7.05,14.37,10.19
+921,Amsoldingen,Bern,CH,5.86,3.36,7.31,4.81
+922,Blumenstein,Bern,CH,10.31,6.38,12.17,8.24
+923,Buchholterberg,Bern,CH,18.69,12.37,24.33,18.01
+924,Eriz,Bern,CH,6.19,4.11,8.41,6.33
+925,Fahrni,Bern,CH,9.07,6.03,12.11,9.07
+927,Heiligenschwendi,Bern,CH,6.12,3.44,8.42,5.74
+928,Heimberg,Bern,CH,34.45,22.89,46.31,34.75
+929,Hilterfingen,Bern,CH,16.5,7.14,23.27,13.91
+931,Homberg,Bern,CH,5.81,3.59,7.5,5.28
+932,Horrenbach-Buchen,Bern,CH,3.95,2.63,5.12,3.8
+934,Oberhofen am Thunersee,Bern,CH,12.35,5.69,16.61,9.95
+935,Oberlangenegg,Bern,CH,6.52,4.19,8.71,6.38
+936,Pohlern,Bern,CH,2.13,1.28,2.76,1.91
+937,Schwendibach,Bern,CH,1.97,1.04,2.52,1.59
+938,Sigriswil,Bern,CH,41.49,23.87,55.44,37.82
+939,Steffisburg,Bern,CH,75.2,48.95,99.94,73.69
+940,Teuffenthal (BE),Bern,CH,2.36,1.46,3.13,2.23
+941,Thierachern,Bern,CH,14.78,9.21,19.47,13.9
+942,Thun,Bern,CH,201.28,135.88,267.72,202.32
+943,Uebeschi,Bern,CH,6.68,4.39,8.67,6.38
+944,Uetendorf,Bern,CH,48.86,33.91,62.83,47.88
+945,Unterlangenegg,Bern,CH,11.21,7.09,14.57,10.45
+946,Wachseldorn,Bern,CH,3.6,2.44,4.73,3.57
+947,Zwieselberg,Bern,CH,3.48,2.57,4.27,3.36
+948,Forst-Längenbühl,Bern,CH,7.1,4.83,9.48,7.21
+951,Affoltern im Emmental,Bern,CH,16.84,11.44,21.33,15.93
+952,Dürrenroth,Bern,CH,16.64,11.46,20.56,15.38
+953,Eriswil,Bern,CH,13.76,8.44,17.44,12.12
+954,Huttwil,Bern,CH,48.33,34.53,60.54,46.74
+955,Lützelflüh,Bern,CH,43.14,28.45,59,44.31
+956,Rüegsau,Bern,CH,26.71,16.85,41.04,31.18
+957,Sumiswald,Bern,CH,56.66,38.38,72.89,54.61
+958,Trachselwald,Bern,CH,12.96,8.59,16.78,12.41
+959,Walterswil (BE),Bern,CH,8.51,5.59,10.53,7.61
+960,Wyssachen,Bern,CH,14.96,10.1,18.59,13.73
+971,Attiswil,Bern,CH,13.45,8.72,18.01,13.28
+972,Berken,Bern,CH,1.22,1,1.6,1.38
+973,Bettenhausen,Bern,CH,6.32,4.04,8.4,6.12
+975,Farnern,Bern,CH,2.89,1.93,3.91,2.95
+976,Graben,Bern,CH,3.39,2.5,4.42,3.53
+977,Heimenhausen,Bern,CH,10.48,6.94,13.77,10.23
+979,Herzogenbuchsee,Bern,CH,47,30.19,60.92,44.11
+980,Inkwil,Bern,CH,6.22,4.04,8.35,6.17
+981,Niederbipp,Bern,CH,60.31,46.41,72.83,58.93
+982,Niederönz,Bern,CH,13.67,8.84,17.66,12.83
+983,Oberbipp,Bern,CH,18.97,13.63,23.41,18.07
+985,Ochlenberg,Bern,CH,10.01,6.99,12.22,9.2
+987,Rumisberg,Bern,CH,4.91,3.1,6.63,4.82
+988,Seeberg,Bern,CH,19.18,13.2,23.98,18
+989,Thörigen,Bern,CH,10.65,7.32,13.72,10.39
+990,Walliswil bei Niederbipp,Bern,CH,2.71,1.99,3.7,2.98
+991,Walliswil bei Wangen,Bern,CH,5.92,3.83,7.68,5.59
+992,Wangen an der Aare,Bern,CH,20.75,14.87,26.62,20.74
+993,Wangenried,Bern,CH,4.12,2.41,5.48,3.77
+995,Wiedlisbach,Bern,CH,23.6,16.37,29.4,22.17
+996,Wolfisberg,Bern,CH,2.3,1.43,3,2.13
+1001,Doppleschwand,Luzern,CH,6.06,4.05,8.33,6.32
+1002,Entlebuch,Luzern,CH,34.03,21.9,45.89,33.76
+1004,Flühli,Luzern,CH,27.41,16.36,39.07,28.02
+1005,Hasle (LU),Luzern,CH,18.1,13.11,24.96,19.97
+1007,Romoos,Luzern,CH,9.63,6.55,13.12,10.04
+1008,Schüpfheim,Luzern,CH,37.34,24.82,51.89,39.37
+1009,Werthenstein,Luzern,CH,21.05,15.62,27.53,22.1
+1010,Escholzmatt-Marbach,Luzern,CH,46.76,33.11,63.37,49.72
+1021,Aesch (LU),Luzern,CH,12.87,9.77,16.44,13.34
+1022,Altwis,Luzern,CH,6.99,5.5,8.54,7.05
+1023,Ballwil,Luzern,CH,23.03,17.12,31.43,25.52
+1024,Emmen,Luzern,CH,128.2,99.41,171.7,142.91
+1025,Ermensee,Luzern,CH,9.77,7.21,12.66,10.1
+1026,Eschenbach (LU),Luzern,CH,27.53,21,37.97,31.44
+1030,Hitzkirch,Luzern,CH,48.06,35.92,62.96,50.82
+1031,Hochdorf,Luzern,CH,59.01,45.73,78.34,65.06
+1032,Hohenrain,Luzern,CH,31.9,25.28,42.86,36.24
+1033,Inwil,Luzern,CH,24.49,20,32.1,27.61
+1037,Rain,Luzern,CH,21.19,15.96,28.94,23.71
+1039,Römerswil,Luzern,CH,23.37,18.4,30.46,25.49
+1040,Rothenburg,Luzern,CH,55.59,42.65,72.98,60.04
+1041,Schongau,Luzern,CH,15.7,12.36,20.71,17.37
+1051,Adligenswil,Luzern,CH,23.75,14.89,32.59,23.73
+1052,Buchrain,Luzern,CH,25.12,16.27,35.04,26.19
+1053,Dierikon,Luzern,CH,13.02,10.82,16.09,13.89
+1054,Ebikon,Luzern,CH,47.18,31.26,64.93,49.01
+1055,Gisikon,Luzern,CH,5.28,3.45,7.12,5.29
+1056,Greppen,Luzern,CH,4.83,2.68,6.07,3.92
+1057,Honau,Luzern,CH,2.87,1.92,3.7,2.75
+1058,Horw,Luzern,CH,40.98,24.36,56.52,39.9
+1059,Kriens,Luzern,CH,78.95,51.02,111.3,83.37
+1061,Luzern,Luzern,CH,197.35,128.32,272.39,203.36
+1062,Malters,Luzern,CH,47.92,33.59,63.47,49.14
+1063,Meggen,Luzern,CH,29.71,17.99,41.49,29.77
+1064,Meierskappel,Luzern,CH,11.42,8.31,15.24,12.13
+1065,Root,Luzern,CH,36.48,29.95,46.91,40.38
+1066,Schwarzenberg,Luzern,CH,13.32,8.71,17.89,13.28
+1067,Udligenswil,Luzern,CH,14.95,10.43,20.43,15.91
+1068,Vitznau,Luzern,CH,7.91,4.81,10.69,7.59
+1069,Weggis,Luzern,CH,27.63,17.13,37.9,27.4
+1081,Beromünster,Luzern,CH,68.97,53.95,90.15,75.13
+1082,Büron,Luzern,CH,18.47,13.88,24.57,19.98
+1083,Buttisholz,Luzern,CH,34.1,27.63,44.5,38.03
+1084,Eich,Luzern,CH,12.41,8.73,16.65,12.97
+1085,Geuensee,Luzern,CH,14.16,9.78,19.87,15.49
+1086,Grosswangen,Luzern,CH,34.61,26.1,45.71,37.2
+1088,Hildisrieden,Luzern,CH,19.75,14.85,26.4,21.5
+1089,Knutwil,Luzern,CH,20.16,15.71,26.67,22.22
+1091,Mauensee,Luzern,CH,10.77,7.8,14.03,11.06
+1093,Neuenkirch,Luzern,CH,44.9,32.06,60.97,48.13
+1094,Nottwil,Luzern,CH,23.05,15.14,30.62,22.71
+1095,Oberkirch,Luzern,CH,25.42,19.27,34.19,28.04
+1097,Rickenbach (LU),Luzern,CH,27.73,20.32,36.63,29.22
+1098,Ruswil,Luzern,CH,65.56,48.35,86.46,69.25
+1099,Schenkon,Luzern,CH,18.18,13.54,24.48,19.84
+1100,Schlierbach,Luzern,CH,9.46,7.15,12.56,10.25
+1102,Sempach,Luzern,CH,24.88,16.9,32.66,24.68
+1103,Sursee,Luzern,CH,63.1,48.75,81.36,67.01
+1104,Triengen,Luzern,CH,44.57,34.06,58.71,48.2
+1107,Wolhusen,Luzern,CH,22.97,14.49,31,22.52
+1121,Alberswil,Luzern,CH,7.07,5.41,9.2,7.54
+1122,Altbüron,Luzern,CH,12.11,9.23,15.81,12.93
+1123,Altishofen,Luzern,CH,18.94,15.06,23.16,19.28
+1125,Dagmersellen,Luzern,CH,50.44,39.06,66.65,55.27
+1126,Ebersecken,Luzern,CH,8.14,6.6,10.48,8.94
+1127,Egolzwil,Luzern,CH,13.17,10.17,17.67,14.67
+1128,Ettiswil,Luzern,CH,23.56,18.43,30.87,25.74
+1129,Fischbach,Luzern,CH,9.26,7.15,11.75,9.64
+1130,Gettnau,Luzern,CH,11.96,8.82,15.34,12.2
+1131,Grossdietwil,Luzern,CH,11.51,8.75,15.04,12.28
+1132,Hergiswil bei Willisau,Luzern,CH,20.31,14.26,25.96,19.91
+1135,Luthern,Luzern,CH,18.91,14.06,23.7,18.85
+1136,Menznau,Luzern,CH,36.61,28.81,45.35,37.55
+1137,Nebikon,Luzern,CH,20.41,15.46,26.76,21.81
+1139,Pfaffnau,Luzern,CH,29,22.39,37.34,30.73
+1140,Reiden,Luzern,CH,56.78,42.41,74.17,59.8
+1142,Roggliswil,Luzern,CH,7.83,5.83,10.36,8.36
+1143,Schötz,Luzern,CH,34.09,25.19,44.58,35.68
+1145,Ufhusen,Luzern,CH,13.48,10.12,16.87,13.51
+1146,Wauwil,Luzern,CH,15.63,11.72,21.04,17.13
+1147,Wikon,Luzern,CH,17.63,13.62,21.92,17.91
+1150,Zell (LU),Luzern,CH,23.4,17.3,30.06,23.96
+1151,Willisau,Luzern,CH,63.3,47.45,82.2,66.35
+1201,Altdorf (UR),Uri,CH,40.98,25.17,54.8,38.99
+1202,Andermatt,Uri,CH,17.36,12.66,25,20.3
+1203,Attinghausen,Uri,CH,8.16,4.81,11.24,7.89
+1204,Bauen,Uri,CH,1.13,0.54,1.58,0.99
+1205,Bürglen (UR),Uri,CH,23.47,14.66,32.64,23.83
+1206,Erstfeld,Uri,CH,15.05,8.55,20.55,14.05
+1207,Flüelen,Uri,CH,7.9,4.66,10.21,6.97
+1208,Göschenen,Uri,CH,3.75,2.46,4.94,3.65
+1209,Gurtnellen,Uri,CH,5.17,3.54,7.27,5.64
+1210,Hospental,Uri,CH,4.42,3.54,5.95,5.07
+1211,Isenthal,Uri,CH,3.38,2.65,4.92,4.19
+1212,Realp,Uri,CH,4.08,3.37,6.22,5.51
+1213,Schattdorf,Uri,CH,30.61,20.95,40.19,30.53
+1214,Seedorf (UR),Uri,CH,7.17,3.71,10.01,6.55
+1215,Seelisberg,Uri,CH,6.35,4.03,9.08,6.76
+1216,Silenen,Uri,CH,10.59,6.58,14.25,10.24
+1217,Sisikon,Uri,CH,1.53,0.82,1.98,1.27
+1218,Spiringen,Uri,CH,12.1,8.84,17.56,14.3
+1219,Unterschächen,Uri,CH,8.51,6.83,12.13,10.45
+1220,Wassen,Uri,CH,4.28,2.8,5.9,4.42
+1301,Einsiedeln,Schwyz,CH,98.83,65.03,169.13,135.33
+1311,Gersau,Schwyz,CH,11.9,6.82,17.21,12.13
+1321,Feusisberg,Schwyz,CH,25.74,17.7,35.12,27.08
+1322,Freienbach,Schwyz,CH,60.84,38.89,81.5,59.55
+1323,Wollerau,Schwyz,CH,25.74,14.69,34.66,23.61
+1331,Küssnacht (SZ),Schwyz,CH,68.34,46.13,91.7,69.49
+1341,Altendorf,Schwyz,CH,33.9,23.15,45.52,34.77
+1342,Galgenen,Schwyz,CH,24.72,15.76,33.81,24.85
+1343,Innerthal,Schwyz,CH,2.34,1.43,3.36,2.45
+1344,Lachen,Schwyz,CH,27.12,16.94,36,25.82
+1345,Reichenburg,Schwyz,CH,18.63,12.12,25.46,18.95
+1346,Schübelbach,Schwyz,CH,35.64,22.48,47.76,34.6
+1347,Tuggen,Schwyz,CH,25.27,18.62,34.2,27.55
+1348,Vorderthal,Schwyz,CH,7.07,4.32,9.96,7.21
+1349,Wangen (SZ),Schwyz,CH,29.35,19.28,39.98,29.91
+1361,Alpthal,Schwyz,CH,5.35,3.14,7.68,5.47
+1362,Arth,Schwyz,CH,49.21,31.39,68.06,50.24
+1363,Illgau,Schwyz,CH,5.27,3.61,8.09,6.43
+1364,Ingenbohl,Schwyz,CH,36.89,24.84,51.04,38.99
+1365,Lauerz,Schwyz,CH,5.54,3.3,7.69,5.45
+1366,Morschach,Schwyz,CH,10.32,6.03,14.51,10.22
+1367,Muotathal,Schwyz,CH,19.91,11.43,29.81,21.33
+1368,Oberiberg,Schwyz,CH,9.95,5.65,14.89,10.59
+1369,Riemenstalden,Schwyz,CH,1.04,0.77,1.44,1.17
+1370,Rothenthurm,Schwyz,CH,19.45,13.79,28.18,22.52
+1371,Sattel,Schwyz,CH,15.54,9.94,22.49,16.89
+1372,Schwyz,Schwyz,CH,88.73,59.42,124.78,95.47
+1373,Steinen,Schwyz,CH,19.75,13.58,28.39,22.22
+1374,Steinerberg,Schwyz,CH,7.3,5.19,10.69,8.58
+1375,Unteriberg,Schwyz,CH,15.89,8.1,23.44,15.65
+1401,Alpnach,Obwalden,CH,39.09,27.58,52.56,41.05
+1402,Engelberg,Obwalden,CH,28.5,15.19,43.55,30.24
+1403,Giswil,Obwalden,CH,31.5,21.44,44.23,34.17
+1404,Kerns,Obwalden,CH,41.82,27.89,58.5,44.57
+1405,Lungern,Obwalden,CH,18.13,12.01,23.36,17.24
+1406,Sachseln,Obwalden,CH,28.24,18.27,38.37,28.4
+1407,Sarnen,Obwalden,CH,71.76,49.38,99.57,77.19
+1501,Beckenried,Nidwalden,CH,12.03,5.57,15.76,9.3
+1502,Buochs,Nidwalden,CH,22.37,13.7,29.21,20.54
+1503,Dallenwil,Nidwalden,CH,11.08,6.81,15.22,10.95
+1504,Emmetten,Nidwalden,CH,6.14,2.74,8.34,4.94
+1505,Ennetbürgen,Nidwalden,CH,22.03,13.14,31.57,22.68
+1506,Ennetmoos,Nidwalden,CH,12.82,8.58,17.53,13.29
+1507,Hergiswil (NW),Nidwalden,CH,16.2,7.58,23.04,14.42
+1508,Oberdorf (NW),Nidwalden,CH,17.68,12.39,24.12,18.83
+1509,Stans,Nidwalden,CH,39.08,26.98,52.02,39.92
+1510,Stansstad,Nidwalden,CH,14.22,8.33,19.63,13.74
+1511,Wolfenschiessen,Nidwalden,CH,11.48,8.01,16.46,12.99
+1630,Glarus Nord,Glarus,CH,109.84,72.8,144.28,107.24
+1631,Glarus Süd,Glarus,CH,86.73,52.78,122.68,88.73
+1632,Glarus,Glarus,CH,57.97,35.15,69.58,46.76
+1701,Baar,Zug,CH,100.92,74.49,138.96,112.53
+1702,Cham,Zug,CH,70.59,53.28,95.47,78.16
+1703,Hünenberg,Zug,CH,48.39,35.64,65.53,52.78
+1704,Menzingen,Zug,CH,32.51,24.49,44.4,36.38
+1705,Neuheim,Zug,CH,15.06,11.15,20.12,16.21
+1706,Oberägeri,Zug,CH,33.07,20.79,52.49,40.21
+1707,Risch,Zug,CH,48.82,37.23,67.89,56.3
+1708,Steinhausen,Zug,CH,36.81,26.83,50.54,40.56
+1709,Unterägeri,Zug,CH,37.79,23.04,54.43,39.68
+1710,Walchwil,Zug,CH,16.23,9.43,22.89,16.09
+1711,Zug,Zug,CH,88.18,61.99,121.79,95.6
+2008,Châtillon (FR),Fribourg,CH,3.32,2.05,4.39,3.12
+2009,Cheiry,Fribourg,CH,6.44,4.82,8.56,6.94
+2011,Cugy (FR),Fribourg,CH,17.9,13.8,24.31,20.21
+2016,Fétigny,Fribourg,CH,8.83,6.64,11.77,9.58
+2022,Gletterens,Fribourg,CH,9.82,6.91,12.87,9.96
+2025,Lully (FR),Fribourg,CH,9.2,6.63,12,9.43
+2027,Ménières,Fribourg,CH,6.39,5.23,8.97,7.81
+2029,Montagny (FR),Fribourg,CH,23.47,16.81,31.34,24.68
+2035,Nuvilly,Fribourg,CH,5.78,4.49,7.7,6.41
+2038,Prévondavaux,Fribourg,CH,1.11,0.81,1.58,1.28
+2041,Saint-Aubin (FR),Fribourg,CH,19.81,15.21,25.84,21.24
+2043,Sévaz,Fribourg,CH,10.02,9.14,11.92,11.04
+2044,Surpierre,Fribourg,CH,8.9,6.5,11.94,9.54
+2045,Vallon,Fribourg,CH,4.84,3.8,6.51,5.47
+2050,Les Montets,Fribourg,CH,16.4,12.11,22.07,17.78
+2051,Delley-Portalban,Fribourg,CH,11.64,7.98,15.29,11.63
+2053,Belmont-Broye,Fribourg,CH,59.07,47.03,75.11,63.07
+2054,Estavayer,Fribourg,CH,80.74,61.23,105.65,86.14
+2055,Cheyres-Châbles,Fribourg,CH,19.19,13.12,24.53,18.46
+2061,Auboranges,Fribourg,CH,3.48,2.64,4.8,3.96
+2063,Billens-Hennens,Fribourg,CH,8.19,6.28,11.04,9.13
+2066,Chapelle (Glâne),Fribourg,CH,3.05,2.09,4.13,3.17
+2067,Le Châtelard,Fribourg,CH,7.34,5.82,9.61,8.09
+2068,Châtonnaye,Fribourg,CH,8.68,6.52,11.47,9.31
+2072,Ecublens (FR),Fribourg,CH,5.92,4.78,8.03,6.89
+2079,Grangettes,Fribourg,CH,3.34,2.57,4.45,3.68
+2086,Massonnens,Fribourg,CH,6.8,5.33,9.04,7.57
+2087,Mézières (FR),Fribourg,CH,12.77,9.53,16.79,13.55
+2089,Montet (Glâne),Fribourg,CH,3.52,2.33,4.83,3.64
+2096,Romont (FR),Fribourg,CH,49.5,40.89,63.16,54.55
+2097,Rue,Fribourg,CH,18.24,13.64,24.41,19.81
+2099,Siviriez,Fribourg,CH,31.46,24.15,41.61,34.3
+2102,Ursy,Fribourg,CH,27.47,20.38,37.29,30.2
+2111,Villaz-Saint-Pierre,Fribourg,CH,12.17,8.99,16.49,13.31
+2113,Vuisternens-devant-Romont,Fribourg,CH,35.36,27.2,46.84,38.68
+2114,Villorsonnens,Fribourg,CH,20.65,15.98,27.4,22.73
+2115,Torny,Fribourg,CH,11.22,8.42,15.05,12.25
+2116,La Folliaz,Fribourg,CH,12.16,8.79,16.39,13.02
+2121,Haut-Intyamon,Fribourg,CH,20.99,15.18,28.08,22.27
+2122,Pont-en-Ogoz,Fribourg,CH,18.7,13.71,25.05,20.06
+2123,Botterens,Fribourg,CH,4.51,3.13,6.02,4.64
+2124,Broc,Fribourg,CH,15.01,11.08,20.59,16.66
+2125,Bulle,Fribourg,CH,127.95,102.37,172.5,146.92
+2128,Châtel-sur-Montsalvens,Fribourg,CH,2.75,1.8,3.97,3.02
+2129,Corbières,Fribourg,CH,9.51,7.17,11.93,9.59
+2130,Crésuz,Fribourg,CH,4.52,2.86,6.3,4.64
+2131,Echarlens,Fribourg,CH,8.02,6.22,10.79,8.99
+2134,Grandvillard,Fribourg,CH,10.5,8.24,13.11,10.85
+2135,Gruyères,Fribourg,CH,20.25,14.01,26.95,20.71
+2137,Hauteville,Fribourg,CH,7,5.08,9.45,7.53
+2138,Jaun,Fribourg,CH,11.61,9,15.49,12.88
+2140,Marsens,Fribourg,CH,17.95,13.72,24.2,19.97
+2143,Morlon,Fribourg,CH,3.94,2.63,5.68,4.37
+2145,Le Pâquier (FR),Fribourg,CH,9.81,7.01,13.01,10.21
+2147,Pont-la-Ville,Fribourg,CH,6.76,4.62,9.08,6.94
+2148,Riaz,Fribourg,CH,18.78,14,25,20.22
+2149,La Roche,Fribourg,CH,17.49,12.66,22.98,18.15
+2152,Sâles,Fribourg,CH,24.91,19.61,32.81,27.51
+2153,Sorens,Fribourg,CH,14.76,12.19,19.78,17.21
+2155,Vaulruz,Fribourg,CH,14.13,10.92,19.53,16.32
+2160,Vuadens,Fribourg,CH,26.69,21.24,34.96,29.51
+2162,Bas-Intyamon,Fribourg,CH,15.86,12.35,19.76,16.25
+2163,Val-de-Charmey,Fribourg,CH,30.68,23.11,41.57,34
+2171,Arconciel,Fribourg,CH,7.83,5.78,10.61,8.56
+2173,Autigny,Fribourg,CH,8.78,6.44,12.19,9.85
+2174,Avry,Fribourg,CH,23.11,18.82,29.38,25.09
+2175,Belfaux,Fribourg,CH,18.58,12.93,25.91,20.26
+2177,Chénens,Fribourg,CH,7.15,4.95,10.21,8.01
+2183,Corminboeuf,Fribourg,CH,19.27,14.07,25.78,20.58
+2185,Corserey,Fribourg,CH,4.89,3.68,6.61,5.4
+2186,Cottens (FR),Fribourg,CH,12.01,8.51,16.91,13.41
+2189,Ependes (FR),Fribourg,CH,10.29,7.42,13.71,10.84
+2194,Ferpicloz,Fribourg,CH,2.77,1.8,3.64,2.67
+2196,Fribourg,Fribourg,CH,105.92,72.21,151.71,118
+2197,Givisiez,Fribourg,CH,33.02,28.58,42.46,38.02
+2198,Granges-Paccot,Fribourg,CH,25.45,20.96,33.81,29.32
+2200,Grolley,Fribourg,CH,17.19,12.96,22.81,18.58
+2206,Marly,Fribourg,CH,39.95,27.34,56.1,43.49
+2208,Matran,Fribourg,CH,18.82,15.07,23.16,19.41
+2211,Neyruz (FR),Fribourg,CH,14.08,9.03,20.03,14.98
+2213,Noréaz,Fribourg,CH,8.1,6.12,10.81,8.83
+2216,Pierrafortscha,Fribourg,CH,4.25,3.64,5.17,4.56
+2217,Ponthaux,Fribourg,CH,7.06,4.93,9.33,7.2
+2220,Le Mouret,Fribourg,CH,29.48,20.36,39.55,30.43
+2221,Prez-vers-Noréaz,Fribourg,CH,9.59,6.95,13.09,10.45
+2225,Senèdes,Fribourg,CH,1.52,1.05,2.1,1.63
+2226,Treyvaux,Fribourg,CH,16.71,12.25,22.19,17.73
+2228,Villars-sur-Glâne,Fribourg,CH,46.81,33.56,68.27,55.02
+2230,Villarsel-sur-Marly,Fribourg,CH,1.49,1.23,1.92,1.66
+2233,Hauterive (FR),Fribourg,CH,24.97,19.56,33.74,28.33
+2234,La Brillaz,Fribourg,CH,15.92,11.11,22.48,17.67
+2235,La Sonnaz,Fribourg,CH,10.21,7.21,13.7,10.7
+2236,Gibloux,Fribourg,CH,66.47,48.57,89.45,71.55
+2250,Courgevaux,Fribourg,CH,8.99,6.26,12.24,9.51
+2254,Courtepin,Fribourg,CH,41.87,30.5,55.38,44.01
+2257,Cressier (FR),Fribourg,CH,9.84,7.08,12.93,10.17
+2258,Fräschels,Fribourg,CH,8.51,7.01,10.03,8.53
+2259,Galmiz,Fribourg,CH,7.81,5.8,10.16,8.15
+2260,Gempenach,Fribourg,CH,5.61,4.61,6.77,5.77
+2261,Greng,Fribourg,CH,2.03,1.44,2.57,1.98
+2262,Gurmels,Fribourg,CH,37.98,26.75,50.5,39.27
+2265,Kerzers,Fribourg,CH,50.48,40.23,62.58,52.33
+2266,Kleinbösingen,Fribourg,CH,5.14,3.57,7.03,5.46
+2271,Meyriez,Fribourg,CH,3.52,1.82,4.62,2.92
+2272,Misery-Courtion,Fribourg,CH,17.23,12.42,22.94,18.13
+2274,Muntelier,Fribourg,CH,6.76,4.68,8.72,6.64
+2275,Murten,Fribourg,CH,57.36,40.35,75.08,58.07
+2276,Ried bei Kerzers,Fribourg,CH,39.43,35.26,43.67,39.5
+2278,Ulmiz,Fribourg,CH,5.25,3.6,6.91,5.26
+2284,Mont-Vully,Fribourg,CH,41.2,30.07,52.59,41.46
+2291,Alterswil,Fribourg,CH,23.9,17.31,32.07,25.48
+2292,Brünisried,Fribourg,CH,6.5,4.14,8.93,6.57
+2293,Düdingen,Fribourg,CH,68.64,52.82,91.75,75.93
+2294,Giffers,Fribourg,CH,12.53,8.33,17.52,13.32
+2295,Bösingen,Fribourg,CH,30.63,23.24,39.88,32.49
+2296,Heitenried,Fribourg,CH,13.6,9.8,18.73,14.93
+2299,Plaffeien,Fribourg,CH,40.68,27.41,54.54,41.27
+2300,Plasselb,Fribourg,CH,10.14,6.6,13.77,10.23
+2301,Rechthalten,Fribourg,CH,12.28,8.49,16.93,13.14
+2302,St. Antoni,Fribourg,CH,23.83,17.23,32.18,25.58
+2303,St. Silvester,Fribourg,CH,9.36,6.14,12.54,9.32
+2304,St. Ursen,Fribourg,CH,19.4,15.25,25.89,21.74
+2305,Schmitten (FR),Fribourg,CH,34.99,26.79,47.54,39.34
+2306,Tafers,Fribourg,CH,25.46,18.1,35.62,28.26
+2307,Tentlingen,Fribourg,CH,10.63,7.22,14.66,11.25
+2308,Ueberstorf,Fribourg,CH,23.6,16.52,31.79,24.71
+2309,Wünnewil-Flamatt,Fribourg,CH,33.63,22.91,47.58,36.86
+2321,Attalens,Fribourg,CH,24.03,16.44,33.65,26.06
+2323,Bossonnens,Fribourg,CH,11.51,8.2,15.9,12.59
+2325,Châtel-Saint-Denis,Fribourg,CH,56.69,42.61,74.9,60.82
+2328,Granges (Veveyse),Fribourg,CH,9.53,6.9,12.81,10.18
+2333,Remaufens,Fribourg,CH,9.04,6.49,12.47,9.92
+2335,Saint-Martin (FR),Fribourg,CH,13.42,9.7,18.1,14.38
+2336,Semsales,Fribourg,CH,17.11,12.91,23.41,19.21
+2337,Le Flon,Fribourg,CH,13.04,9.41,17.7,14.07
+2338,La Verrerie,Fribourg,CH,17.8,13.85,23.95,20
+2401,Egerkingen,Solothurn,CH,29.61,21.97,37.15,29.51
+2402,Härkingen,Solothurn,CH,24.57,20.1,29.41,24.94
+2403,Kestenholz,Solothurn,CH,15.51,10.48,19.61,14.58
+2404,Neuendorf,Solothurn,CH,35.79,29.39,41.15,34.75
+2405,Niederbuchsiten,Solothurn,CH,9.43,6.27,11.99,8.83
+2406,Oberbuchsiten,Solothurn,CH,16.96,11.61,21.58,16.23
+2407,Oensingen,Solothurn,CH,47.86,36.17,61.54,49.85
+2408,Wolfwil,Solothurn,CH,19.52,12.08,25.48,18.04
+2421,Aedermannsdorf,Solothurn,CH,6.6,4.31,8.72,6.43
+2422,Balsthal,Solothurn,CH,37.21,22.53,48.08,33.4
+2423,Gänsbrunnen,Solothurn,CH,1.56,0.98,1.99,1.41
+2424,Herbetswil,Solothurn,CH,5.18,3.31,7.03,5.16
+2425,Holderbank (SO),Solothurn,CH,5.68,3.56,7.51,5.39
+2426,Laupersdorf,Solothurn,CH,14.46,9.12,19.14,13.8
+2427,Matzendorf,Solothurn,CH,13.51,8.82,17.54,12.85
+2428,Mümliswil-Ramiswil,Solothurn,CH,20.51,12.43,26.86,18.78
+2429,Welschenrohr,Solothurn,CH,9.21,5.38,12.78,8.95
+2445,Biezwil,Solothurn,CH,4.27,3.1,5.45,4.28
+2455,Lüterkofen-Ichertswil,Solothurn,CH,7.64,5.04,9.65,7.05
+2456,Lüterswil-Gächliwil,Solothurn,CH,4.46,2.94,5.74,4.22
+2457,Messen,Solothurn,CH,16.51,11.4,20.68,15.57
+2461,Schnottwil,Solothurn,CH,11,7.52,13.72,10.24
+2463,Unterramsern,Solothurn,CH,2.61,1.78,3.33,2.5
+2464,Lüsslingen-Nennigkofen,Solothurn,CH,11.96,8.5,15.34,11.88
+2465,Buchegg,Solothurn,CH,27.83,18.58,34.88,25.63
+2471,Bättwil,Solothurn,CH,8.43,5.51,10.76,7.84
+2472,Büren (SO),Solothurn,CH,6.55,3.77,8.41,5.63
+2473,Dornach,Solothurn,CH,29.49,18.19,37.72,26.42
+2474,Gempen,Solothurn,CH,7.25,4.46,9.38,6.59
+2475,Hochwald,Solothurn,CH,9.58,5.72,12.09,8.23
+2476,Hofstetten-Flüh,Solothurn,CH,17.45,9.35,22.65,14.55
+2477,Metzerlen-Mariastein,Solothurn,CH,8.62,5.26,10.81,7.45
+2478,Nuglar-St. Pantaleon,Solothurn,CH,9.65,5.24,12.45,8.04
+2479,Rodersdorf,Solothurn,CH,8.66,5.18,11.01,7.53
+2480,Seewen,Solothurn,CH,9.88,6.45,12.84,9.41
+2481,Witterswil,Solothurn,CH,9.48,6.18,12.23,8.93
+2491,Hauenstein-Ifenthal,Solothurn,CH,3.18,2.03,4.25,3.1
+2492,Kienberg,Solothurn,CH,5.8,3.95,7.29,5.44
+2493,Lostorf,Solothurn,CH,25.85,16.06,34.14,24.35
+2495,Niedergösgen,Solothurn,CH,23.1,14.96,31.13,22.99
+2497,Obergösgen,Solothurn,CH,12.11,7.9,16.46,12.25
+2498,Rohr (SO),Solothurn,CH,1.22,0.87,1.54,1.19
+2499,Stüsslingen,Solothurn,CH,9.01,6.11,11.89,8.99
+2500,Trimbach,Solothurn,CH,25.79,16.21,35.71,26.13
+2501,Winznau,Solothurn,CH,11.24,7.15,14.94,10.85
+2502,Wisen (SO),Solothurn,CH,3.75,2.31,5.11,3.67
+2503,Erlinsbach (SO),Solothurn,CH,19.67,12.04,26.13,18.5
+2511,Aeschi (SO),Solothurn,CH,9.82,5.63,12.91,8.72
+2513,Biberist,Solothurn,CH,60.93,42.33,78.61,60.01
+2514,Bolken,Solothurn,CH,4.05,2.27,5.36,3.58
+2516,Deitingen,Solothurn,CH,20.72,13.94,27.34,20.56
+2517,Derendingen,Solothurn,CH,33.58,21.33,45.26,33.01
+2518,Etziken,Solothurn,CH,8.46,5.26,10.96,7.76
+2519,Gerlafingen,Solothurn,CH,34.19,25.18,43.09,34.08
+2520,Halten,Solothurn,CH,5.87,3.38,7.88,5.39
+2523,Horriwil,Solothurn,CH,6.86,4.2,9.03,6.37
+2524,Hüniken,Solothurn,CH,1.32,0.97,1.72,1.37
+2525,Kriegstetten,Solothurn,CH,8.4,5.19,10.98,7.77
+2526,Lohn-Ammannsegg,Solothurn,CH,18.76,11.28,24.88,17.4
+2527,Luterbach,Solothurn,CH,27.42,19.87,35.52,27.97
+2528,Obergerlafingen,Solothurn,CH,10.88,7.1,13.49,9.71
+2529,Oekingen,Solothurn,CH,6.05,3.67,7.96,5.58
+2530,Recherswil,Solothurn,CH,13.35,8.28,17.02,11.95
+2532,Subingen,Solothurn,CH,23.2,15.93,30.34,23.07
+2534,Zuchwil,Solothurn,CH,46.76,34.24,61.88,49.36
+2535,Drei Höfe,Solothurn,CH,6.69,4.23,8.51,6.05
+2541,Balm bei Günsberg,Solothurn,CH,2.2,1.3,2.84,1.94
+2542,Bellach,Solothurn,CH,35.7,25.53,46.05,35.88
+2543,Bettlach,Solothurn,CH,27.28,17.11,37.02,26.85
+2544,Feldbrunnen-St. Niklaus,Solothurn,CH,4.89,2.8,6.9,4.81
+2545,Flumenthal,Solothurn,CH,7.83,5.23,10.49,7.89
+2546,Grenchen,Solothurn,CH,87.03,56.69,117.69,87.35
+2547,Günsberg,Solothurn,CH,8.55,4.7,11.89,8.04
+2548,Hubersdorf,Solothurn,CH,4.44,2.44,6.04,4.04
+2549,Kammersrohr,Solothurn,CH,0.61,0.44,0.81,0.64
+2550,Langendorf,Solothurn,CH,18.36,10.89,25.46,17.99
+2551,Lommiswil,Solothurn,CH,10.02,5.9,13.41,9.29
+2553,Oberdorf (SO),Solothurn,CH,11.62,6.86,15.84,11.08
+2554,Riedholz,Solothurn,CH,17.86,11.71,24.32,18.17
+2555,Rüttenen,Solothurn,CH,9.12,5.24,12.39,8.51
+2556,Selzach,Solothurn,CH,28.78,19.93,37.55,28.7
+2571,Boningen,Solothurn,CH,6.26,4.13,8.27,6.14
+2572,Däniken,Solothurn,CH,31.25,24.77,38.71,32.23
+2573,Dulliken,Solothurn,CH,28.18,19.47,36.21,27.5
+2574,Eppenberg-Wöschnau,Solothurn,CH,4.35,3.43,5.24,4.32
+2575,Fulenbach,Solothurn,CH,13.2,8.22,17.28,12.3
+2576,Gretzenbach,Solothurn,CH,21.16,14.93,26.43,20.2
+2578,Gunzgen,Solothurn,CH,14.03,9.55,17.97,13.49
+2579,Hägendorf,Solothurn,CH,34.16,22.8,43.92,32.56
+2580,Kappel (SO),Solothurn,CH,14.61,8.23,19.71,13.33
+2581,Olten,Solothurn,CH,73.82,53.8,97.29,77.27
+2582,Rickenbach (SO),Solothurn,CH,13.04,10.33,15.71,13
+2583,Schönenwerd,Solothurn,CH,26.26,17.08,34.6,25.42
+2584,Starrkirch-Wil,Solothurn,CH,7.33,4.04,9.67,6.38
+2585,Walterswil (SO),Solothurn,CH,7.25,4.8,9.55,7.1
+2586,Wangen bei Olten,Solothurn,CH,27.96,18.31,36.35,26.7
+2601,Solothurn,Solothurn,CH,74.94,46.47,102.18,73.71
+2611,Bärschwil,Solothurn,CH,5.96,3.32,7.88,5.24
+2612,Beinwil (SO),Solothurn,CH,4.48,3.11,5.81,4.44
+2613,Breitenbach,Solothurn,CH,22.74,15.11,29.61,21.98
+2614,Büsserach,Solothurn,CH,16.21,10.36,20.7,14.85
+2615,Erschwil,Solothurn,CH,5.33,2.83,6.77,4.27
+2616,Fehren,Solothurn,CH,3.53,1.75,4.81,3.03
+2617,Grindel,Solothurn,CH,2.88,1.47,3.7,2.29
+2618,Himmelried,Solothurn,CH,6.69,3.32,8.83,5.46
+2619,Kleinlützel,Solothurn,CH,11.47,7.32,14.64,10.49
+2620,Meltingen,Solothurn,CH,4.26,2.31,5.4,3.45
+2621,Nunningen,Solothurn,CH,13.92,7.94,18.34,12.36
+2622,Zullwil,Solothurn,CH,4.55,2.63,5.96,4.04
+2701,Basel,Basel-Stadt,CH,421.63,286.02,562.46,426.85
+2702,Bettingen,Basel-Stadt,CH,5.15,2.47,6.82,4.14
+2703,Riehen,Basel-Stadt,CH,63.57,34.59,86.82,57.84
+2761,Aesch (BL),Basel-Landschaft,CH,45.11,31.67,60.49,47.05
+2762,Allschwil,Basel-Landschaft,CH,71.42,44.34,102.69,75.61
+2763,Arlesheim,Basel-Landschaft,CH,41.89,26.25,56.95,41.31
+2764,Biel-Benken,Basel-Landschaft,CH,20.63,12.6,29.15,21.12
+2765,Binningen,Basel-Landschaft,CH,42.6,22.63,64.86,44.89
+2766,Birsfelden,Basel-Landschaft,CH,39.07,30.19,51.06,42.18
+2767,Bottmingen,Basel-Landschaft,CH,23.25,12.26,34.22,23.23
+2768,Ettingen,Basel-Landschaft,CH,20.36,11.15,28.38,19.17
+2769,Münchenstein,Basel-Landschaft,CH,66.36,46.13,88.27,68.04
+2770,Muttenz,Basel-Landschaft,CH,90.69,63.23,124.55,97.09
+2771,Oberwil (BL),Basel-Landschaft,CH,47.99,29.42,68.47,49.9
+2772,Pfeffingen,Basel-Landschaft,CH,10.14,5.26,13.55,8.67
+2773,Reinach (BL),Basel-Landschaft,CH,69.25,44.55,97.37,72.67
+2774,Schönenbuch,Basel-Landschaft,CH,8.12,4.95,11.2,8.03
+2775,Therwil,Basel-Landschaft,CH,37.66,23.64,53.89,39.87
+2781,Blauen,Basel-Landschaft,CH,5.32,2.99,7.28,4.95
+2782,Brislach,Basel-Landschaft,CH,12.77,8.42,16.69,12.34
+2783,Burg im Leimental,Basel-Landschaft,CH,1.1,0.52,1.37,0.79
+2784,Dittingen,Basel-Landschaft,CH,4.72,2.64,6.25,4.17
+2785,Duggingen,Basel-Landschaft,CH,8.7,5.16,10.98,7.44
+2786,Grellingen,Basel-Landschaft,CH,9.03,4.73,11.99,7.69
+2787,Laufen,Basel-Landschaft,CH,34.83,23.44,43.59,32.2
+2788,Liesberg,Basel-Landschaft,CH,13.62,9.63,17.37,13.38
+2789,Nenzlingen,Basel-Landschaft,CH,3.45,2.11,4.93,3.59
+2790,Roggenburg,Basel-Landschaft,CH,3.77,2.77,4.95,3.95
+2791,Röschenz,Basel-Landschaft,CH,11.04,5.92,14.67,9.55
+2792,Wahlen,Basel-Landschaft,CH,8.31,4.85,10.95,7.49
+2793,Zwingen,Basel-Landschaft,CH,17.87,12.45,23.31,17.89
+2821,Arisdorf,Basel-Landschaft,CH,12.59,7.89,15.99,11.29
+2822,Augst,Basel-Landschaft,CH,6.46,4.32,8.64,6.5
+2823,Bubendorf,Basel-Landschaft,CH,27.54,17.49,36.55,26.5
+2824,Frenkendorf,Basel-Landschaft,CH,25.83,16.27,36.35,26.79
+2825,Füllinsdorf,Basel-Landschaft,CH,27.63,19.4,35.5,27.27
+2826,Giebenach,Basel-Landschaft,CH,4.63,2.31,6.26,3.94
+2827,Hersberg,Basel-Landschaft,CH,2.04,1.07,2.79,1.82
+2828,Lausen,Basel-Landschaft,CH,21.49,12.8,29.88,21.19
+2829,Liestal,Basel-Landschaft,CH,68.66,45.4,95.81,72.55
+2830,Lupsingen,Basel-Landschaft,CH,7.1,3.42,9.75,6.07
+2831,Pratteln,Basel-Landschaft,CH,95.59,74.88,122.46,101.75
+2832,Ramlinsburg,Basel-Landschaft,CH,4.16,1.98,5.64,3.46
+2833,Seltisberg,Basel-Landschaft,CH,7.68,3.67,10.43,6.42
+2834,Ziefen,Basel-Landschaft,CH,11.34,7.25,15.1,11.01
+2841,Anwil,Basel-Landschaft,CH,5.17,3.2,6.71,4.74
+2842,Böckten,Basel-Landschaft,CH,5.31,3,7.35,5.04
+2843,Buckten,Basel-Landschaft,CH,5.05,3.13,6.49,4.57
+2844,Buus,Basel-Landschaft,CH,8.76,5.5,11.11,7.85
+2845,Diepflingen,Basel-Landschaft,CH,3.13,1.32,4.27,2.46
+2846,Gelterkinden,Basel-Landschaft,CH,31.61,17.23,43.26,28.88
+2847,Häfelfingen,Basel-Landschaft,CH,2.8,1.91,3.67,2.78
+2848,Hemmiken,Basel-Landschaft,CH,3.74,2.52,4.9,3.68
+2849,Itingen,Basel-Landschaft,CH,12.17,8.24,15.87,11.94
+2850,Känerkinden,Basel-Landschaft,CH,3.57,2.1,4.77,3.3
+2851,Kilchberg (BL),Basel-Landschaft,CH,1.64,1.19,2.08,1.63
+2852,Läufelfingen,Basel-Landschaft,CH,11.42,7.95,15.17,11.7
+2853,Maisprach,Basel-Landschaft,CH,7.48,4.86,9.59,6.97
+2854,Nusshof,Basel-Landschaft,CH,1.96,1.14,2.46,1.64
+2855,Oltingen,Basel-Landschaft,CH,4.86,3.69,6.1,4.93
+2856,Ormalingen,Basel-Landschaft,CH,16.62,10.7,21.94,16.02
+2857,Rickenbach (BL),Basel-Landschaft,CH,4.64,3.03,6.18,4.57
+2858,Rothenfluh,Basel-Landschaft,CH,5.97,3.24,7.76,5.03
+2859,Rümlingen,Basel-Landschaft,CH,3.33,2.33,4.1,3.1
+2860,Rünenberg,Basel-Landschaft,CH,6.2,4.01,8.5,6.31
+2861,Sissach,Basel-Landschaft,CH,37.82,24.07,51.04,37.29
+2862,Tecknau,Basel-Landschaft,CH,3.48,1.43,4.93,2.88
+2863,Tenniken,Basel-Landschaft,CH,6.24,3.59,8.41,5.76
+2864,Thürnen,Basel-Landschaft,CH,6.23,2.99,8.57,5.33
+2865,Wenslingen,Basel-Landschaft,CH,6.87,4.23,8.96,6.32
+2866,Wintersingen,Basel-Landschaft,CH,5.28,3.22,6.79,4.73
+2867,Wittinsburg,Basel-Landschaft,CH,3.91,2.94,5.09,4.12
+2868,Zeglingen,Basel-Landschaft,CH,5.69,3.86,7.55,5.72
+2869,Zunzgen,Basel-Landschaft,CH,12.89,7.62,17.02,11.75
+2881,Arboldswil,Basel-Landschaft,CH,4.09,2.72,5.49,4.12
+2882,Bennwil,Basel-Landschaft,CH,5.81,4.02,7.61,5.82
+2883,Bretzwil,Basel-Landschaft,CH,6.42,3.62,8.5,5.7
+2884,Diegten,Basel-Landschaft,CH,11.98,7.7,15.95,11.67
+2885,Eptingen,Basel-Landschaft,CH,6.34,4.28,8.1,6.04
+2886,Hölstein,Basel-Landschaft,CH,12.79,7.26,17.48,11.95
+2887,Lampenberg,Basel-Landschaft,CH,3.92,2.32,5.18,3.58
+2888,Langenbruck,Basel-Landschaft,CH,8.07,5.15,10.66,7.74
+2889,Lauwil,Basel-Landschaft,CH,2.85,1.7,3.86,2.71
+2890,Liedertswil,Basel-Landschaft,CH,1.31,0.83,1.68,1.2
+2891,Niederdorf,Basel-Landschaft,CH,10.41,6.35,14.43,10.37
+2892,Oberdorf (BL),Basel-Landschaft,CH,12.47,6.79,16.68,11
+2893,Reigoldswil,Basel-Landschaft,CH,10.13,5.45,13.73,9.05
+2894,Titterten,Basel-Landschaft,CH,3.81,2.55,5,3.74
+2895,Waldenburg,Basel-Landschaft,CH,4.79,2.57,6.12,3.9
+2901,Gächlingen,Schaffhausen,CH,9.93,6.88,12.56,9.51
+2903,Löhningen,Schaffhausen,CH,11.7,7.5,14.81,10.61
+2904,Neunkirch,Schaffhausen,CH,19.27,13.62,24.06,18.41
+2914,Büttenhardt,Schaffhausen,CH,3.42,2.13,4.58,3.29
+2915,Dörflingen,Schaffhausen,CH,8.74,5.74,11.5,8.5
+2917,Lohn (SH),Schaffhausen,CH,6.3,4.13,8.06,5.89
+2919,Stetten (SH),Schaffhausen,CH,7.66,4.34,10.37,7.05
+2920,Thayngen,Schaffhausen,CH,46.94,32.9,61.5,47.46
+2931,Bargen (SH),Schaffhausen,CH,2.79,1.89,3.68,2.78
+2932,Beringen,Schaffhausen,CH,35.69,25.65,45.8,35.76
+2933,Buchberg,Schaffhausen,CH,7.42,4.43,9.66,6.67
+2936,Merishausen,Schaffhausen,CH,7.49,4.82,9.35,6.68
+2937,Neuhausen am Rheinfall,Schaffhausen,CH,39.12,24.41,54.04,39.33
+2938,Rüdlingen,Schaffhausen,CH,6.8,4.35,8.67,6.22
+2939,Schaffhausen,Schaffhausen,CH,162.92,108.34,218.25,163.67
+2951,Beggingen,Schaffhausen,CH,8.63,6.7,11.1,9.17
+2952,Schleitheim,Schaffhausen,CH,22.17,15.63,28.46,21.92
+2953,Siblingen,Schaffhausen,CH,9.48,6.57,12.26,9.35
+2961,Buch (SH),Schaffhausen,CH,4.49,3.12,5.79,4.42
+2962,Hemishofen,Schaffhausen,CH,5.38,3.75,7.11,5.48
+2963,Ramsen,Schaffhausen,CH,18.54,13.65,23.8,18.91
+2964,Stein am Rhein,Schaffhausen,CH,22.41,14.33,28.97,20.89
+2971,Hallau,Schaffhausen,CH,23.07,15.35,29.33,21.61
+2972,Oberhallau,Schaffhausen,CH,7.06,5.23,8.55,6.72
+2973,Trasadingen,Schaffhausen,CH,7.56,5.23,9.77,7.44
+2974,Wilchingen,Schaffhausen,CH,22.04,16.38,27.81,22.15
+3001,Herisau,Appenzell Ausserrhoden,CH,72.05,40.54,102.54,71.03
+3002,Hundwil,Appenzell Ausserrhoden,CH,11.55,6.79,16.96,12.2
+3003,Schönengrund,Appenzell Ausserrhoden,CH,4.41,2.22,6.39,4.2
+3004,Schwellbrunn,Appenzell Ausserrhoden,CH,14.94,8.9,21.5,15.46
+3005,Stein (AR),Appenzell Ausserrhoden,CH,13.08,7.35,18.89,13.16
+3006,Urnäsch,Appenzell Ausserrhoden,CH,22.8,13.59,32.96,23.75
+3007,Waldstatt,Appenzell Ausserrhoden,CH,13.2,7.42,19.22,13.44
+3021,Bühler,Appenzell Ausserrhoden,CH,12.33,7.01,17.84,12.52
+3022,Gais,Appenzell Ausserrhoden,CH,23.42,12.46,34.09,23.13
+3023,Speicher,Appenzell Ausserrhoden,CH,21.38,9.53,31.58,19.73
+3024,Teufen (AR),Appenzell Ausserrhoden,CH,33.16,16.26,50.11,33.21
+3025,Trogen,Appenzell Ausserrhoden,CH,12.32,4.91,17.68,10.27
+3031,Grub (AR),Appenzell Ausserrhoden,CH,6.33,3.12,8.95,5.74
+3032,Heiden,Appenzell Ausserrhoden,CH,23.87,13.23,34.47,23.83
+3033,Lutzenberg,Appenzell Ausserrhoden,CH,6.43,2.9,8.67,5.14
+3034,Rehetobel,Appenzell Ausserrhoden,CH,11.5,5.18,17.34,11.02
+3035,Reute (AR),Appenzell Ausserrhoden,CH,5.31,2.56,7.93,5.18
+3036,Wald (AR),Appenzell Ausserrhoden,CH,7.98,4.02,11.65,7.69
+3037,Walzenhausen,Appenzell Ausserrhoden,CH,13.11,6.15,18.68,11.72
+3038,Wolfhalden,Appenzell Ausserrhoden,CH,13.81,7.59,18.84,12.62
+3101,Appenzell,Appenzell Innerrhoden,CH,39.51,23.56,54.62,38.67
+3102,Gonten,Appenzell Innerrhoden,CH,15.83,9.97,23.15,17.29
+3103,Rüte,Appenzell Innerrhoden,CH,27.75,15.71,39.96,27.92
+3104,Schlatt-Haslen,Appenzell Innerrhoden,CH,13.37,8.4,19.11,14.14
+3105,Schwende,Appenzell Innerrhoden,CH,14.74,7.33,21.03,13.62
+3111,Oberegg,Appenzell Innerrhoden,CH,16.23,8.73,23.44,15.94
+3201,Häggenschwil,St. Gallen,CH,15.25,12.09,20.38,17.22
+3202,Muolen,St. Gallen,CH,17.07,13.41,23.12,19.46
+3203,St. Gallen,St. Gallen,CH,250.01,160.23,355.92,266.14
+3204,Wittenbach,St. Gallen,CH,40.35,26.32,55.9,41.87
+3211,Berg (SG),St. Gallen,CH,7.11,4.65,9.5,7.04
+3212,Eggersriet,St. Gallen,CH,13.62,7.28,19.84,13.5
+3213,Goldach,St. Gallen,CH,41.1,27.33,55.59,41.82
+3214,Mörschwil,St. Gallen,CH,23.15,14.93,31.63,23.41
+3215,Rorschach,St. Gallen,CH,25.7,14.61,34.07,22.98
+3216,Rorschacherberg,St. Gallen,CH,21.11,11.59,29.13,19.61
+3217,Steinach,St. Gallen,CH,22.94,16.69,30.4,24.15
+3218,Tübach,St. Gallen,CH,11.47,8.33,14.62,11.48
+3219,Untereggen,St. Gallen,CH,7.17,4.21,9.58,6.62
+3231,Au (SG),St. Gallen,CH,43.68,29.21,58.82,44.35
+3232,Balgach,St. Gallen,CH,32.06,20.3,43.19,31.43
+3233,Berneck,St. Gallen,CH,27.54,17.68,36.34,26.48
+3234,Diepoldsau,St. Gallen,CH,46.76,31.56,60.95,45.75
+3235,Rheineck,St. Gallen,CH,17.6,10.73,23.31,16.44
+3236,St. Margrethen,St. Gallen,CH,41.71,30.92,53.3,42.51
+3237,Thal,St. Gallen,CH,52.87,38.24,67.82,53.19
+3238,Widnau,St. Gallen,CH,56.59,36.8,74.8,55.01
+3251,Altstätten,St. Gallen,CH,95.77,66.87,128.17,99.27
+3252,Eichberg,St. Gallen,CH,10.91,6.37,15.02,10.48
+3253,Marbach (SG),St. Gallen,CH,16.37,10.58,21.98,16.19
+3254,Oberriet (SG),St. Gallen,CH,94.35,69.18,120.19,95.02
+3255,Rebstein,St. Gallen,CH,24.73,14.55,35.06,24.88
+3256,Rüthi (SG),St. Gallen,CH,21.68,14.58,28.55,21.45
+3271,Buchs (SG),St. Gallen,CH,65.01,44.9,85.53,65.42
+3272,Gams,St. Gallen,CH,28.8,19.56,41.49,32.25
+3273,Grabs,St. Gallen,CH,49.79,31.26,69.98,51.45
+3274,Sennwald,St. Gallen,CH,69.76,54.54,90.73,75.51
+3275,Sevelen,St. Gallen,CH,36.11,25.46,46.35,35.7
+3276,Wartau,St. Gallen,CH,39.64,25.58,53.07,39.01
+3291,Bad Ragaz,St. Gallen,CH,33.3,21.22,45.05,32.97
+3292,Flums,St. Gallen,CH,40.95,24.4,56.97,40.42
+3293,Mels,St. Gallen,CH,52.28,33.86,72.11,53.69
+3294,Pfäfers,St. Gallen,CH,15.66,10.17,21.15,15.66
+3295,Quarten,St. Gallen,CH,16.41,8.93,22.18,14.7
+3296,Sargans,St. Gallen,CH,30.7,20.51,43.79,33.6
+3297,Vilters-Wangs,St. Gallen,CH,30.81,19.62,42.31,31.12
+3298,Walenstadt,St. Gallen,CH,34.72,22.35,49.26,36.89
+3311,Amden,St. Gallen,CH,21.01,13,31.91,23.9
+3312,Benken (SG),St. Gallen,CH,26.12,19.22,35.25,28.35
+3313,Kaltbrunn,St. Gallen,CH,30.58,21.27,44.02,34.71
+3315,Schänis,St. Gallen,CH,28.54,19.93,37.6,28.99
+3316,Weesen,St. Gallen,CH,9.31,5.61,13.1,9.4
+3338,Schmerikon,St. Gallen,CH,21.98,15.08,29.38,22.48
+3339,Uznach,St. Gallen,CH,34.3,23.01,48.64,37.35
+3340,Rapperswil-Jona,St. Gallen,CH,108.82,73.73,144.82,109.73
+3341,Gommiswald,St. Gallen,CH,40.65,26.73,58.08,44.16
+3342,Eschenbach (SG),St. Gallen,CH,74.03,53.21,102.73,81.91
+3352,Ebnat-Kappel,St. Gallen,CH,36.76,21.61,53.17,38.02
+3359,Wildhaus-Alt St. Johann,St. Gallen,CH,47.16,30.34,70.95,54.13
+3360,Nesslau,St. Gallen,CH,46.33,30.79,68.04,52.5
+3372,Hemberg,St. Gallen,CH,13.87,9.31,19.95,15.39
+3374,Lichtensteig,St. Gallen,CH,8.4,4.31,11.19,7.1
+3375,Oberhelfenschwil,St. Gallen,CH,11.36,7.02,15.97,11.63
+3378,Neckertal,St. Gallen,CH,42.04,26.8,59.78,44.54
+3379,Wattwil,St. Gallen,CH,56.83,36.63,80.92,60.72
+3392,Kirchberg (SG),St. Gallen,CH,71.47,50.98,98.48,77.99
+3393,Lütisburg,St. Gallen,CH,15.64,11,21.39,16.75
+3394,Mosnang,St. Gallen,CH,30.25,20.73,42.9,33.38
+3395,Bütschwil-Ganterschwil,St. Gallen,CH,42.49,29.53,58,45.04
+3401,Degersheim,St. Gallen,CH,25.86,16.61,34.97,25.72
+3402,Flawil,St. Gallen,CH,48.37,31.14,66.82,49.59
+3405,Jonschwil,St. Gallen,CH,40.18,31.18,51.11,42.11
+3407,Oberuzwil,St. Gallen,CH,34.27,21.74,46.82,34.29
+3408,Uzwil,St. Gallen,CH,71.84,49.68,95.14,72.98
+3422,Niederbüren,St. Gallen,CH,21.03,16.15,27.44,22.56
+3423,Niederhelfenschwil,St. Gallen,CH,28.22,16.99,37.96,26.73
+3424,Oberbüren,St. Gallen,CH,41.66,30.48,55.18,44
+3426,Zuzwil (SG),St. Gallen,CH,33.6,22.4,44.8,33.6
+3427,Wil (SG),St. Gallen,CH,118.14,83.45,161.91,127.22
+3441,Andwil (SG),St. Gallen,CH,15.26,10.69,20.87,16.3
+3442,Gaiserwald,St. Gallen,CH,39.43,24.54,55.8,40.91
+3443,Gossau (SG),St. Gallen,CH,113.49,85.58,153.22,125.31
+3444,Waldkirch,St. Gallen,CH,41.43,31.23,54.65,44.45
+3506,Vaz/Obervaz,Graubünden,CH,51.07,30.79,72.56,52.28
+3513,Lantsch/Lenz,Graubünden,CH,9.45,5.86,13.73,10.14
+3514,Schmitten (GR),Graubünden,CH,3.86,2.51,5.59,4.24
+3542,Albula/Alvra,Graubünden,CH,23.48,16.01,32.18,24.71
+3543,Surses,Graubünden,CH,47.96,30.95,70.46,53.45
+3544,Bergün Filisur,Graubünden,CH,15.32,9.52,20.73,14.93
+3551,Brusio,Graubünden,CH,10.79,6.77,14.93,10.91
+3561,Poschiavo,Graubünden,CH,38.73,26.85,55.21,43.33
+3572,Falera,Graubünden,CH,15.72,11.08,23.66,19.02
+3575,Laax,Graubünden,CH,27.03,16.47,38.8,28.24
+3581,Sagogn,Graubünden,CH,7.77,4.8,11.17,8.2
+3582,Schluein,Graubünden,CH,8.41,6.09,11.87,9.55
+3603,Vals,Graubünden,CH,15.27,11.29,21.84,17.86
+3618,Lumnezia,Graubünden,CH,48.5,36.02,71.68,59.2
+3619,Ilanz/Glion,Graubünden,CH,60.44,44.53,86.18,70.27
+3633,Fürstenau,Graubünden,CH,2.74,1.64,3.6,2.5
+3637,Rothenbrunnen,Graubünden,CH,2.54,1.61,3.52,2.59
+3638,Scharans,Graubünden,CH,7.68,5.05,10.35,7.72
+3640,Sils im Domleschg,Graubünden,CH,7.04,4.78,8.97,6.71
+3661,Cazis,Graubünden,CH,26.82,18.72,36.99,28.89
+3662,Flerden,Graubünden,CH,4.13,3.29,5.89,5.05
+3663,Masein,Graubünden,CH,4.14,2.72,5.86,4.44
+3668,Thusis,Graubünden,CH,20.56,14.2,27.63,21.27
+3669,Tschappina,Graubünden,CH,6.38,5.17,9.82,8.61
+3670,Urmein,Graubünden,CH,4.28,3.05,6.31,5.08
+3672,Safiental,Graubünden,CH,23.2,18.17,33.84,28.81
+3673,Domleschg,Graubünden,CH,22.98,13.06,32.56,22.64
+3681,Avers,Graubünden,CH,6.42,5.15,9.16,7.89
+3695,Sufers,Graubünden,CH,2.83,2.11,4.01,3.29
+3701,Andeer,Graubünden,CH,9.06,5.64,11.84,8.42
+3703,Casti-Wergenstein,Graubünden,CH,1.64,1.16,2.35,1.87
+3705,Donat,Graubünden,CH,3.31,2.39,4.89,3.97
+3707,Lohn (GR),Graubünden,CH,1.67,1.3,2.09,1.72
+3708,Mathon,Graubünden,CH,2.46,1.81,3.63,2.98
+3711,Rongellen,Graubünden,CH,0.4,0.24,0.56,0.4
+3712,Zillis-Reischen,Graubünden,CH,4.49,3.09,5.62,4.22
+3713,Ferrera,Graubünden,CH,2.28,1.43,3.17,2.32
+3714,Rheinwald,Graubünden,CH,16.75,13.11,24.24,20.6
+3721,Bonaduz,Graubünden,CH,17.28,11.4,23.86,17.98
+3722,Domat/Ems,Graubünden,CH,45.76,32.85,61.35,48.44
+3723,Rhäzüns,Graubünden,CH,9.28,6.34,12.23,9.29
+3731,Felsberg,Graubünden,CH,11.72,6.99,16.27,11.54
+3732,Flims,Graubünden,CH,39.55,24.41,56.68,41.54
+3733,Tamins,Graubünden,CH,8.31,5.17,11.09,7.95
+3734,Trin,Graubünden,CH,12.88,7.96,18.54,13.62
+3746,Zernez,Graubünden,CH,17.51,12.05,23.89,18.43
+3752,Samnaun,Graubünden,CH,10.7,6.87,14.89,11.06
+3762,Scuol,Graubünden,CH,58.19,36.51,82.27,60.59
+3764,Valsot,Graubünden,CH,13.69,8.86,18.75,13.92
+3781,Bever,Graubünden,CH,7.45,4.82,10.53,7.9
+3782,Celerina/Schlarigna,Graubünden,CH,19.84,12.01,30.36,22.53
+3783,Madulain,Graubünden,CH,4.04,2.31,5.83,4.1
+3784,Pontresina,Graubünden,CH,19.53,11.58,28.58,20.63
+3785,La Punt-Chamues-ch,Graubünden,CH,10.86,6.41,15.29,10.84
+3786,Samedan,Graubünden,CH,27.51,18.77,39.36,30.62
+3787,St. Moritz,Graubünden,CH,45.3,30.65,68.82,54.17
+3788,S-chanf,Graubünden,CH,11.56,8.19,16.31,12.94
+3789,Sils im Engadin/Segl,Graubünden,CH,12.95,7.73,18.79,13.57
+3790,Silvaplana,Graubünden,CH,16.69,9.58,24.74,17.63
+3791,Zuoz,Graubünden,CH,15.97,10.44,23.81,18.28
+3792,Bregaglia,Graubünden,CH,27.39,18.14,38,28.75
+3804,Buseno,Graubünden,CH,1.99,1.23,2.7,1.94
+3805,Castaneda,Graubünden,CH,2.74,1.54,3.93,2.73
+3808,Rossa,Graubünden,CH,2.71,1.76,3.38,2.43
+3810,Santa Maria in Calanca,Graubünden,CH,3.09,1.97,4.09,2.97
+3821,Lostallo,Graubünden,CH,5.3,3.03,7.12,4.85
+3822,Mesocco,Graubünden,CH,17.71,10.29,24.93,17.51
+3823,Soazza,Graubünden,CH,2.74,1.8,3.55,2.61
+3831,Cama,Graubünden,CH,3.51,2.17,4.71,3.37
+3832,Grono,Graubünden,CH,11.32,7.79,15.18,11.65
+3834,Roveredo (GR),Graubünden,CH,15.26,8.37,20,13.11
+3835,San Vittore,Graubünden,CH,12.08,9.48,15.36,12.76
+3837,Calanca,Graubünden,CH,4.61,2.72,5.85,3.96
+3847,Val Müstair,Graubünden,CH,27.66,19.52,37.13,28.99
+3851,Davos,Graubünden,CH,98.36,67.25,150.85,119.74
+3861,Fideris,Graubünden,CH,12.15,9.67,15.48,13
+3862,Furna,Graubünden,CH,7.55,5.71,10.73,8.89
+3863,Jenaz,Graubünden,CH,13.06,8.77,17.75,13.46
+3871,Klosters-Serneus,Graubünden,CH,60.81,35.84,85.28,60.31
+3881,Conters im Prättigau,Graubünden,CH,4.91,3.69,6.51,5.29
+3882,Küblis,Graubünden,CH,9.53,6.33,13.28,10.08
+3891,Luzein,Graubünden,CH,31.91,22.07,44.15,34.31
+3901,Chur,Graubünden,CH,126.64,87.08,174.75,135.19
+3911,Churwalden,Graubünden,CH,28.81,17.94,40.57,29.7
+3921,Arosa,Graubünden,CH,57.11,38.91,88.22,70.02
+3926,Maladers,Graubünden,CH,5.38,3.68,7.78,6.08
+3932,Tschiertschen-Praden,Graubünden,CH,7.13,4.48,9.69,7.04
+3941,Haldenstein,Graubünden,CH,6.28,4.19,8.62,6.53
+3945,Trimmis,Graubünden,CH,21.43,14.75,28.37,21.69
+3946,Untervaz,Graubünden,CH,19.47,14.32,25.62,20.47
+3947,Zizers,Graubünden,CH,25.12,18.08,31.37,24.33
+3951,Fläsch,Graubünden,CH,5.71,4.06,7.39,5.74
+3952,Jenins,Graubünden,CH,6.47,4.05,8.4,5.98
+3953,Maienfeld,Graubünden,CH,21.97,15.65,28.9,22.58
+3954,Malans,Graubünden,CH,17.41,11.9,23.01,17.5
+3955,Landquart,Graubünden,CH,60.19,45.88,77.67,63.36
+3961,Grüsch,Graubünden,CH,24.89,17.16,33.63,25.9
+3962,Schiers,Graubünden,CH,24,15.27,33.53,24.8
+3972,Seewis im Prättigau,Graubünden,CH,17.82,12.9,24.19,19.27
+3981,Breil/Brigels,Graubünden,CH,39.85,30.11,59.42,49.68
+3982,Disentis/Mustér,Graubünden,CH,27.03,19.14,39.19,31.3
+3983,Medel (Lucmagn),Graubünden,CH,7.92,5.72,11.16,8.96
+3985,Sumvitg,Graubünden,CH,21.15,16.04,31.03,25.92
+3986,Tujetsch,Graubünden,CH,26.05,17.88,40.06,31.89
+3987,Trun,Graubünden,CH,19.12,14.5,26.79,22.17
+3988,Obersaxen Mundaun,Graubünden,CH,32.46,22.82,47.39,37.75
+4001,Aarau,Aargau,CH,93.45,65.15,122.97,94.67
+4002,Biberstein,Aargau,CH,8.45,4.66,11.45,7.66
+4003,Buchs (AG),Aargau,CH,40.08,27.31,51.87,39.1
+4004,Densbüren,Aargau,CH,7.41,4.76,9.67,7.02
+4005,Erlinsbach (AG),Aargau,CH,21.29,13.06,28.14,19.91
+4006,Gränichen,Aargau,CH,40.19,24.09,54.03,37.93
+4007,Hirschthal,Aargau,CH,12.41,8.3,15.72,11.61
+4008,Küttigen,Aargau,CH,29.57,17.76,40.05,28.24
+4009,Muhen,Aargau,CH,24.6,16.18,32.03,23.61
+4010,Oberentfelden,Aargau,CH,42.27,30.29,56.41,44.43
+4012,Suhr,Aargau,CH,48.83,33.35,63.96,48.48
+4013,Unterentfelden,Aargau,CH,25.68,18.53,33.06,25.91
+4021,Baden,Aargau,CH,77.27,54.63,97.84,75.2
+4022,Bellikon,Aargau,CH,10.11,6.49,13.39,9.77
+4023,Bergdietikon,Aargau,CH,17.87,11,23.26,16.39
+4024,Birmenstorf (AG),Aargau,CH,19.89,13.92,25.49,19.52
+4026,Ennetbaden,Aargau,CH,10.5,5.25,13.56,8.31
+4027,Fislisbach,Aargau,CH,23.11,14.69,30.9,22.48
+4028,Freienwil,Aargau,CH,6.24,4.13,8.15,6.04
+4029,Gebenstorf,Aargau,CH,22.63,14.4,29.85,21.62
+4030,Killwangen,Aargau,CH,9.36,5.85,12.58,9.07
+4031,Künten,Aargau,CH,10.7,6.72,14.02,10.04
+4032,Mägenwil,Aargau,CH,19.45,14.58,24.21,19.34
+4033,Mellingen,Aargau,CH,26.54,18.63,35.18,27.27
+4034,Neuenhof,Aargau,CH,20.87,12.76,30.31,22.2
+4035,Niederrohrdorf,Aargau,CH,14.9,9.19,21.09,15.38
+4037,Oberrohrdorf,Aargau,CH,17.44,10.73,24.09,17.38
+4038,Obersiggenthal,Aargau,CH,28.37,16.88,39.04,27.55
+4039,Remetschwil,Aargau,CH,12.48,8.13,16.53,12.18
+4040,Spreitenbach,Aargau,CH,52.63,41.51,67.09,55.97
+4041,Stetten (AG),Aargau,CH,15.87,12.08,20.26,16.47
+4042,Turgi,Aargau,CH,9.42,5.62,13.2,9.4
+4044,Untersiggenthal,Aargau,CH,30.5,20.01,41.07,30.58
+4045,Wettingen,Aargau,CH,66.5,39.15,90.09,62.74
+4046,Wohlenschwil,Aargau,CH,9.63,6.14,12.62,9.13
+4047,Würenlingen,Aargau,CH,36.56,27.73,45.92,37.09
+4048,Würenlos,Aargau,CH,28,17.62,38.08,27.7
+4049,Ehrendingen,Aargau,CH,20.82,11.55,28.87,19.6
+4061,Arni (AG),Aargau,CH,9.92,6.13,13.37,9.58
+4062,Berikon,Aargau,CH,21.32,12.93,28.86,20.47
+4063,Bremgarten (AG),Aargau,CH,45.54,33.14,58.76,46.36
+4064,Büttikon,Aargau,CH,6.15,4.05,8.23,6.13
+4065,Dottikon,Aargau,CH,21.63,14.59,29.17,22.13
+4066,Eggenwil,Aargau,CH,6.88,4.83,8.79,6.74
+4067,Fischbach-Göslikon,Aargau,CH,10.34,7.12,13.45,10.23
+4068,Hägglingen,Aargau,CH,17.87,11.8,23.42,17.35
+4071,Jonen,Aargau,CH,13.51,8.88,17.44,12.81
+4072,Niederwil (AG),Aargau,CH,17.3,11.29,22.66,16.65
+4073,Oberlunkhofen,Aargau,CH,11.5,7.59,15.08,11.17
+4074,Oberwil-Lieli,Aargau,CH,16.18,10.6,20.93,15.35
+4075,Rudolfstetten-Friedlisberg,Aargau,CH,18.57,11.74,25.85,19.02
+4076,Sarmenstorf,Aargau,CH,20.47,13.91,27.34,20.78
+4077,Tägerig,Aargau,CH,7.94,4.6,10.8,7.46
+4078,Uezwil,Aargau,CH,3.88,2.52,5.11,3.75
+4079,Unterlunkhofen,Aargau,CH,8.39,5.45,11.08,8.14
+4080,Villmergen,Aargau,CH,59.36,45.21,74.45,60.3
+4081,Widen,Aargau,CH,17.92,11.6,24.16,17.84
+4082,Wohlen (AG),Aargau,CH,82.15,55.99,108.52,82.36
+4083,Zufikon,Aargau,CH,18.6,10.51,25.45,17.36
+4084,Islisberg,Aargau,CH,3.81,2.51,5.09,3.79
+4091,Auenstein,Aargau,CH,10.56,6.1,14.43,9.97
+4092,Birr,Aargau,CH,26.76,21.11,33.37,27.72
+4093,Birrhard,Aargau,CH,6.63,4.49,8.52,6.38
+4094,Bözen,Aargau,CH,7.19,4.82,9.36,6.99
+4095,Brugg,Aargau,CH,53.42,36.61,70.89,54.08
+4096,Effingen,Aargau,CH,6.67,4.36,8.72,6.41
+4097,Elfingen,Aargau,CH,3.27,2.17,4.04,2.94
+4099,Habsburg,Aargau,CH,2.74,1.54,3.8,2.6
+4100,Hausen (AG),Aargau,CH,14.05,9.03,18.92,13.9
+4104,Lupfig,Aargau,CH,29.46,22.89,36.26,29.69
+4105,Mandach,Aargau,CH,4.06,2.65,5,3.59
+4106,Mönthal,Aargau,CH,4.09,2.58,5.54,4.03
+4107,Mülligen,Aargau,CH,6.33,4.1,8.26,6.03
+4110,Remigen,Aargau,CH,8.5,5.27,11.01,7.78
+4111,Riniken,Aargau,CH,7.77,4.48,10.51,7.22
+4112,Rüfenach,Aargau,CH,10.32,8.01,12.3,9.99
+4114,Schinznach-Bad,Aargau,CH,8.76,5.91,10.67,7.82
+4117,Thalheim (AG),Aargau,CH,8.03,5.24,10.26,7.47
+4120,Veltheim (AG),Aargau,CH,12.58,8.91,15.55,11.88
+4121,Villigen,Aargau,CH,21.4,16.77,25.58,20.95
+4122,Villnachern,Aargau,CH,8.44,4.5,11.76,7.82
+4123,Windisch,Aargau,CH,33,21.9,44.09,32.99
+4124,Bözberg,Aargau,CH,17.1,11.01,22.14,16.05
+4125,Schinznach,Aargau,CH,23.28,16.09,28.78,21.59
+4131,Beinwil am See,Aargau,CH,20.61,11.06,27,17.45
+4132,Birrwil,Aargau,CH,9.44,5.57,12.24,8.37
+4133,Burg (AG),Aargau,CH,5.43,2.96,7.43,4.96
+4134,Dürrenäsch,Aargau,CH,14.51,10.52,18.47,14.48
+4135,Gontenschwil,Aargau,CH,24.66,17.54,31.65,24.53
+4136,Holziken,Aargau,CH,7.96,5.45,10.54,8.03
+4137,Leimbach (AG),Aargau,CH,5.39,3.97,6.86,5.44
+4138,Leutwil,Aargau,CH,7.39,4.76,9.55,6.92
+4139,Menziken,Aargau,CH,35.91,21.75,46.38,32.22
+4140,Oberkulm,Aargau,CH,19.88,13.57,26.26,19.95
+4141,Reinach (AG),Aargau,CH,56.38,36.73,72.88,53.23
+4142,Schlossrued,Aargau,CH,9.76,6.63,12.71,9.58
+4143,Schmiedrued,Aargau,CH,13.78,9.46,17.74,13.42
+4144,Schöftland,Aargau,CH,23.5,14.48,31.44,22.42
+4145,Teufenthal (AG),Aargau,CH,11.27,7.01,14.48,10.22
+4146,Unterkulm,Aargau,CH,23.02,15.23,29.68,21.89
+4147,Zetzwil,Aargau,CH,11.4,7.3,15.23,11.13
+4161,Eiken,Aargau,CH,20.49,14.71,26.44,20.66
+4163,Frick,Aargau,CH,39.77,28.68,50.11,39.02
+4164,Gansingen,Aargau,CH,9.9,6.69,12.81,9.6
+4165,Gipf-Oberfrick,Aargau,CH,21.5,13.04,28.59,20.13
+4166,Herznach,Aargau,CH,12.39,8.16,16.08,11.85
+4167,Hornussen,Aargau,CH,8.34,6.01,10.71,8.38
+4169,Kaisten,Aargau,CH,26.73,19.73,33.39,26.39
+4170,Laufenburg,Aargau,CH,29.7,21.57,36.65,28.52
+4172,Münchwilen (AG),Aargau,CH,8.55,6.2,11.29,8.94
+4173,Oberhof,Aargau,CH,6.53,4.41,8.16,6.04
+4175,Oeschgen,Aargau,CH,8.25,5.43,10.89,8.07
+4176,Schwaderloch,Aargau,CH,5.58,3.57,7.07,5.06
+4177,Sisseln,Aargau,CH,13.75,10.46,17.45,14.16
+4179,Ueken,Aargau,CH,6.38,4.11,8.31,6.04
+4181,Wittnau,Aargau,CH,10.49,6.9,13.52,9.93
+4182,Wölflinswil,Aargau,CH,10.9,7.75,13.62,10.47
+4183,Zeihen,Aargau,CH,9.09,5.92,11.7,8.53
+4184,Mettauertal,Aargau,CH,22.74,15.54,29.56,22.36
+4191,Ammerswil,Aargau,CH,5.17,3.47,6.6,4.9
+4192,Boniswil,Aargau,CH,10.06,5.75,13.08,8.77
+4193,Brunegg,Aargau,CH,8.51,6.22,10.33,8.04
+4194,Dintikon,Aargau,CH,17.4,12.36,22.9,17.86
+4195,Egliswil,Aargau,CH,12.01,7.4,15.42,10.81
+4196,Fahrwangen,Aargau,CH,13.89,8.85,18.19,13.15
+4197,Hallwil,Aargau,CH,7.73,5.02,9.85,7.14
+4198,Hendschiken,Aargau,CH,10.35,7.22,13.16,10.03
+4199,Holderbank (AG),Aargau,CH,8.65,6.36,11.14,8.85
+4200,Hunzenschwil,Aargau,CH,27.02,20.26,34.12,27.36
+4201,Lenzburg,Aargau,CH,63.12,48.04,80.89,65.81
+4202,Meisterschwanden,Aargau,CH,18.78,11.84,24.83,17.89
+4203,Möriken-Wildegg,Aargau,CH,29.51,19.67,38.83,28.99
+4204,Niederlenz,Aargau,CH,25.66,16.67,33.23,24.24
+4205,Othmarsingen,Aargau,CH,18.05,11.87,23.97,17.79
+4206,Rupperswil,Aargau,CH,35.84,25.42,44.94,34.52
+4207,Schafisheim,Aargau,CH,33.52,26.24,40.02,32.74
+4208,Seengen,Aargau,CH,24.11,13.94,31.93,21.76
+4209,Seon,Aargau,CH,38.43,26.61,49.79,37.97
+4210,Staufen,Aargau,CH,15.44,9.52,21.23,15.31
+4221,Abtwil,Aargau,CH,6.64,4.61,8.98,6.95
+4222,Aristau,Aargau,CH,14.51,10.79,18.84,15.12
+4223,Auw,Aargau,CH,18.07,13.9,24.04,19.87
+4224,Beinwil (Freiamt),Aargau,CH,13.62,10.74,17.54,14.66
+4226,Besenbüren,Aargau,CH,5.79,4.25,7.82,6.28
+4227,Bettwil,Aargau,CH,7.33,5.27,9.55,7.49
+4228,Boswil,Aargau,CH,26.12,19.53,33.48,26.89
+4229,Bünzen,Aargau,CH,14.38,11.45,17.74,14.81
+4230,Buttwil,Aargau,CH,9.71,6.65,12.74,9.68
+4231,Dietwil,Aargau,CH,9.4,6.81,13.14,10.55
+4232,Geltwil,Aargau,CH,3.12,2.52,4.01,3.41
+4233,Kallern,Aargau,CH,4.65,3.72,6.05,5.12
+4234,Merenschwand,Aargau,CH,30.12,22.2,39.45,31.53
+4235,Mühlau,Aargau,CH,10.14,7.4,13.48,10.74
+4236,Muri (AG),Aargau,CH,49.39,36.08,65.69,52.38
+4237,Oberrüti,Aargau,CH,11.56,8.57,15.43,12.44
+4238,Rottenschwil,Aargau,CH,6.39,4.39,8.49,6.49
+4239,Sins,Aargau,CH,44.87,36.21,58.35,49.69
+4240,Waltenschwil,Aargau,CH,18.99,12.66,24.8,18.47
+4251,Hellikon,Aargau,CH,9.01,6.13,11.66,8.78
+4252,Kaiseraugst,Aargau,CH,35.15,29.82,42.73,37.4
+4253,Magden,Aargau,CH,20.27,11.45,27.6,18.78
+4254,Möhlin,Aargau,CH,74.72,54.35,95.35,74.98
+4255,Mumpf,Aargau,CH,6.89,4.22,9.22,6.55
+4256,Obermumpf,Aargau,CH,7.16,4.53,9.38,6.75
+4257,Olsberg,Aargau,CH,3.73,2.43,4.89,3.59
+4258,Rheinfelden,Aargau,CH,59.19,44.26,76.01,61.08
+4259,Schupfart,Aargau,CH,8.02,5.25,10.21,7.44
+4260,Stein (AG),Aargau,CH,23,18.05,28.67,23.72
+4261,Wallbach,Aargau,CH,16.06,10.9,20.3,15.14
+4262,Wegenstetten,Aargau,CH,10.81,7.43,13.5,10.12
+4263,Zeiningen,Aargau,CH,17.07,11.08,22.13,16.14
+4264,Zuzgen,Aargau,CH,9.16,6.28,12,9.12
+4271,Aarburg,Aargau,CH,34.3,22.93,44.78,33.41
+4273,Bottenwil,Aargau,CH,6.44,4.01,8.49,6.06
+4274,Brittnau,Aargau,CH,28.53,18.71,37.55,27.73
+4275,Kirchleerau,Aargau,CH,7.53,5.06,9.77,7.3
+4276,Kölliken,Aargau,CH,36.74,26.44,46.75,36.45
+4277,Moosleerau,Aargau,CH,6.79,4.44,8.91,6.56
+4279,Murgenthal,Aargau,CH,22.58,14.34,29.56,21.32
+4280,Oftringen,Aargau,CH,74.96,52.79,99.8,77.63
+4281,Reitnau,Aargau,CH,17.28,12.25,22.16,17.13
+4282,Rothrist,Aargau,CH,66.48,47.5,83.2,64.22
+4283,Safenwil,Aargau,CH,28.49,19.86,37.51,28.88
+4284,Staffelbach,Aargau,CH,11.89,8.16,15.47,11.74
+4285,Strengelbach,Aargau,CH,24.38,15.58,32.8,24
+4286,Uerkheim,Aargau,CH,11.16,7.59,14.52,10.95
+4287,Vordemwald,Aargau,CH,13.38,8.36,17.83,12.81
+4288,Wiliberg,Aargau,CH,2.01,1.32,2.56,1.87
+4289,Zofingen,Aargau,CH,64.34,44.66,84.79,65.11
+4301,Baldingen,Aargau,CH,3.1,2.09,3.97,2.96
+4302,Böbikon,Aargau,CH,1.92,1.22,2.55,1.85
+4303,Böttstein,Aargau,CH,25.66,18.77,32.85,25.96
+4304,Döttingen,Aargau,CH,25.82,18.8,33.05,26.03
+4305,Endingen,Aargau,CH,17.34,11.22,22.37,16.25
+4306,Fisibach,Aargau,CH,6.26,4.88,7.51,6.13
+4307,Full-Reuenthal,Aargau,CH,11.03,8.02,14.44,11.43
+4308,Kaiserstuhl,Aargau,CH,1.9,1.11,2.14,1.35
+4309,Klingnau,Aargau,CH,21.76,15.59,28.49,22.32
+4310,Koblenz,Aargau,CH,11.52,7.93,14.9,11.31
+4311,Leibstadt,Aargau,CH,20.06,16.49,24.05,20.48
+4312,Lengnau (AG),Aargau,CH,19.88,12.84,25.76,18.72
+4313,Leuggern,Aargau,CH,19.36,12.81,25.27,18.72
+4314,Mellikon,Aargau,CH,3.7,2.98,4.46,3.74
+4315,Rekingen (AG),Aargau,CH,8.55,6.41,10.58,8.44
+4316,Rietheim,Aargau,CH,3.52,2.04,4.86,3.38
+4317,Rümikon,Aargau,CH,2.18,1.32,2.83,1.97
+4318,Schneisingen,Aargau,CH,12.22,8.06,16,11.84
+4319,Siglistorf,Aargau,CH,4.65,3.02,6.13,4.5
+4320,Tegerfelden,Aargau,CH,10.06,6.67,12.83,9.44
+4322,Wislikofen,Aargau,CH,4.47,3.23,5.82,4.58
+4323,Bad Zurzach,Aargau,CH,23.93,15.46,30.82,22.35
+4401,Arbon,Thurgau,CH,74.07,52.12,94.71,72.76
+4406,Dozwil,Thurgau,CH,5.75,3.73,7.44,5.42
+4411,Egnach,Thurgau,CH,55.67,36.92,71.5,52.75
+4416,Hefenhofen,Thurgau,CH,15.13,10.06,19.98,14.91
+4421,Horn,Thurgau,CH,14.22,8.62,18.96,13.36
+4426,Kesswil,Thurgau,CH,13.6,9.43,16.48,12.31
+4431,Roggwil (TG),Thurgau,CH,27.42,17.33,35.71,25.62
+4436,Romanshorn,Thurgau,CH,61.07,39.19,80.66,58.78
+4441,Salmsach,Thurgau,CH,16.21,12.23,19.45,15.47
+4446,Sommeri,Thurgau,CH,7.53,4.63,9.91,7.01
+4451,Uttwil,Thurgau,CH,11.15,6.16,15.28,10.29
+4461,Amriswil,Thurgau,CH,79.14,48.65,109.18,78.69
+4471,Bischofszell,Thurgau,CH,42.14,26.89,54.96,39.71
+4476,Erlen,Thurgau,CH,35.13,23.05,45.76,33.68
+4486,Hauptwil-Gottshaus,Thurgau,CH,18.99,11.2,25.38,17.59
+4495,Hohentannen,Thurgau,CH,9.89,6.26,13.27,9.64
+4501,Kradolf-Schönenberg,Thurgau,CH,27.44,16.36,36.6,25.52
+4506,Sulgen,Thurgau,CH,33.18,21.53,44.84,33.19
+4511,Zihlschlacht-Sitterdorf,Thurgau,CH,25.12,16.51,33.11,24.5
+4536,Basadingen-Schlattingen,Thurgau,CH,33.51,25.43,39.75,31.67
+4545,Diessenhofen,Thurgau,CH,26.48,16.49,34.3,24.31
+4546,Schlatt (TG),Thurgau,CH,20.23,13.14,25.32,18.23
+4551,Aadorf,Thurgau,CH,61.15,37.75,82.23,58.83
+4561,Felben-Wellhausen,Thurgau,CH,20.97,14.04,27.25,20.32
+4566,Frauenfeld,Thurgau,CH,145.71,98.28,190.72,143.29
+4571,Gachnang,Thurgau,CH,28.32,17.29,37.35,26.32
+4590,Hüttlingen,Thurgau,CH,9.97,6.11,12.64,8.78
+4591,Matzingen,Thurgau,CH,21.23,13.22,28.39,20.38
+4601,Neunforn,Thurgau,CH,12.83,7.48,16.04,10.69
+4606,Stettfurt,Thurgau,CH,11.29,6.53,15.07,10.31
+4611,Thundorf,Thurgau,CH,17.04,10.55,22.43,15.94
+4616,Uesslingen-Buch,Thurgau,CH,15.3,9.27,20.12,14.09
+4621,Warth-Weiningen,Thurgau,CH,12.1,7.11,16.32,11.33
+4641,Altnau,Thurgau,CH,17.65,10.88,23.35,16.58
+4643,Bottighofen,Thurgau,CH,10.3,5.55,14.16,9.41
+4646,Ermatingen,Thurgau,CH,21.62,12.36,27.91,18.65
+4651,Gottlieben,Thurgau,CH,2.28,1.3,2.87,1.89
+4656,Güttingen,Thurgau,CH,18.43,12.2,23.32,17.09
+4666,Kemmental,Thurgau,CH,38.4,25.22,49.57,36.39
+4671,Kreuzlingen,Thurgau,CH,91.2,59.33,124.58,92.71
+4681,Langrickenbach,Thurgau,CH,17.18,10.22,23.14,16.18
+4683,Lengwil,Thurgau,CH,18.54,12.06,24.06,17.58
+4691,Münsterlingen,Thurgau,CH,18.25,10.08,24.78,16.61
+4696,Tägerwilen,Thurgau,CH,43.8,32.56,53.61,42.37
+4701,Wäldi,Thurgau,CH,19.74,13.16,25.31,18.73
+4711,Affeltrangen,Thurgau,CH,29.87,19.03,39.28,28.44
+4716,Bettwiesen,Thurgau,CH,9.57,5.96,12.81,9.2
+4721,Bichelsee-Balterswil,Thurgau,CH,22.17,12.22,29.57,19.62
+4723,Braunau,Thurgau,CH,9.46,5.48,12.5,8.52
+4724,Eschlikon,Thurgau,CH,32.04,21.88,42.83,32.67
+4726,Fischingen,Thurgau,CH,27.83,17.94,37.37,27.48
+4741,Lommis,Thurgau,CH,12.69,7.66,16.95,11.92
+4746,Münchwilen (TG),Thurgau,CH,34.4,22.13,45.93,33.66
+4751,Rickenbach (TG),Thurgau,CH,12.59,8.27,17.43,13.11
+4756,Schönholzerswilen,Thurgau,CH,13.67,8.71,17.54,12.58
+4761,Sirnach,Thurgau,CH,45.45,29.7,62.59,46.84
+4776,Tobel-Tägerschen,Thurgau,CH,15.22,9.46,19.92,14.16
+4781,Wängi,Thurgau,CH,40.79,25.24,54.37,38.82
+4786,Wilen (TG),Thurgau,CH,11.63,6.48,16.28,11.13
+4791,Wuppenau,Thurgau,CH,16.08,9.6,21.18,14.7
+4801,Berlingen,Thurgau,CH,4.94,2.03,6.21,3.3
+4806,Eschenz,Thurgau,CH,16.96,10.16,22.13,15.33
+4811,Herdern,Thurgau,CH,14.42,9.09,18.89,13.56
+4816,Homburg,Thurgau,CH,27.61,17.71,36.18,26.28
+4821,Hüttwilen,Thurgau,CH,22.09,13.77,29.56,21.24
+4826,Mammern,Thurgau,CH,6.6,3.84,8.25,5.49
+4831,Müllheim,Thurgau,CH,22.85,15.3,31.07,23.52
+4841,Pfyn,Thurgau,CH,20.01,13.54,26.66,20.19
+4846,Raperswilen,Thurgau,CH,8.22,5.19,10.77,7.74
+4851,Salenstein,Thurgau,CH,10.18,5.23,13.19,8.24
+4864,Steckborn,Thurgau,CH,21.03,11.84,27.28,18.09
+4871,Wagenhausen,Thurgau,CH,18.17,11.06,23.15,16.04
+4881,Amlikon-Bissegg,Thurgau,CH,21.59,14.16,27.98,20.55
+4891,Berg (TG),Thurgau,CH,31.38,18.62,42.16,29.4
+4901,Birwinken,Thurgau,CH,17.98,10.87,24.32,17.21
+4911,Bürglen (TG),Thurgau,CH,37.58,25.92,48.16,36.5
+4921,Bussnang,Thurgau,CH,29.74,18.41,38.94,27.61
+4941,Märstetten,Thurgau,CH,27.71,17.89,35.9,26.08
+4946,Weinfelden,Thurgau,CH,82.98,57.29,109.04,83.35
+4951,Wigoltingen,Thurgau,CH,31.93,20.33,42.12,30.52
+5001,Arbedo-Castione,Ticino,CH,29.29,21.67,40.2,32.58
+5002,Bellinzona,Ticino,CH,272.23,194.94,378.9,301.61
+5003,Cadenazzo,Ticino,CH,31.64,26.02,38.97,33.35
+5009,Isone,Ticino,CH,5.74,4.19,7.86,6.31
+5010,Lumino,Ticino,CH,10.32,7.11,14.49,11.28
+5017,Sant'Antonino,Ticino,CH,34.83,29.91,42.15,37.23
+5048,Acquarossa,Ticino,CH,23.01,13.87,33.57,24.43
+5049,Blenio,Ticino,CH,28.85,18.02,40.43,29.6
+5050,Serravalle,Ticino,CH,23.06,14.96,32.22,24.12
+5061,Airolo,Ticino,CH,24.51,17.99,33.31,26.79
+5063,Bedretto,Ticino,CH,3.76,2.9,4.52,3.66
+5064,Bodio,Ticino,CH,5.75,3.51,8.27,6.03
+5071,Dalpe,Ticino,CH,3.92,2.15,5.75,3.98
+5072,Faido,Ticino,CH,40.34,22.93,56.35,38.94
+5073,Giornico,Ticino,CH,6.74,4.76,8.7,6.72
+5076,Personico,Ticino,CH,2.57,1.65,3.43,2.51
+5077,Pollegio,Ticino,CH,5.02,3.26,7.35,5.59
+5078,Prato (Leventina),Ticino,CH,3.6,1.96,5.09,3.45
+5079,Quinto,Ticino,CH,19.83,14.1,26.16,20.43
+5091,Ascona,Ticino,CH,45.89,30.61,64.98,49.7
+5095,Brione (Verzasca),Ticino,CH,2.75,1.53,3.54,2.32
+5096,Brione sopra Minusio,Ticino,CH,8.11,4.79,12.17,8.85
+5097,Brissago,Ticino,CH,23.19,14.1,34.77,25.68
+5102,Corippo,Ticino,CH,0.7,0.46,0.8,0.56
+5105,Frasco,Ticino,CH,1.98,1.03,2.64,1.69
+5108,Gordola,Ticino,CH,31.96,21.98,48.64,38.66
+5112,Lavertezzo,Ticino,CH,13.05,9.44,18.96,15.35
+5113,Locarno,Ticino,CH,86.71,64.62,123.34,101.25
+5115,Losone,Ticino,CH,45.84,33.38,61.47,49.01
+5117,Mergoscia,Ticino,CH,5.5,2.94,7.89,5.33
+5118,Minusio,Ticino,CH,36.77,23.09,60.63,46.95
+5120,Muralto,Ticino,CH,11.74,7.62,19.38,15.26
+5121,Orselina,Ticino,CH,9.32,5.48,15.21,11.37
+5125,Ronco sopra Ascona,Ticino,CH,11.28,6.18,16.64,11.54
+5129,Sonogno,Ticino,CH,1.64,0.86,1.99,1.21
+5131,Tenero-Contra,Ticino,CH,19.6,14.89,28.47,23.76
+5135,Vogorno,Ticino,CH,4.97,2.69,6.63,4.35
+5136,Onsernone,Ticino,CH,14.16,7.99,20.26,14.09
+5138,Cugnasco-Gerra,Ticino,CH,23.74,15.45,35.62,27.33
+5141,Agno,Ticino,CH,27.9,20.14,38.92,31.16
+5143,Aranno,Ticino,CH,3.37,1.95,4.17,2.75
+5144,Arogno,Ticino,CH,9.38,5.85,12.21,8.68
+5146,Astano,Ticino,CH,4.63,2.76,6.03,4.16
+5148,Bedano,Ticino,CH,14.89,11.44,19.67,16.22
+5149,Bedigliora,Ticino,CH,6.24,3.96,8.31,6.03
+5151,Bioggio,Ticino,CH,35.93,28.67,46.42,39.16
+5154,Bissone,Ticino,CH,4.39,2.49,5.71,3.81
+5160,Brusino Arsizio,Ticino,CH,4.89,3.17,6.16,4.44
+5161,Cademario,Ticino,CH,7.58,4.66,11.11,8.19
+5162,Cadempino,Ticino,CH,10.01,7.56,13.92,11.47
+5167,Canobbio,Ticino,CH,12.77,9.17,18.45,14.85
+5171,Caslano,Ticino,CH,25.4,17.84,35.76,28.2
+5176,Comano,Ticino,CH,15.82,10.99,22.15,17.32
+5178,Croglio,Ticino,CH,10.44,7.04,14.19,10.79
+5180,Cureglia,Ticino,CH,8.94,6.31,12.88,10.25
+5181,Curio,Ticino,CH,5.28,3.17,6.81,4.7
+5186,Grancia,Ticino,CH,8.75,7.66,10.39,9.3
+5187,Gravesano,Ticino,CH,9.33,6.62,13,10.29
+5189,Lamone,Ticino,CH,14.78,11.36,20.03,16.61
+5192,Lugano,Ticino,CH,277.29,187.68,402.21,312.6
+5193,Magliaso,Ticino,CH,14.09,9.83,19.05,14.79
+5194,Manno,Ticino,CH,19.39,16.47,25.8,22.88
+5195,Maroggia,Ticino,CH,4.91,3.44,6.59,5.12
+5196,Massagno,Ticino,CH,14.71,9.39,25.65,20.33
+5197,Melano,Ticino,CH,8.06,5.27,10.84,8.05
+5198,Melide,Ticino,CH,7.28,4.54,10.76,8.02
+5199,Mezzovico-Vira,Ticino,CH,18.79,14.99,24.19,20.39
+5200,Miglieglia,Ticino,CH,3.12,1.97,4.45,3.3
+5202,Monteggio,Ticino,CH,12.6,9.02,17.77,14.19
+5203,Morcote,Ticino,CH,8.88,5.59,11.84,8.55
+5205,Muzzano,Ticino,CH,13.95,11.34,17.19,14.58
+5206,Neggio,Ticino,CH,3.49,2.41,4.92,3.84
+5207,Novaggio,Ticino,CH,7.93,5.44,11.07,8.58
+5208,Origlio,Ticino,CH,11.2,7.83,14.13,10.76
+5210,Paradiso,Ticino,CH,8.12,5.49,12.6,9.97
+5212,Ponte Capriasca,Ticino,CH,10.67,6.86,14.39,10.58
+5213,Ponte Tresa,Ticino,CH,4.53,2.88,7.36,5.71
+5214,Porza,Ticino,CH,14,10.25,19.33,15.58
+5216,Pura,Ticino,CH,11.54,7.57,16.11,12.14
+5219,Rovio,Ticino,CH,6.89,4.15,9.02,6.28
+5221,Savosa,Ticino,CH,11.38,7.71,16.31,12.64
+5222,Sessa,Ticino,CH,8.1,5.35,11.2,8.45
+5225,Sorengo,Ticino,CH,10.15,7.13,14.65,11.63
+5226,Capriasca,Ticino,CH,50.6,32.78,71.6,53.78
+5227,Torricella-Taverne,Ticino,CH,24.7,18.38,32.9,26.58
+5230,Vernate,Ticino,CH,5.06,3.04,7.18,5.16
+5231,Vezia,Ticino,CH,12.46,9.11,16.53,13.18
+5233,Vico Morcote,Ticino,CH,5.06,3.23,6.79,4.96
+5236,Collina d'Oro,Ticino,CH,40.04,28.23,52.74,40.93
+5237,Alto Malcantone,Ticino,CH,15.23,9.24,20.65,14.66
+5238,Monteceneri,Ticino,CH,40.47,29.55,53.79,42.87
+5242,Balerna,Ticino,CH,44.2,36.56,59.77,52.13
+5249,Castel San Pietro,Ticino,CH,22.97,15.7,30.93,23.66
+5250,Chiasso,Ticino,CH,41.78,31.81,61.78,51.81
+5251,Coldrerio,Ticino,CH,21.2,15.76,30.88,25.44
+5254,Mendrisio,Ticino,CH,141.52,106.99,189.9,155.37
+5257,Morbio Inferiore,Ticino,CH,27.44,20,40.64,33.2
+5260,Novazzano,Ticino,CH,30.75,24.43,41.12,34.8
+5263,Riva San Vitale,Ticino,CH,20.28,14.61,24.9,19.23
+5266,Stabio,Ticino,CH,70.57,59.79,88.79,78.01
+5268,Vacallo,Ticino,CH,16.99,11.43,27.25,21.69
+5269,Breggia,Ticino,CH,21.58,14.43,29.06,21.91
+5281,Biasca,Ticino,CH,39.3,27.04,51.49,39.23
+5287,Riviera,Ticino,CH,30.39,21.77,40.3,31.68
+5304,Bosco/Gurin,Ticino,CH,2.04,1.31,2.69,1.96
+5307,Campo (Vallemaggia),Ticino,CH,3.69,2.46,4.82,3.59
+5309,Cerentino,Ticino,CH,1.4,0.84,2.07,1.51
+5310,Cevio,Ticino,CH,8.67,4.42,12,7.75
+5315,Linescio,Ticino,CH,0.87,0.43,1.15,0.71
+5317,Maggia,Ticino,CH,24.55,14.97,32.94,23.36
+5323,Lavizzara,Ticino,CH,10.43,6.84,14.04,10.45
+5324,Avegno Gordevio,Ticino,CH,14.06,9.6,18.48,14.02
+5396,Terre di Pedemonte,Ticino,CH,20.38,12.19,28.76,20.57
+5397,Centovalli,Ticino,CH,15.87,9.49,20.96,14.58
+5398,Gambarogno,Ticino,CH,62.4,41.72,77.48,56.8
+5401,Aigle,Vaud,CH,72.88,58.4,91.51,77.03
+5402,Bex,Vaud,CH,59.14,41.05,75.91,57.82
+5403,Chessel,Vaud,CH,4.68,3.6,6.08,5
+5404,Corbeyrier,Vaud,CH,5.5,3.32,7.24,5.06
+5405,Gryon,Vaud,CH,24.11,13.17,31.49,20.55
+5406,Lavey-Morcles,Vaud,CH,6.65,4.31,9.1,6.76
+5407,Leysin,Vaud,CH,29.89,19.85,41.8,31.76
+5408,Noville,Vaud,CH,13.06,10.38,15.74,13.06
+5409,Ollon,Vaud,CH,79.59,49.02,105.03,74.46
+5410,Ormont-Dessous,Vaud,CH,27.79,18.27,37.25,27.73
+5411,Ormont-Dessus,Vaud,CH,33.88,22.39,45.58,34.09
+5412,Rennaz,Vaud,CH,12.87,11.36,14.63,13.12
+5413,Roche (VD),Vaud,CH,13.67,10.74,17,14.07
+5414,Villeneuve (VD),Vaud,CH,35.19,27.16,41.31,33.28
+5415,Yvorne,Vaud,CH,18.95,15.42,22.29,18.76
+5421,Apples,Vaud,CH,13.07,9.71,17.14,13.78
+5422,Aubonne,Vaud,CH,28.25,20.96,35.89,28.6
+5423,Ballens,Vaud,CH,6.44,5,8.23,6.79
+5424,Berolle,Vaud,CH,3.79,2.82,5.01,4.04
+5425,Bière,Vaud,CH,22.09,17.97,28.41,24.29
+5426,Bougy-Villars,Vaud,CH,4.34,2.75,5.67,4.08
+5427,Féchy,Vaud,CH,7.61,5.18,10.1,7.67
+5428,Gimel,Vaud,CH,14.87,10.88,19.82,15.83
+5429,Longirod,Vaud,CH,5.5,4.04,7.18,5.72
+5430,Marchissy,Vaud,CH,4.69,3.51,5.89,4.71
+5431,Mollens (VD),Vaud,CH,4.85,3.6,6.19,4.94
+5432,Montherod,Vaud,CH,3.89,2.76,5.25,4.12
+5434,Saint-George,Vaud,CH,8.51,5.62,11.27,8.38
+5435,Saint-Livres,Vaud,CH,6.65,4.97,8.35,6.67
+5436,Saint-Oyens,Vaud,CH,3.57,2.62,4.75,3.8
+5437,Saubraz,Vaud,CH,3.33,2.29,4.61,3.57
+5451,Avenches,Vaud,CH,44.1,35.17,56.35,47.42
+5456,Cudrefin,Vaud,CH,19.03,14.06,24.53,19.56
+5458,Faoug,Vaud,CH,7.36,4.83,9.76,7.23
+5464,Vully-les-Lacs,Vaud,CH,34.71,23.48,46.3,35.07
+5471,Bettens,Vaud,CH,4.84,3.5,6.55,5.21
+5472,Bournens,Vaud,CH,3.8,2.73,4.97,3.9
+5473,Boussens,Vaud,CH,7.17,5.16,9.39,7.38
+5474,La Chaux (Cossonay),Vaud,CH,4.7,3.45,5.96,4.71
+5475,Chavannes-le-Veyron,Vaud,CH,2.76,2.33,3.55,3.12
+5476,Chevilly,Vaud,CH,3.49,2.66,4.49,3.66
+5477,Cossonay,Vaud,CH,21.23,15.26,27.56,21.59
+5478,Cottens (VD),Vaud,CH,4.5,3.3,5.85,4.65
+5479,Cuarnens,Vaud,CH,6.18,4.39,7.82,6.03
+5480,Daillens,Vaud,CH,13.51,10.46,16.93,13.88
+5481,Dizy,Vaud,CH,3.44,2.74,4.29,3.59
+5482,Eclépens,Vaud,CH,19.16,16.57,22.64,20.05
+5483,Ferreyres,Vaud,CH,3.68,2.9,4.53,3.75
+5484,Gollion,Vaud,CH,7.61,5.56,10.14,8.09
+5485,Grancy,Vaud,CH,5.14,3.81,6.83,5.5
+5486,L'Isle,Vaud,CH,11.26,7.77,14.86,11.37
+5487,Lussery-Villars,Vaud,CH,4.19,3.23,5.47,4.51
+5488,Mauraz,Vaud,CH,0.88,0.7,1.16,0.98
+5489,Mex (VD),Vaud,CH,12.43,10.31,14.53,12.41
+5490,Moiry,Vaud,CH,3.63,2.76,4.67,3.8
+5491,Mont-la-Ville,Vaud,CH,5.43,4,7.08,5.65
+5492,Montricher,Vaud,CH,11.25,8.61,14.64,12
+5493,Orny,Vaud,CH,4.98,3.87,6.07,4.96
+5494,Pampigny,Vaud,CH,11.06,8.45,14.49,11.88
+5495,Penthalaz,Vaud,CH,18.12,12.75,25.03,19.66
+5496,Penthaz,Vaud,CH,11.03,7.76,14.65,11.38
+5497,Pompaples,Vaud,CH,5.73,3.88,7.6,5.75
+5498,La Sarraz,Vaud,CH,14,8.78,18.49,13.27
+5499,Senarclens,Vaud,CH,5.33,4.1,6.89,5.66
+5500,Sévery,Vaud,CH,3.7,2.79,4.76,3.85
+5501,Sullens,Vaud,CH,7.52,5.16,9.91,7.55
+5503,Vufflens-la-Ville,Vaud,CH,11.87,8.88,15.02,12.03
+5511,Assens,Vaud,CH,10.81,8.13,13.93,11.25
+5512,Bercher,Vaud,CH,11.25,8.13,14.63,11.51
+5513,Bioley-Orjulaz,Vaud,CH,5.38,4.05,7.01,5.68
+5514,Bottens,Vaud,CH,10.41,7.4,13.61,10.6
+5515,Bretigny-sur-Morrens,Vaud,CH,4.91,3.3,6.54,4.93
+5516,Cugy (VD),Vaud,CH,15.73,10.88,21.66,16.81
+5518,Echallens,Vaud,CH,29.15,20.01,39.45,30.31
+5520,Essertines-sur-Yverdon,Vaud,CH,10.98,7.83,13.88,10.73
+5521,Etagnières,Vaud,CH,9.3,6.98,12.18,9.86
+5522,Fey,Vaud,CH,6.29,4.21,8.29,6.21
+5523,Froideville,Vaud,CH,13.39,8.35,17.96,12.92
+5527,Morrens (VD),Vaud,CH,7.32,4.73,9.54,6.95
+5529,Oulens-sous-Echallens,Vaud,CH,6.45,4.75,8.56,6.86
+5530,Pailly,Vaud,CH,6.7,4.83,8.59,6.72
+5531,Penthéréaz,Vaud,CH,5.4,4.2,7.15,5.95
+5533,Poliez-Pittet,Vaud,CH,6.72,4.59,8.85,6.72
+5534,Rueyres,Vaud,CH,4.42,3.54,5.71,4.83
+5535,Saint-Barthélemy (VD),Vaud,CH,6.47,4.64,8.64,6.81
+5537,Villars-le-Terroir,Vaud,CH,10.16,7.53,13.49,10.86
+5539,Vuarrens,Vaud,CH,10.38,7.82,13.68,11.12
+5540,Montilliez,Vaud,CH,16.74,12.07,21.78,17.11
+5541,Goumoëns,Vaud,CH,10.71,7.6,14.2,11.09
+5551,Bonvillars,Vaud,CH,14.49,12.7,16.14,14.35
+5552,Bullet,Vaud,CH,8.61,5.46,11.95,8.8
+5553,Champagne,Vaud,CH,7.31,4.89,9.6,7.18
+5554,Concise,Vaud,CH,7.35,4.82,9.71,7.18
+5555,Corcelles-près-Concise,Vaud,CH,3.05,1.99,3.89,2.83
+5556,Fiez,Vaud,CH,4.15,2.88,5.41,4.14
+5557,Fontaines-sur-Grandson,Vaud,CH,2.24,1.72,2.66,2.14
+5559,Giez,Vaud,CH,4.5,2.9,6.14,4.54
+5560,Grandevent,Vaud,CH,2.29,1.56,3.18,2.45
+5561,Grandson,Vaud,CH,21.21,13.88,28.54,21.21
+5562,Mauborget,Vaud,CH,2,1.23,2.72,1.95
+5563,Mutrux,Vaud,CH,2.07,1.67,2.62,2.22
+5564,Novalles,Vaud,CH,1.78,1.41,2.14,1.77
+5565,Onnens (VD),Vaud,CH,13.31,11.73,14.9,13.32
+5566,Provence,Vaud,CH,8.1,6.57,10.19,8.66
+5568,Sainte-Croix,Vaud,CH,35.05,21.26,49.9,36.11
+5571,Tévenon,Vaud,CH,7.12,4.48,9.9,7.26
+5581,Belmont-sur-Lausanne,Vaud,CH,14.75,9.03,19.96,14.24
+5582,Cheseaux-sur-Lausanne,Vaud,CH,23.15,17.34,31.3,25.49
+5583,Crissier,Vaud,CH,60.69,49.87,77.63,66.81
+5584,Epalinges,Vaud,CH,37.31,23.45,53.2,39.34
+5585,Jouxtens-Mézery,Vaud,CH,9.69,6.28,12.72,9.31
+5586,Lausanne,Vaud,CH,326.86,234.42,461.19,368.75
+5587,Le Mont-sur-Lausanne,Vaud,CH,60.32,45.21,79.52,64.41
+5588,Paudex,Vaud,CH,5.56,3.17,7.59,5.2
+5589,Prilly,Vaud,CH,34.08,24.06,49.88,39.86
+5590,Pully,Vaud,CH,56.78,35.85,80.55,59.62
+5591,Renens (VD),Vaud,CH,61.96,46.87,86.18,71.09
+5592,Romanel-sur-Lausanne,Vaud,CH,21.27,16.82,27.77,23.32
+5601,Chexbres,Vaud,CH,9.95,5.68,13.55,9.28
+5604,Forel (Lavaux),Vaud,CH,24.98,18.1,32.75,25.87
+5606,Lutry,Vaud,CH,47.38,28.96,61.09,42.67
+5607,Puidoux,Vaud,CH,33.65,26.19,42.53,35.07
+5609,Rivaz,Vaud,CH,1.78,1.05,2.12,1.39
+5610,Saint-Saphorin (Lavaux),Vaud,CH,2.28,1.21,2.92,1.85
+5611,Savigny,Vaud,CH,29.56,19.44,39.75,29.63
+5613,Bourg-en-Lavaux,Vaud,CH,32.3,18.7,41.52,27.92
+5621,Aclens,Vaud,CH,14.33,12.54,17.3,15.51
+5622,Bremblens,Vaud,CH,5.73,4.37,7.64,6.28
+5623,Buchillon,Vaud,CH,5.27,3.27,6.86,4.86
+5624,Bussigny,Vaud,CH,48.99,38.25,64.55,53.81
+5625,Bussy-Chardonney,Vaud,CH,4.33,3.13,5.57,4.37
+5627,Chavannes-près-Renens,Vaud,CH,16.46,12.73,24.19,20.46
+5628,Chigny,Vaud,CH,2.14,1.31,2.79,1.96
+5629,Clarmont,Vaud,CH,2.1,1.64,2.78,2.32
+5631,Denens,Vaud,CH,6.14,4.21,7.89,5.96
+5632,Denges,Vaud,CH,11.11,8.58,14.33,11.8
+5633,Echandens,Vaud,CH,17.52,12.35,23.71,18.54
+5634,Echichens,Vaud,CH,21.74,15.54,28.47,22.27
+5635,Ecublens (VD),Vaud,CH,79.54,67.32,98.98,86.76
+5636,Etoy,Vaud,CH,33.84,27.98,42.57,36.71
+5637,Lavigny,Vaud,CH,9.68,7.4,12.3,10.02
+5638,Lonay,Vaud,CH,25.49,20.46,31.55,26.52
+5639,Lully (VD),Vaud,CH,5.52,3.4,7.34,5.22
+5640,Lussy-sur-Morges,Vaud,CH,4.67,3.21,6.2,4.74
+5642,Morges,Vaud,CH,50.22,34.83,69.65,54.26
+5643,Préverenges,Vaud,CH,19.93,14.21,27.3,21.58
+5644,Reverolle,Vaud,CH,3.1,2.14,4.06,3.1
+5645,Romanel-sur-Morges,Vaud,CH,6.43,4.95,8.05,6.57
+5646,Saint-Prex,Vaud,CH,33.9,25.55,43.39,35.04
+5648,Saint-Sulpice (VD),Vaud,CH,19.16,13.31,26.41,20.56
+5649,Tolochenaz,Vaud,CH,17.53,14.53,21.97,18.97
+5650,Vaux-sur-Morges,Vaud,CH,2.9,2.35,3.78,3.23
+5651,Villars-Sainte-Croix,Vaud,CH,13.04,10.99,16.05,14
+5652,Villars-sous-Yens,Vaud,CH,4.75,3.57,6.26,5.08
+5653,Vufflens-le-Château,Vaud,CH,5.82,3.66,7.85,5.69
+5654,Vullierens,Vaud,CH,6.99,5.28,8.77,7.06
+5655,Yens,Vaud,CH,14.42,10.93,18.36,14.87
+5661,Boulens,Vaud,CH,4.49,3.52,5.97,5
+5663,Bussy-sur-Moudon,Vaud,CH,2.83,2.03,3.88,3.08
+5665,Chavannes-sur-Moudon,Vaud,CH,4.33,3.35,5.4,4.42
+5669,Curtilles,Vaud,CH,4.35,3.08,5.96,4.69
+5671,Dompierre (VD),Vaud,CH,4.56,3.29,6.14,4.87
+5673,Hermenches,Vaud,CH,4.67,3.47,6.11,4.91
+5674,Lovatens,Vaud,CH,2.67,1.81,3.38,2.52
+5675,Lucens,Vaud,CH,36.59,27.48,47.92,38.81
+5678,Moudon,Vaud,CH,45.94,35.65,59.04,48.75
+5680,Ogens,Vaud,CH,3.69,2.68,4.42,3.41
+5683,Prévonloup,Vaud,CH,2.17,1.48,2.89,2.2
+5684,Rossenges,Vaud,CH,1.08,0.8,1.44,1.16
+5688,Syens,Vaud,CH,2.21,1.5,2.92,2.21
+5690,Villars-le-Comte,Vaud,CH,2.95,2.28,3.89,3.22
+5692,Vucherens,Vaud,CH,6.47,4.55,8.67,6.75
+5693,Montanaire,Vaud,CH,38.46,28.71,49.97,40.22
+5701,Arnex-sur-Nyon,Vaud,CH,1.9,1.46,2.54,2.1
+5702,Arzier-Le Muids,Vaud,CH,19,12.07,25.66,18.73
+5703,Bassins,Vaud,CH,11.08,7.49,14.75,11.16
+5704,Begnins,Vaud,CH,11.38,7.39,15.31,11.32
+5705,Bogis-Bossey,Vaud,CH,5.64,3.77,7.31,5.44
+5706,Borex,Vaud,CH,8.18,5.81,10.19,7.82
+5707,Chavannes-de-Bogis,Vaud,CH,12.7,9.7,15.67,12.67
+5708,Chavannes-des-Bois,Vaud,CH,4.61,2.93,6.13,4.45
+5709,Chéserex,Vaud,CH,8.71,5.77,11.36,8.42
+5710,Coinsins,Vaud,CH,5.48,4.14,7.25,5.91
+5711,Commugny,Vaud,CH,19.1,11.86,24.6,17.36
+5712,Coppet,Vaud,CH,17.39,10.97,22.34,15.92
+5713,Crans-près-Céligny,Vaud,CH,15.42,9.83,19.85,14.26
+5714,Crassier,Vaud,CH,7.38,5.12,9.75,7.49
+5715,Duillier,Vaud,CH,8.64,6.12,11.24,8.72
+5716,Eysins,Vaud,CH,9.82,7.25,13.1,10.53
+5717,Founex,Vaud,CH,25.06,16.68,32.52,24.14
+5718,Genolier,Vaud,CH,15.34,9.9,19.96,14.52
+5719,Gingins,Vaud,CH,10.35,7.03,13.54,10.22
+5720,Givrins,Vaud,CH,8.76,5.9,11.12,8.26
+5721,Gland,Vaud,CH,53.05,38.96,71.33,57.24
+5722,Grens,Vaud,CH,3.52,2.51,4.51,3.5
+5723,Mies,Vaud,CH,13.68,9.3,17.64,13.26
+5724,Nyon,Vaud,CH,67.97,50.33,93.21,75.57
+5725,Prangins,Vaud,CH,22.39,14.81,29.12,21.54
+5726,La Rippe,Vaud,CH,8.94,6.45,11.71,9.22
+5727,Saint-Cergue,Vaud,CH,14.13,7.45,19.71,13.03
+5728,Signy-Avenex,Vaud,CH,5.2,3.86,6.55,5.21
+5729,Tannay,Vaud,CH,9.98,6.07,12.89,8.98
+5730,Trélex,Vaud,CH,10.93,7.26,14.23,10.56
+5731,Le Vaud,Vaud,CH,9.86,6.4,13,9.54
+5732,Vich,Vaud,CH,7.33,5.36,9.39,7.42
+5741,L'Abergement,Vaud,CH,2.94,2.12,3.9,3.08
+5742,Agiez,Vaud,CH,3.77,2.8,4.68,3.71
+5743,Arnex-sur-Orbe,Vaud,CH,6.44,4.74,8.18,6.48
+5744,Ballaigues,Vaud,CH,10.35,7.57,13.71,10.93
+5745,Baulmes,Vaud,CH,9.64,6.65,12.63,9.64
+5746,Bavois,Vaud,CH,8.43,6.11,11.03,8.71
+5747,Bofflens,Vaud,CH,3.38,2.64,4,3.26
+5748,Bretonnières,Vaud,CH,3.68,2.9,4.7,3.92
+5749,Chavornay,Vaud,CH,38.42,29.27,49.65,40.5
+5750,Les Clées,Vaud,CH,1.69,1.13,2.06,1.5
+5752,Croy,Vaud,CH,2.85,1.91,3.81,2.87
+5754,Juriens,Vaud,CH,4.02,3.14,5.15,4.27
+5755,Lignerolle,Vaud,CH,5.56,4.22,6.86,5.52
+5756,Montcherand,Vaud,CH,4.2,2.79,5.41,4
+5757,Orbe,Vaud,CH,44.49,34.6,58.34,48.45
+5758,La Praz,Vaud,CH,2.47,1.78,3.22,2.53
+5759,Premier,Vaud,CH,2.89,2.12,3.83,3.06
+5760,Rances,Vaud,CH,5.75,4.19,7.2,5.64
+5761,Romainmôtier-Envy,Vaud,CH,4.89,3.56,5.87,4.54
+5762,Sergey,Vaud,CH,1.77,1.29,2,1.52
+5763,Valeyres-sous-Rances,Vaud,CH,5.8,4.2,7.48,5.88
+5764,Vallorbe,Vaud,CH,23.39,14.81,30.53,21.95
+5765,Vaulion,Vaud,CH,6.55,4.34,8.23,6.02
+5766,Vuiteboeuf,Vaud,CH,5.2,3.68,6.9,5.38
+5785,Corcelles-le-Jorat,Vaud,CH,8.16,6.01,10.43,8.28
+5788,Essertes,Vaud,CH,3.83,2.63,5.04,3.84
+5790,Maracon,Vaud,CH,5.64,3.78,7.61,5.75
+5792,Montpreveyres,Vaud,CH,4.61,2.97,6.26,4.62
+5798,Ropraz,Vaud,CH,6.02,4.52,7.71,6.21
+5799,Servion,Vaud,CH,16.21,10.97,21.44,16.2
+5803,Vulliens,Vaud,CH,7.28,5.56,9.84,8.12
+5804,Jorat-Menthue,Vaud,CH,17.58,12.67,23.07,18.16
+5805,Oron,Vaud,CH,52.28,38.65,69.92,56.29
+5806,Jorat-Mézières,Vaud,CH,26.56,18.92,35.39,27.75
+5812,Champtauroz,Vaud,CH,2.4,1.81,3.22,2.63
+5813,Chevroux,Vaud,CH,6.62,4.58,8.66,6.62
+5816,Corcelles-près-Payerne,Vaud,CH,28.54,22.58,37.31,31.35
+5817,Grandcour,Vaud,CH,13.45,10.28,17.6,14.43
+5819,Henniez,Vaud,CH,8.34,7.16,9.66,8.48
+5821,Missy,Vaud,CH,5.68,4.37,7.61,6.3
+5822,Payerne,Vaud,CH,74.89,58.49,97.43,81.03
+5827,Trey,Vaud,CH,7.02,5.78,8.23,6.99
+5828,Treytorrens (Payerne),Vaud,CH,2.61,1.99,3.19,2.57
+5830,Villarzel,Vaud,CH,7.03,5.19,9.38,7.54
+5831,Valbroye,Vaud,CH,44.73,33.9,58.57,47.74
+5841,Château-d'Oex,Vaud,CH,56.08,40.23,75.55,59.7
+5842,Rossinière,Vaud,CH,8.08,5.22,10.56,7.7
+5843,Rougemont,Vaud,CH,25.48,18.55,34.36,27.43
+5851,Allaman,Vaud,CH,9.65,8.22,11.57,10.14
+5852,Bursinel,Vaud,CH,3.81,2.75,5,3.94
+5853,Bursins,Vaud,CH,8.03,5.97,10.08,8.02
+5854,Burtigny,Vaud,CH,4.69,3.44,6.05,4.8
+5855,Dully,Vaud,CH,4.56,2.89,5.98,4.31
+5856,Essertines-sur-Rolle,Vaud,CH,7.62,5.43,9.83,7.64
+5857,Gilly,Vaud,CH,10.72,7.39,14.14,10.81
+5858,Luins,Vaud,CH,5.68,4.03,7.24,5.59
+5859,Mont-sur-Rolle,Vaud,CH,12.97,8.06,18.5,13.59
+5860,Perroy,Vaud,CH,11.33,7.82,14.68,11.17
+5861,Rolle,Vaud,CH,29,20.59,38.12,29.71
+5862,Tartegnin,Vaud,CH,1.48,0.86,1.67,1.05
+5863,Vinzel,Vaud,CH,3.55,2.66,4.26,3.37
+5871,L'Abbaye,Vaud,CH,13.76,8.66,18.09,12.99
+5872,Le Chenit,Vaud,CH,40.28,26.75,55.82,42.29
+5873,Le Lieu,Vaud,CH,10.5,7.01,13.8,10.31
+5881,Blonay,Vaud,CH,32.63,18.47,44.23,30.07
+5882,Chardonne,Vaud,CH,20.52,11.86,29.1,20.44
+5883,Corseaux,Vaud,CH,11.55,6.56,16.98,11.99
+5884,Corsier-sur-Vevey,Vaud,CH,17.34,11.38,24.16,18.2
+5885,Jongny,Vaud,CH,8.77,5.05,12.52,8.8
+5886,Montreux,Vaud,CH,75.73,44.55,103.19,72.01
+5888,Saint-Légier-La Chiésaz,Vaud,CH,34.93,22.81,47.36,35.24
+5889,La Tour-de-Peilz,Vaud,CH,34.79,22.68,48.85,36.74
+5890,Vevey,Vaud,CH,43.69,28.09,60.26,44.66
+5891,Veytaux,Vaud,CH,2.73,1.25,3.57,2.09
+5902,Belmont-sur-Yverdon,Vaud,CH,5.3,4.08,6.81,5.59
+5903,Bioley-Magnoux,Vaud,CH,3.74,2.76,4.89,3.91
+5904,Chamblon,Vaud,CH,4.95,3.56,6.45,5.06
+5905,Champvent,Vaud,CH,9.45,7.53,12.02,10.1
+5907,Chavannes-le-Chêne,Vaud,CH,3.95,2.48,5.33,3.86
+5908,Chêne-Pâquier,Vaud,CH,1.89,1.36,2.53,2
+5909,Cheseaux-Noréaz,Vaud,CH,6.02,3.92,7.85,5.75
+5910,Cronay,Vaud,CH,5.68,4.21,7.18,5.71
+5911,Cuarny,Vaud,CH,3.27,2.34,4.38,3.45
+5912,Démoret,Vaud,CH,3.67,2.89,4.4,3.62
+5913,Donneloye,Vaud,CH,9.7,7.16,12.52,9.98
+5914,Ependes (VD),Vaud,CH,7.52,6.51,8.68,7.67
+5919,Mathod,Vaud,CH,14.28,12.83,16.2,14.75
+5921,Molondin,Vaud,CH,3.71,2.53,4.57,3.39
+5922,Montagny-près-Yverdon,Vaud,CH,25.71,23.32,28.72,26.33
+5923,Oppens,Vaud,CH,3.96,3.08,5.07,4.19
+5924,Orges,Vaud,CH,3.93,2.92,5.19,4.18
+5925,Orzens,Vaud,CH,3.78,2.7,4.97,3.89
+5926,Pomy,Vaud,CH,9.39,7.19,11.94,9.74
+5928,Rovray,Vaud,CH,3.73,2.91,4.86,4.04
+5929,Suchy,Vaud,CH,6.41,4.89,8.3,6.78
+5930,Suscévaz,Vaud,CH,2.53,1.86,3.39,2.72
+5931,Treycovagnes,Vaud,CH,3.51,2.26,4.73,3.48
+5932,Ursins,Vaud,CH,2.91,2.04,3.88,3.01
+5933,Valeyres-sous-Montagny,Vaud,CH,4.71,3.07,6.42,4.78
+5934,Valeyres-sous-Ursins,Vaud,CH,3.26,2.45,4.06,3.25
+5935,Villars-Epeney,Vaud,CH,0.88,0.59,1.18,0.89
+5937,Vugelles-La Mothe,Vaud,CH,1.6,1.08,2.16,1.64
+5938,Yverdon-les-Bains,Vaud,CH,125.72,93.96,166.02,134.26
+5939,Yvonand,Vaud,CH,24.04,16.81,31.13,23.9
+6002,Brig-Glis,Valais,CH,77.97,58.22,103.79,84.04
+6004,Eggerberg,Valais,CH,5.38,3.79,7.77,6.18
+6007,Naters,Valais,CH,66.03,45.88,98.05,77.9
+6008,Ried-Brig,Valais,CH,18.24,12.32,25.27,19.35
+6009,Simplon,Valais,CH,7.39,5.68,10.06,8.35
+6010,Termen,Valais,CH,12.38,8.68,17.03,13.33
+6011,Zwischbergen,Valais,CH,1.21,1.06,1.61,1.46
+6021,Ardon,Valais,CH,25.81,19.09,34.11,27.39
+6022,Chamoson,Valais,CH,35.69,23.34,47.74,35.39
+6023,Conthey,Valais,CH,89.66,70.02,122.02,102.38
+6024,Nendaz,Valais,CH,85.14,53.48,112.34,80.68
+6025,Vétroz,Valais,CH,47.86,36.15,64.43,52.72
+6031,Bagnes,Valais,CH,118.45,74.51,163.34,119.4
+6032,Bourg-Saint-Pierre,Valais,CH,6.4,5.37,7.32,6.29
+6033,Liddes,Valais,CH,11.65,8.19,15.49,12.03
+6034,Orsières,Valais,CH,36.68,20.95,48.71,32.98
+6035,Sembrancher,Valais,CH,11.67,9,14.17,11.5
+6036,Vollèges,Valais,CH,20.58,14.04,27.37,20.83
+6052,Bellwald,Valais,CH,12.8,7.88,19.31,14.39
+6054,Binn,Valais,CH,4.18,3.18,5.14,4.14
+6056,Ernen,Valais,CH,10.49,6.77,14.47,10.75
+6057,Fiesch,Valais,CH,14.1,8.95,20.74,15.59
+6058,Fieschertal,Valais,CH,5.04,3.71,7.32,5.99
+6061,Lax,Valais,CH,5.31,3.66,7.73,6.08
+6076,Obergoms,Valais,CH,19.07,14.03,26.4,21.36
+6077,Goms,Valais,CH,31.37,22.71,44.22,35.56
+6082,Ayent,Valais,CH,47.9,33.02,67.32,52.44
+6083,Evolène,Valais,CH,28.94,14.92,41.86,27.84
+6084,Hérémence,Valais,CH,19.71,8.1,27.52,15.91
+6087,Saint-Martin (VS),Valais,CH,12.68,9.09,18.26,14.67
+6089,Vex,Valais,CH,23.95,14.22,33.45,23.72
+6090,Mont-Noble,Valais,CH,20.51,12.39,27.53,19.41
+6101,Agarn,Valais,CH,7.33,5.28,9.51,7.46
+6102,Albinen,Valais,CH,7.22,5.46,9.52,7.76
+6104,Ergisch,Valais,CH,4.26,3.05,5.63,4.42
+6109,Inden,Valais,CH,1.95,1.27,2.72,2.04
+6110,Leuk,Valais,CH,43.07,31.27,57.24,45.44
+6111,Leukerbad,Valais,CH,18.25,11.56,25.75,19.06
+6112,Oberems,Valais,CH,5.4,4.43,6.84,5.87
+6113,Salgesch,Valais,CH,16.03,11.5,21.5,16.97
+6116,Varen,Valais,CH,6.93,4.7,9.77,7.54
+6117,Guttet-Feschel,Valais,CH,7.21,4.71,10.13,7.63
+6118,Gampel-Bratsch,Valais,CH,19.96,13.5,28.33,21.87
+6119,Turtmann-Unterems,Valais,CH,17.4,13.9,22.35,18.85
+6131,Bovernier,Valais,CH,4.95,2.49,6.45,3.99
+6132,Charrat,Valais,CH,22.74,18.11,28.19,23.56
+6133,Fully,Valais,CH,69.66,50.97,89.08,70.39
+6134,Isérables,Valais,CH,7.61,4.41,11.15,7.95
+6135,Leytron,Valais,CH,36.09,24.04,49.14,37.09
+6136,Martigny,Valais,CH,101.22,80.02,127.16,105.96
+6137,Martigny-Combe,Valais,CH,15.41,7.93,20.97,13.49
+6139,Riddes,Valais,CH,35.66,23.14,46.7,34.18
+6140,Saillon,Valais,CH,28.83,22.9,35.04,29.11
+6141,Saxon,Valais,CH,47.23,35.22,60.35,48.34
+6142,Trient,Valais,CH,3,2.07,3.86,2.93
+6151,Champéry,Valais,CH,19.43,11.19,27.17,18.93
+6152,Collombey-Muraz,Valais,CH,62.82,46.28,80.89,64.35
+6153,Monthey,Valais,CH,82.32,60.79,106.92,85.39
+6154,Port-Valais,Valais,CH,21.42,14.86,27.76,21.2
+6155,Saint-Gingolph,Valais,CH,3.95,1.84,4.83,2.72
+6156,Troistorrents,Valais,CH,45.23,26.59,61.37,42.73
+6157,Val-d'Illiez,Valais,CH,23.31,13.36,32.05,22.1
+6158,Vionnaz,Valais,CH,18.17,11.81,23.97,17.61
+6159,Vouvry,Valais,CH,30.28,22.61,38.6,30.93
+6172,Bister,Valais,CH,0.95,0.75,1.19,0.99
+6173,Bitsch,Valais,CH,8.16,5.56,11.43,8.83
+6177,Grengiols,Valais,CH,8.61,6.9,11.08,9.37
+6181,Riederalp,Valais,CH,15.82,10.6,23.48,18.26
+6191,Ausserberg,Valais,CH,8.96,6.7,13.12,10.86
+6192,Blatten,Valais,CH,6.78,5.35,8.84,7.41
+6193,Bürchen,Valais,CH,16.37,10.65,22.74,17.02
+6194,Eischoll,Valais,CH,8.72,6.8,11.59,9.67
+6195,Ferden,Valais,CH,3.81,2.78,5.18,4.15
+6197,Kippel,Valais,CH,4.03,2.73,5.09,3.79
+6198,Niedergesteln,Valais,CH,8.38,6.14,11.35,9.11
+6199,Raron,Valais,CH,21.79,17.1,29.5,24.81
+6201,Unterbäch,Valais,CH,8.5,6.1,11.76,9.36
+6202,Wiler (Lötschen),Valais,CH,10.13,6.91,14.78,11.56
+6203,Mörel-Filet,Valais,CH,8.3,5.38,11.54,8.62
+6204,Steg-Hohtenn,Valais,CH,23.78,18.93,31.71,26.86
+6205,Bettmeralp,Valais,CH,16.29,11.15,25.18,20.04
+6211,Collonges,Valais,CH,5.26,3.71,6.66,5.11
+6212,Dorénaz,Valais,CH,7.68,4.97,9.87,7.16
+6213,Evionnaz,Valais,CH,11.63,8.56,13.7,10.63
+6214,Finhaut,Valais,CH,5.62,3.35,8.17,5.9
+6215,Massongex,Valais,CH,10.58,7.22,13.87,10.51
+6217,Saint-Maurice,Valais,CH,24,16.14,29.1,21.24
+6218,Salvan,Valais,CH,13.68,6.4,19.11,11.83
+6219,Vernayaz,Valais,CH,11.81,7.93,14.66,10.78
+6220,Vérossaz,Valais,CH,5.52,3.65,7.45,5.58
+6232,Chalais,Valais,CH,34.77,22.82,46.23,34.28
+6235,Chippis,Valais,CH,10.37,8.1,13.63,11.36
+6238,Grône,Valais,CH,20.7,14.48,26.91,20.69
+6239,Icogne,Valais,CH,8.84,5.73,11.75,8.64
+6240,Lens,Valais,CH,50.56,32.78,70.23,52.45
+6241,Miège,Valais,CH,9.63,6.34,13.64,10.35
+6246,Saint-Léonard,Valais,CH,15.51,10.67,21.88,17.04
+6248,Sierre,Valais,CH,120.99,93.31,163.61,135.93
+6249,Venthône,Valais,CH,11.59,7.54,15.35,11.3
+6250,Veyras,Valais,CH,11.03,7.33,15.64,11.94
+6252,Anniviers,Valais,CH,52.85,30.42,74.94,52.51
+6253,Crans-Montana,Valais,CH,111.12,72.48,158.52,119.88
+6261,Arbaz,Valais,CH,18.08,11.96,24.83,18.71
+6263,Grimisuat,Valais,CH,26.48,17.69,37.28,28.49
+6265,Savièse,Valais,CH,74.76,52.43,103.23,80.9
+6266,Sion,Valais,CH,205.01,157.17,282.35,234.51
+6267,Veysonnaz,Valais,CH,6.86,3.96,8.96,6.06
+6281,Baltschieder,Valais,CH,9.31,6.78,13.47,10.94
+6282,Eisten,Valais,CH,1.59,1.13,2.25,1.79
+6283,Embd,Valais,CH,4.05,2.91,6.16,5.02
+6285,Grächen,Valais,CH,19.93,12.81,28.27,21.15
+6286,Lalden,Valais,CH,7.9,6.48,10.52,9.1
+6287,Randa,Valais,CH,4.73,3.25,6.96,5.48
+6288,Saas-Almagell,Valais,CH,4.38,2.75,6.18,4.55
+6289,Saas-Balen,Valais,CH,4.73,3.57,6.6,5.44
+6290,Saas-Fee,Valais,CH,21.7,13.72,32.49,24.51
+6291,Saas-Grund,Valais,CH,11.28,7.34,16.97,13.03
+6292,St. Niklaus,Valais,CH,21.02,14.45,29.26,22.69
+6293,Stalden (VS),Valais,CH,8.56,5.36,11.5,8.3
+6294,Staldenried,Valais,CH,5.28,3.2,7.68,5.6
+6295,Täsch,Valais,CH,10.03,7.87,13.02,10.86
+6296,Törbel,Valais,CH,9.75,7.36,13.95,11.56
+6297,Visp,Valais,CH,59.22,48.36,76.06,65.2
+6298,Visperterminen,Valais,CH,15.11,10.66,20.73,16.28
+6299,Zeneggen,Valais,CH,5.72,4.08,8.38,6.74
+6300,Zermatt,Valais,CH,51.59,34.06,73.93,56.4
+6404,Boudry,Neuchâtel,CH,28.46,20.63,38.72,30.89
+6407,Corcelles-Cormondrèche,Neuchâtel,CH,21.42,13.06,29.59,21.23
+6408,Cortaillod,Neuchâtel,CH,27.24,20.05,35.17,27.98
+6412,Peseux,Neuchâtel,CH,16.33,9.11,23.81,16.59
+6413,Rochefort,Neuchâtel,CH,10.8,6.83,15,11.03
+6416,Milvignes,Neuchâtel,CH,43.11,26.77,58.69,42.35
+6417,La Grande-Béroche,Neuchâtel,CH,55.44,35.73,75.55,55.84
+6421,La Chaux-de-Fonds,Neuchâtel,CH,156.37,106.21,226.46,176.3
+6422,Les Planchettes,Neuchâtel,CH,3.11,2.11,4.13,3.13
+6423,La Sagne,Neuchâtel,CH,13.08,9.29,17.58,13.79
+6431,Les Brenets,Neuchâtel,CH,8.56,5.42,11.83,8.69
+6432,La Brévine,Neuchâtel,CH,16.04,12.41,21.89,18.26
+6433,Brot-Plamboz,Neuchâtel,CH,7.21,5.75,9.31,7.85
+6434,Le Cerneux-Péquignot,Neuchâtel,CH,6.61,5.12,8.89,7.4
+6435,La Chaux-du-Milieu,Neuchâtel,CH,8.56,6.68,11.26,9.38
+6436,Le Locle,Neuchâtel,CH,50.54,31.68,73.26,54.4
+6437,Les Ponts-de-Martel,Neuchâtel,CH,14.69,10.54,20.75,16.6
+6451,Cornaux,Neuchâtel,CH,13.47,10.28,17.27,14.08
+6452,Cressier (NE),Neuchâtel,CH,20.33,15.93,24.83,20.43
+6453,Enges,Neuchâtel,CH,2.83,1.7,3.76,2.63
+6454,Hauterive (NE),Neuchâtel,CH,8.31,4.71,12.23,8.63
+6455,Le Landeron,Neuchâtel,CH,23.97,16.15,30.96,23.14
+6456,Lignières,Neuchâtel,CH,11.8,8.81,15.22,12.23
+6458,Neuchâtel,Neuchâtel,CH,102.4,65.46,147.66,110.72
+6459,Saint-Blaise,Neuchâtel,CH,16.56,10.8,21.68,15.92
+6461,La Tène,Neuchâtel,CH,34.96,27.23,42.36,34.63
+6485,Valangin,Neuchâtel,CH,3.09,1.98,3.86,2.75
+6487,Val-de-Ruz,Neuchâtel,CH,123.51,83.34,168.73,128.56
+6504,La Côte-aux-Fées,Neuchâtel,CH,8.04,5.82,11.14,8.92
+6511,Les Verrières,Neuchâtel,CH,13.62,10.3,18.53,15.21
+6512,Val-de-Travers,Neuchâtel,CH,100.35,69.6,135.33,104.58
+6601,Aire-la-Ville,Genève,CH,8.84,6.97,10.69,8.82
+6602,Anières,Genève,CH,14.43,9.48,17.64,12.69
+6603,Avully,Genève,CH,8.73,6.78,10.8,8.85
+6604,Avusy,Genève,CH,9.55,7.02,11.75,9.22
+6605,Bardonnex,Genève,CH,15.48,12.05,18.61,15.18
+6606,Bellevue,Genève,CH,14.99,10.73,18.75,14.49
+6607,Bernex,Genève,CH,56.14,43.29,67.16,54.31
+6608,Carouge (GE),Genève,CH,60.47,48.85,76.55,64.93
+6609,Cartigny,Genève,CH,7.9,5.92,9.44,7.46
+6610,Céligny,Genève,CH,5.97,4.31,7.32,5.66
+6611,Chancy,Genève,CH,7.54,5.8,9.5,7.76
+6612,Chêne-Bougeries,Genève,CH,37.86,24.17,49.77,36.08
+6613,Chêne-Bourg,Genève,CH,20.68,14.16,27.18,20.66
+6614,Choulex,Genève,CH,8.77,6.25,11,8.48
+6615,Collex-Bossy,Genève,CH,10.56,7.13,13.29,9.86
+6616,Collonge-Bellerive,Genève,CH,47.27,31.1,57.91,41.74
+6617,Cologny,Genève,CH,28.33,19.22,35.28,26.17
+6618,Confignon,Genève,CH,19.62,13.99,25.1,19.47
+6619,Corsier (GE),Genève,CH,12.34,8.47,14.89,11.02
+6620,Dardagny,Genève,CH,12.3,9.42,15.45,12.57
+6621,Genève,Genève,CH,320.66,245,423.23,347.57
+6622,Genthod,Genève,CH,15.25,9.31,18.68,12.74
+6623,Le Grand-Saconnex,Genève,CH,57.1,48.31,68.96,60.17
+6624,Gy,Genève,CH,4.47,3.21,5.71,4.45
+6625,Hermance,Genève,CH,5.08,3.18,5.81,3.91
+6626,Jussy,Genève,CH,15.64,11.95,18.76,15.07
+6627,Laconnex,Genève,CH,4.67,3.18,5.8,4.31
+6628,Lancy,Genève,CH,81.09,63.81,106.99,89.71
+6629,Meinier,Genève,CH,14.77,11.39,18.38,15
+6630,Meyrin,Genève,CH,114.86,99.03,145.77,129.94
+6631,Onex,Genève,CH,31.27,20.74,45.6,35.07
+6632,Perly-Certoux,Genève,CH,23.2,20.01,26.34,23.15
+6633,Plan-les-Ouates,Genève,CH,69.1,55.14,85.53,71.57
+6634,Pregny-Chambésy,Genève,CH,20.96,14.26,26.41,19.71
+6635,Presinge,Genève,CH,5.38,3.96,6.69,5.27
+6636,Puplinge,Genève,CH,12.23,9.42,15.16,12.35
+6637,Russin,Genève,CH,5.78,4.52,7.32,6.06
+6638,Satigny,Genève,CH,71.67,63.49,85.59,77.41
+6639,Soral,Genève,CH,4.8,3.29,5.89,4.38
+6640,Thônex,Genève,CH,48.08,34.11,61.14,47.17
+6641,Troinex,Genève,CH,29.19,24.8,32.12,27.73
+6642,Vandoeuvres,Genève,CH,18.54,12,23.23,16.69
+6643,Vernier,Genève,CH,108.9,86.68,138.95,116.73
+6644,Versoix,Genève,CH,36.68,25.08,47.17,35.57
+6645,Veyrier,Genève,CH,52.6,34.99,62.91,45.3
+6702,Boécourt,Jura,CH,10.06,6.79,13.45,10.18
+6703,Bourrignon,Jura,CH,7.04,5.79,8.57,7.32
+6704,Châtillon (JU),Jura,CH,4.05,2.81,5.26,4.02
+6706,Courchapoix,Jura,CH,5.09,3.7,6.69,5.3
+6708,Courrendlin,Jura,CH,26.14,18.07,34.66,26.59
+6709,Courroux,Jura,CH,26.36,18.28,34.95,26.87
+6710,Courtételle,Jura,CH,19.51,13.59,26.17,20.25
+6711,Delémont,Jura,CH,82.03,60.15,110.06,88.18
+6712,Develier,Jura,CH,16.13,11.72,21.29,16.88
+6713,Ederswiler,Jura,CH,2.97,2.22,3.76,3.01
+6715,Mervelier,Jura,CH,5.55,3.66,7.41,5.52
+6716,Mettembert,Jura,CH,1.67,1.23,2.24,1.8
+6718,Movelier,Jura,CH,6.29,4.47,8.23,6.41
+6719,Pleigne,Jura,CH,8.29,6.68,10.67,9.06
+6721,Rossemaison,Jura,CH,5.69,3.74,7.52,5.57
+6722,Saulcy,Jura,CH,4.34,3.25,5.69,4.6
+6724,Soyhières,Jura,CH,3.39,2.11,4.65,3.37
+6729,Haute-Sorne,Jura,CH,64.32,44.84,84.23,64.75
+6730,Val Terbi,Jura,CH,32.88,22.7,43.18,33
+6741,Le Bémont (JU),Jura,CH,7.43,5.87,9.49,7.93
+6742,Les Bois,Jura,CH,13.9,9.77,19.11,14.98
+6743,Les Breuleux,Jura,CH,15.52,11.05,21.26,16.79
+6744,La Chaux-des-Breuleux,Jura,CH,2.22,1.67,2.7,2.15
+6745,Les Enfers,Jura,CH,3.21,2.51,4.04,3.34
+6748,Les Genevez (JU),Jura,CH,8.62,6.35,11.22,8.95
+6750,Lajoux (JU),Jura,CH,10.16,7.61,13.14,10.59
+6751,Montfaucon,Jura,CH,10.89,7.93,14.2,11.24
+6753,Muriaux,Jura,CH,10.44,8.02,13.39,10.97
+6754,Le Noirmont,Jura,CH,18.64,13.21,24.51,19.08
+6757,Saignelégier,Jura,CH,26.86,18.94,35.18,27.26
+6758,Saint-Brais,Jura,CH,4.92,3.58,6.48,5.14
+6759,Soubey,Jura,CH,3.12,2.27,4.2,3.35
+6771,Alle,Jura,CH,24.19,18.2,30.45,24.46
+6773,Beurnevésin,Jura,CH,3.46,2.79,4.4,3.73
+6774,Boncourt,Jura,CH,22.11,17.42,27.97,23.28
+6775,Bonfol,Jura,CH,12.39,9.67,15.98,13.26
+6778,Bure,Jura,CH,14.68,12,19.07,16.39
+6781,Coeuve,Jura,CH,9.82,7.04,12.43,9.65
+6782,Cornol,Jura,CH,11.31,8.09,14.53,11.31
+6783,Courchavon,Jura,CH,4.26,2.99,5.55,4.28
+6784,Courgenay,Jura,CH,31.19,24.6,39.8,33.21
+6785,Courtedoux,Jura,CH,8.04,5.43,10.65,8.04
+6787,Damphreux,Jura,CH,4.16,3.32,5.42,4.58
+6789,Fahy,Jura,CH,9.31,6.79,11.52,9
+6790,Fontenais,Jura,CH,17.28,11.9,22.85,17.47
+6792,Grandfontaine,Jura,CH,7.96,6.21,10.4,8.65
+6793,Lugnez,Jura,CH,3.85,2.93,4.92,4
+6800,Porrentruy,Jura,CH,49.44,34.05,66.65,51.26
+6806,Vendlincourt,Jura,CH,8.83,6.04,11.61,8.82
+6807,Basse-Allaine,Jura,CH,18.64,13.63,24.7,19.69
+6808,Clos du Doubs,Jura,CH,21.19,15.39,27.37,21.57
+6809,Haute-Ajoie,Jura,CH,26.39,20.84,33.19,27.64
+6810,La Baroche,Jura,CH,21.23,15.74,27.17,21.68
+7001,Vaduz,,LI,35.51,35.51,47.46,47.46
+7002,Triesen,,LI,29.8,29.8,38.71,38.71
+7003,Balzers,,LI,27.77,27.77,39.11,39.11
+7004,Triesenberg,,LI,20.21,20.21,30.73,30.73
+7005,Schaan,,LI,45.51,45.51,58.48,58.48
+7006,Planken,,LI,2.1,2.1,2.88,2.88
+7007,Eschen,,LI,34.46,34.46,46.75,46.75
+7008,Mauren,,LI,27.01,27.01,38.29,38.29
+7009,Gamprin,,LI,17.15,17.15,22.63,22.63
+7010,Ruggell,,LI,17.59,17.59,25.21,25.21
+7011,Schellenberg,,LI,6.71,6.71,9.55,9.55

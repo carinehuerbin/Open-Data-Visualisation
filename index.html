@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta charset="utf-8">
+	<title>Solarstrompotentiale der Schweizer Gemeinden </title>
+    
+     <!-- Einbinden des CSS Teils von Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> 
+    
+        
+   <!-- Eigenes CSS Stylesheet verlinken -->
+    <link rel="stylesheet" href="style.css" type="text/css">
+        
+    <!-- Einbinden von D3.js und weitere online -->
+        <script src="d3.js" charset="utf-8"></script>
+        <script src="d3.min.js" charset="utf-8"></script>
+		<script src="https://d3js.org/d3-array.v1.min.js"></script>
+		<script src="https://d3js.org/d3-geo.v1.min.js"></script>
+		<script src="https://d3js.org/d3-selection.v1.min.js"></script>
+		<script src="https://d3js.org/d3-collection.v1.min.js"></script>
+		<script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
+		<script src="https://d3js.org/d3-request.v1.min.js"></script>
+		<script src="http://d3js.org/topojson.v1.min.js"></script>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+    
+    <!-- Einbinden von JQuery und Popper.js -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <!-- Einbinden von Bootstrap -->             
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    
+    <!-- Einbinden der eigenen App und Hilfsfunktionen -->
+        <script src="app.js"></script>
+        <script src="donutChart.js"></script>
+    </head>
+    
+    <body>   
+    <!-- hier folgt die Bootstrap Navbar -->
+        <div class="jumbotron"> 
+            
+        <div class="container">
+        <span class="text-white"> <h1 class="font-weight-normal">Solarenergiepotentiale der Schweizer Gemeinden <br> – Fokus Strom </h1></span>
+     <span class="text-white"><p class="font-weight-normal"> Übung Open Data, Universität Bern </p></span></div>
+</div>
+        <nav class="navbar navbar-expand-sm bg-light navbar-light sticky-top">
+          <button class="navbar-toggler" type="button" data-toggle="tab" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            
+          <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="nav nav-tabs" role="tablist">
+              <li class="nav-item">
+            <!-- hier die übergeordnete Liste der Tabs -->
+                <a class="nav-link active" data-toggle="tab" href="#home">Visualisierung</a>
+              </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#bedienungsanleitung">Bedienungsanleitung</a>
+              </li>
+                <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#interpretation">Interpretation</a>
+              </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#lessonslearned">Lessons learned</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#dokumentation">Dokumentation</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#quellen">Quellen</a>
+              </li>    
+            </ul>
+          </div>  
+        </nav>
+
+    <div class="tab-content">
+    <!-- hier folgt der Inhalt der Nav-Tabs-->
+      <div id="home" class="container tab-pane active"><br>
+        </div>
+        
+    <div id="bedienungsanleitung" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter">Bedienungsanleitung</h3><br>
+      <p> > Grundlagen Karte der Schweizer Gemeinden => Karte könnte noch ein wenig grösser sein im Verhältnis zum Rest der Seite!
+          > Mouseover PieChart?
+          > Visualisierung des Solarenergiepotentials durch Farbastufungen
+          > Auswahl der Szenarien via interaktive Legende
+        </p><br>
+    </div>
+        
+    <div id="interpretation" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter">Interpretation</h3><br>
+      <p> > folgt an dieser Stelle, wenn Visualisierung inhaltlich abgeschlossen ist
+        >	Durch die Zusammenfassung einiger Gebäudeklassen unter „übrige“ (die Klasse „übrige“ schon in den Originaldaten vorhanden, aber so vergrössert) könnte die Aussagekraft der Gebäudeklassen sinken. Diese sind aber auch nicht Fokus der App und sollen nur als Ergänzung dienen.
+        >	Wichtig zu beachten (Quelle Bericht sonnendach.ch): 
+        Im berechneten Potential sind die bereits gebauten Solaranlagen mit einberechnet. Das heisst, das bestehende Potential wird zum Teil bereits genutzt. Allerdings ist das bestehende Potential immer noch sehr gross und noch lange nicht vollständig ausgeschöpft. 
+        >	Die wichtigsten Erkenntnisse aus der Visualisierung hier schildern
+        >	Bezug auf Frage von Nico: Berggemeinden
+            Zusätzlich zur Visualisierung mittels Farbabstufungen wollten wir auch vorhandene Daten zu den erhobenen Gebäudeklassen in die App einbeziehen. Dazu haben wir eine Statistik über die in Zusammenhang mit dem Solarpotential erhobenen Gebäudeklassen in die Visualisierung einbezogen. Aus Gründen der Übersichtlichkeit haben wir entschieden, nicht alle Gebäudeklassen in die zu den Gemeinden gehörigen Kreisdiagramme einfliessen zu lassen. Daher haben wir die Einfamilien- und Mehrfamilien-Wohnhäuser sowie gewerbliche Gebäude in den Kreisdiagrammen separat abgebildet und die vielen weiteren Gebäudeklassen aus dem Sonnendach.ch-Bericht unter der Kategorie „übrige“ zusammengefasst.<br>
+</p>
+    </div>
+                
+        <div id="lessonslearned" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter">Lessons learned</h3> <br>
+            
+        <h5 class="font-weight-lighter">Viele Entscheidungen zu treffen</h5> 
+            
+        <p class="text-justify"> In der Visualisierung stecken sehr viele, unterschiedlich gewichtete Entscheidungen. Wir mussten uns überlegen, wie wir unsere Daten aufbereiten, welche Daten effektiv in die Visualisierung einfliesssen sollten, und natürlich, auf welche Weise wir überhaupt die Daten visualisieren wollen. Uns war ziemlich schnell klar, dass wir das Solarenergiepotential auf einer Schweizer Karte darstellen wollten. Doch bis dahin mussten wir auch darüber nachdenken, wie die Interaktivität auf der Karte gestaltet werden soll und mit welchen Farben wir das Potential darstellen wollen. Diese Entscheidungen haben wir zu zweit besprochen und uns danach entschieden, was für uns am meisten Sinn ergeben hat. Man kann sie also auch bis zu einem bestimmten Grad als willkürlich betrachten.</p><br>
+            
+        <h5 class="font-weight-lighter">Früh mit der Datensichtung beginnen</h5> 
+        
+        <p class="text-justify">In den Rohdaten steckt mehr als auf den ersten Blick sichtbar ist. Auch bei der Aufbereitung der Daten mussten wir uns überlegen, wie wir genau vorgehen wollen. Auf einige Aspekte der Rohdaten sind wir erst gestossen, als wir mit der Visualisierung schon ein wenig fortgeschritten waren. In einem neuen Projekt würden wir wohl daher früher mit der Datensichtung beginnen, um rascher einen Überblick zu haben und effizientere Fortschrittte machen zu können.</p><br>
+        
+        <h5 class="font-weight-lighter">Früh mit der Programmierung beginnen</h5> 
+        
+        <p class="text-justify"> Da wir beide vor der Veranstaltung in Open Data nicht oder kaum über Kenntnisse im Programmieren verfügten, brauchten wir für alle Visualisierungsschritte mehr Zeit als jemand, der schon programmieren kann, und standen unter starkem Zeitdruck. Mit vielen Fehlermeldungen, die wir antrafen, konnten wir nicht viel anfangen und hatten teilweise beim Debugging Schwierigkeiten. Ausserdem hatten wir Mühe damit, im Internet nach Beispielen für unsere Art der Visualisierung zu suchen und bereits vorhandene Code Snippets zu übernehmen, da diese teilweise in früheren D3.js Versionen geschrieben worden waren. Diese konnten wir nicht zum Laufen bringen. Daher würden wir in einem neuen Projekt früher mit dem konkreten Schreiben des Codes beginnen. Mit etwas mehr Zeit wäre es auch möglich gewesen, die in der Übung erworbenen Kenntnisse zu vertiefen und effizienter anzuwenden.</p><br>
+    </div>
+        
+     <div id="dokumentation" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter">Dokumentation</h3><br>
+         
+        <h5 class="font-weight-lighter">Ausgangslage</h5>
+         <p class="text-justify"> Im Rahmen der Veranstaltung Open Data – Vorlesung und Übung mit Vertiefung an der Unviersität Bern im Frühlingssemester 2019 war es unsere Aufgabe, einen offen verfügbaren Datensatz zu visualisieren. Die Programmierkenntnisse sollten in der Veranstaltung selbst erworben werden. Den Datensatz durften wir selbst auswählen. Dafür stellten die externen Data Coaches, von verschiedenen Bundesämtern, der SBB und vielen weiteren, ihre Datensätzen im Rahmen der Übung Open Data vor. Aufgrund unserer Fachhintergründe, von der Betreibswirtschaftslehre und der Geographie kommend, entschieden wir uns für das Solarenergiepotential der Schweizer Gemeinden. Dieses Thema erschien uns aktuell und relevant für die Schweizer Gesellschaft und Politik.
+         
+         </p><br>
+         
+        <h5 class="font-weight-lighter">Über die Daten</h5>
+        <p class="text-justify"> Die Daten über das Solarenergiepotential stammen vom Bundesamt für Energie und liegen sowohl als JSON- als auch als Excel-Dateien vor. Für die Verarbeitung mit D3.js und Javascript verwendeten wir die JSON-Variante, da wir sonst die Excel-Datei sowieso hätten umwandeln müssen. Die Grundlage für die Schweizer Karte mit den Gemeindegrenzen, ohne weitere Informationen, bildet ebenfalls eine JSON-Datei. Für die Visualisierung der Gebäudeklassen lag eine Excel-Datei vor, die wir für die Verarbeitung mit D3.js in eine CSV-Datei umwandelten. Eine CSV-Datei stellt Daten mit Kommatrennung (comma separated value) bereit, die mit D3.js einfach ausgelesen werden können. Für die Visualisierung an sich wurden Skripts geschrieben, die als Javascript-Dateien vorhanden sind. Das Design und das Aussehen der gesamten Internetseite wurden mithilfe einer HTML-Seite geschrieben, die durch eine CSS-Datei (Stylesheet) ergänzt werden.</p><br>
+         
+        <h5 class="font-weight-lighter">Vorgehen</h5>
+        <p class="text-justify"> Als erstes mussten wir uns mit den Daten vertraut machen. Schnell war uns klar, dass wir die Daten zum Solarenergiepotential auf einer Schweizer Karte als Choropleth visualisiert haben wollten. So ist das Solarenergiepotential pro Gemeinde intuitiv mittels Farbabstufungen sichtbar. Unser Approach war "von innen nach aussen". Das heisst, wir wollten zuerst die inneren, grundlegenden Funktionen unserer Visualisierung erstellen, also eine Karte der Schweiz und ein Tooltip für die Gemeinden. Die Szenarien, Legenden und das Design, das die Visualisierung umfasst, sollten danach hinzugefügt werden. So sollten wir den Überblick über unseren geschriebenen Code behalten. <br>Unser erster Schritt war daher, aus einer auf GitHub bereits vorhandenen TopoJSON-Datei eine Schweizer Karte zu generieren. Dazu mussten wir die Daten vom Bundesamt für Energie aufbereiten. Die Karte wurde mit einem Tooltip ausgestattet, der zuerst nur den Namen der Gemeinde anzeigte. Dies dient der Orientierung. Ebenfalls fügten wir eine Funktion hinzu, die die Gemeinde einfärbt, wenn sich der Mauszeiger über sie bewegt. Als nächstes fügten wir zum Tooltip ein Kreisdiagramm hinzu, das die Gebäudeklassen der jeweiligen Gemeinde anzeigt. <br>Für dieses Kreisdiagramm haben wir einige Gebäudeklassen, die uns zur Verfügung verstanden, zusammengefasst aus Gründen der Übersichtlichkeit. Die Anteile der Gebäudeklassen liegen in den Rohdaten in Prozentzahlen vor. Für die Zusammenfassung einiger Gebäudeklassen haben wir uns für eine Rundung der Prozentzahlen auf plus/minus 1 Prozent. Zuerst wollten wir die Prozentzahlen auf dem Kreisdiagramm einblenden, doch erschien uns das zu unübersichtlich. Von dieser Idee kam die Entschiedung zur Genuaigkeit. Doch da die Prozentzahlen nun auf dem Kreisdiagramm nicht zu lesen sind, spielt dies nicht mehr so eine grosse Rolle. <br> Darauf aufbauend verknüpften wir die Daten zum Solarenergiepotential mit der Karte und wiesen diesen Werten jeweils eine Farbstufe zu. So wird das Solarenergiepotential visualisiert. Während dieser Arbeit haben wir gleichzeitig auch begonnen, die gesamte Internetseite zu gliedern und zu gestalten. Zuletzt zeichneten wir mit D3.js die Legenden zur Karte und zum Kreisdiagramm und ergänzten die schriftlichen Informationen über die Visualisierung. Im Lauf der Arbeit an der Visualisierung haben wir uns dafür entschieden, aus den zur Verfügung stehenden sechs Szenarien vier auszuwählen. Um den Umfang der Visualisierung zu reduzieren, haben wir vier Szenarien ausgewählt. Wir haben uns für die Szenarien mit Strom entschieden, um gleichzeitig die Vergleichbarkeit zu gewährleisten und einen Fokus zu setzen für die Visualisierung.</p><br> 
+    </div>
+        
+    <div id="quellen" class="container tab-pane fade"><br>
+      <h3 class="font-weight-lighter"> Quellen</h3><br>
+      <p class="text-justify"> Die Daten zum Solarenergiepotential sind verfügbar unter <a href="https://opendata.swiss/de/dataset/solarenergiepotenziale-der-schweizer-gemeinden" target="_blank"> Opendata.swiss</a>. Sie stammen vom Bundesamt für Energie BFE und wurden für diese Visualisierung verwendet. Weitere Hintergrundinformationen zu den im Kreisdiagramm verwendeten Daten der Gebäudeklassen können beim<a href="https://www.bfs.admin.ch/bfsstatic/dam/assets/346493/master"> Bundesamt für Statistik BFS</a> als Bericht heruntergeladen werden (2MB). Ausserdem sind weitere Hintergrundinformationen und Berechnungsmöglichkeiten für das eigene Haus verfügbar unter <a href="https://www.uvek-gis.admin.ch/BFE/sonnendach/" target="_blank">Sonnendach.ch</a>.<br>
+    <p>
+        <h6 class="font-weight-lighter">Design und Umsetzung: </h6>
+          Suvetha Somasundram (Bsc Betriebswirtschaftslehre), suvetha.somasundram@students.unibe.ch <br>
+          Carine Hürbin (MSc Geographie), carine.huerbin@students.unibe.ch <br></p>   
+          
+        <p class="italics"> > Verlinken zum vollständigen Quellcode im GitHub repository an dieser Stelle </p>
+          
+         <p> Quelle Hintergrundbild: <a href="https://www.wwf.ch/de/unsere-ziele/solarenergie" target="_blank">WWF Schweiz</a> <br>    </p>
+          
+         <p> Entstanden im Rahmen der Übung Open Data der Forschungsstelle Digitale Nachhaltigkeit, Universität Bern, im Frühlingssemester 2019.<br>Erstellt mit D3.js, Javascript, HTMl, CSS und Bootstrap.</p><br>
+    </div>  
+  </div>
+</div>
+    <!-- Fusszeile hier -->
+    <footer class="page-footer background-blue font-small blue">
+        <div class="footer-copyright text-center py-3"> 
+             Copyright: © Creative Commons Namensnennung 4.0 International Lizenz
+        <p> Suvetha Somasundram und Carine Hürbin, Universität Bern – Frühlingssemester 2019 </p>
+        </div>
+        </footer>
+        <!--- hier wird das Skript für das Zeichnen der Karte ausgeführt -->  
+        <script> drawMap();</script>
+    </body>
+</html>

@@ -1,6 +1,6 @@
 
 .municipalities {
-	   fill: lightgrey;
+	   fill: WhiteSmoke;
 	   stroke: #000; //#fff;
         stroke-width: 0.5;
 }
@@ -29,12 +29,14 @@ div.tooltip {
     font-family: sans-serif;
     font-weight: normal;
     font-size: 16;
+
 }
 
 .h3 {
     font-family: sans-serif;
     font-weight: lighter;
     font-size: 12;
+    
     
 }
 
@@ -52,5 +54,30 @@ div.tooltip {
 }
 
 body {
-  background-color: #777
+  color: "white";
 }
+
+.jumbotron {
+     background: url('D:/Carine/Studium Master/FS19/Open Data (Vorlesung_Übung)/Übung/App Solarenergiepotential/Solar-Panels-Switzerland.jpg') fixed center no-repeat;
+     background-size: cover;
+}
+
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: none;
+  background-color: transparent;
+  text-decoration: underline;

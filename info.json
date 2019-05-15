@@ -1,6 +1,6 @@
 {
 "title": "Solarenergiepotenziale der Schweizer Gemeinden - Fokus Strom",
-"description": "hier noch einzufüllen",
+"description": "Die App visualisiert die Zahlen zum Solarenergiepotenzial der Schweizer Gemeinden als abgestufte Farben auf einer Choropleth-Karte. Aus den Ursprungsdaten des Bundesamtes für Energie BFE wurden vier Szenarien des Solarenergiepotenzials ausgewählt, die mit Buttons angewählt werden können. Entsprechend dem Szenario ändert sich die Darstellung des Potenzials auf der Schweizer Karte. Als Ergänzung dazu dient ein Tooltip, der den Namen der Gemeinde sowie ein Kreisdiagramm mit den zusammengefassten Gebäudeklassen der jeweils angewählten Gemeinde enthält. Neben der Visualisierung wird eine ausführliche Interpretation und Dokumentation bereitgestell.",
 "authors": [
     {"name": "Suvetha Somasundram", "email": "suvetha.somasundram@students.unibe.ch"},
     {"name": "Carine Hürbin", "email": "carine.huerbin@gmx.ch"}
