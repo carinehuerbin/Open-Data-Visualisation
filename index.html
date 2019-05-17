@@ -33,12 +33,12 @@
     <!-- Einbinden der eigenen App und Hilfsfunktionen -->
         <script src="app.js"></script>
         <script src="donutChart.js"></script>
+        <script src="drawScenarios.js"></script>
     </head>
     
     <body>   
     <!-- hier folgt die Bootstrap Navbar -->
         <div class="jumbotron"> 
-            
         <div class="container">
         <span class="text-white"> <h1 class="font-weight-normal">Solarenergiepotentiale der Schweizer Gemeinden <br> – Fokus Strom </h1></span>
      <span class="text-white"><p class="font-weight-normal"> Übung Open Data, Universität Bern </p></span></div>
@@ -75,15 +75,22 @@
 
     <div class="tab-content">
     <!-- hier folgt der Inhalt der Nav-Tabs-->
-      <div id="home" class="container tab-pane active"><br>
-        </div>
+    <div id="home" class="container tab-pane active"><br>
+        <div class="radio" class="font-weight-lighter">
+  <label><input type="radio" name="optradio" checked class="font-weight-lighter"> Dächer nutzen </label>
+</div>
+<div class="radio">
+  <label><input type="radio" name="optradio" class="font-weight-lighter"> Dächer und Fassaden nutzen </label>
+</div>
+    </div>
         
     <div id="bedienungsanleitung" class="container tab-pane fade"><br>
       <h3 class="font-weight-lighter">Bedienungsanleitung</h3><br>
-      <p> > Grundlagen Karte der Schweizer Gemeinden => Karte könnte noch ein wenig grösser sein im Verhältnis zum Rest der Seite!
-          > Mouseover PieChart?
-          > Visualisierung des Solarenergiepotentials durch Farbastufungen
-          > Auswahl der Szenarien via interaktive Legende
+      <p class="text-justify"> Die Grundlage unserer Visualisierung bildet eine Karte der Schweizer Gemeinden. Unabhängig vom Solarpotential kann man den Namen der Gemeinde abfragen, wenn man mit der Maus darüber fährt. Dies dient der Orientierung. Zur Ergänzung werden im Tooltip der Gemeinde auch die Anteile der jeweiligen Gebäudeklassen mit angezeigt. Dies soll die Applikation ergänzen und die Interpretation unterstützen, ist aber nicht ihr Schwerpunkt. <br> Durch die Farbabstufungen wird das Solarenergiepotential auf der Choropleth-Karte visualisiert: Je dunkler das Orange, desto grösser ist das Potential. Diese Abstufung ist unabhängig von der Position der Maus und wird immer angezeigt. Mithilfe der Auswahlknöpfe links von der Karte kann man anwählen, welches Szenario man anschauen möchte: Entweder nur das Szenario, in dem nur Dächer für die Gewinnung von Solarstrom genutzt werden, oder dasjenige, indem Dächer und zusätzlich Fassaden genutzt werden. Zwischen diesen beiden Szenarien kann man beliebig hin- und herwechseln. Die Einfärbung wird dann automatisch für das angewählte Szenario aktualisiert. 
+          
+          > noch ausführlicher (?)
+          > Screenshots einfügen! (wenn möglich und Zeit ist, am Schluss)
+           
         </p><br>
     </div>
         
@@ -91,11 +98,16 @@
       <h3 class="font-weight-lighter">Interpretation</h3><br>
       <p> > folgt an dieser Stelle, wenn Visualisierung inhaltlich abgeschlossen ist
         >	Durch die Zusammenfassung einiger Gebäudeklassen unter „übrige“ (die Klasse „übrige“ schon in den Originaldaten vorhanden, aber so vergrössert) könnte die Aussagekraft der Gebäudeklassen sinken. Diese sind aber auch nicht Fokus der App und sollen nur als Ergänzung dienen.
+          
         >	Wichtig zu beachten (Quelle Bericht sonnendach.ch): 
+          
         Im berechneten Potential sind die bereits gebauten Solaranlagen mit einberechnet. Das heisst, das bestehende Potential wird zum Teil bereits genutzt. Allerdings ist das bestehende Potential immer noch sehr gross und noch lange nicht vollständig ausgeschöpft. 
-        >	Die wichtigsten Erkenntnisse aus der Visualisierung hier schildern
-        >	Bezug auf Frage von Nico: Berggemeinden
-            Zusätzlich zur Visualisierung mittels Farbabstufungen wollten wir auch vorhandene Daten zu den erhobenen Gebäudeklassen in die App einbeziehen. Dazu haben wir eine Statistik über die in Zusammenhang mit dem Solarpotential erhobenen Gebäudeklassen in die Visualisierung einbezogen. Aus Gründen der Übersichtlichkeit haben wir entschieden, nicht alle Gebäudeklassen in die zu den Gemeinden gehörigen Kreisdiagramme einfliessen zu lassen. Daher haben wir die Einfamilien- und Mehrfamilien-Wohnhäuser sowie gewerbliche Gebäude in den Kreisdiagrammen separat abgebildet und die vielen weiteren Gebäudeklassen aus dem Sonnendach.ch-Bericht unter der Kategorie „übrige“ zusammengefasst.<br>
+        
+          >	Die wichtigsten Erkenntnisse aus der Visualisierung hier schildern
+        >	Bezug auf Frage von Nico: Berggemeinden => Szenario Dächer und Fassaden
+          
+            Zusätzlich zur Visualisierung mittels Farbabstufungen wollten wir auch vorhandene Daten zu den erhobenen Gebäudeklassen in die App einbeziehen. Dazu haben wir eine Statistik über die in Zusammenhang mit dem Solarpotential erhobenen Gebäudeklassen in die Visualisierung einbezogen. Aus Gründen der Übersichtlichkeit haben wir entschieden, nicht alle Gebäudeklassen in die zu den Gemeinden gehörigen Kreisdiagramme einfliessen zu lassen. Daher haben wir die Einfamilien- und Mehrfamilien-Wohnhäuser sowie gewerbliche Gebäude in den Kreisdiagrammen separat abgebildet und die vielen weiteren Gebäudeklassen aus dem Sonnendach.ch-Bericht unter der Kategorie „übrige“ zusammengefasst.
+          <br>
 </p>
     </div>
                 
@@ -127,12 +139,12 @@
         <p class="text-justify"> Die Daten über das Solarenergiepotential stammen vom Bundesamt für Energie und liegen sowohl als JSON- als auch als Excel-Dateien vor. Für die Verarbeitung mit D3.js und Javascript verwendeten wir die JSON-Variante, da wir sonst die Excel-Datei sowieso hätten umwandeln müssen. Die Grundlage für die Schweizer Karte mit den Gemeindegrenzen, ohne weitere Informationen, bildet ebenfalls eine JSON-Datei. Für die Visualisierung der Gebäudeklassen lag eine Excel-Datei vor, die wir für die Verarbeitung mit D3.js in eine CSV-Datei umwandelten. Eine CSV-Datei stellt Daten mit Kommatrennung (comma separated value) bereit, die mit D3.js einfach ausgelesen werden können. Für die Visualisierung an sich wurden Skripts geschrieben, die als Javascript-Dateien vorhanden sind. Das Design und das Aussehen der gesamten Internetseite wurden mithilfe einer HTML-Seite geschrieben, die durch eine CSS-Datei (Stylesheet) ergänzt werden.</p><br>
          
         <h5 class="font-weight-lighter">Vorgehen</h5>
-        <p class="text-justify"> Als erstes mussten wir uns mit den Daten vertraut machen. Schnell war uns klar, dass wir die Daten zum Solarenergiepotential auf einer Schweizer Karte als Choropleth visualisiert haben wollten. So ist das Solarenergiepotential pro Gemeinde intuitiv mittels Farbabstufungen sichtbar. Unser Approach war "von innen nach aussen". Das heisst, wir wollten zuerst die inneren, grundlegenden Funktionen unserer Visualisierung erstellen, also eine Karte der Schweiz und ein Tooltip für die Gemeinden. Die Szenarien, Legenden und das Design, das die Visualisierung umfasst, sollten danach hinzugefügt werden. So sollten wir den Überblick über unseren geschriebenen Code behalten. <br>Unser erster Schritt war daher, aus einer auf GitHub bereits vorhandenen TopoJSON-Datei eine Schweizer Karte zu generieren. Dazu mussten wir die Daten vom Bundesamt für Energie aufbereiten. Die Karte wurde mit einem Tooltip ausgestattet, der zuerst nur den Namen der Gemeinde anzeigte. Dies dient der Orientierung. Ebenfalls fügten wir eine Funktion hinzu, die die Gemeinde einfärbt, wenn sich der Mauszeiger über sie bewegt. Als nächstes fügten wir zum Tooltip ein Kreisdiagramm hinzu, das die Gebäudeklassen der jeweiligen Gemeinde anzeigt. <br>Für dieses Kreisdiagramm haben wir einige Gebäudeklassen, die uns zur Verfügung verstanden, zusammengefasst aus Gründen der Übersichtlichkeit. Die Anteile der Gebäudeklassen liegen in den Rohdaten in Prozentzahlen vor. Für die Zusammenfassung einiger Gebäudeklassen haben wir uns für eine Rundung der Prozentzahlen auf plus/minus 1 Prozent. Zuerst wollten wir die Prozentzahlen auf dem Kreisdiagramm einblenden, doch erschien uns das zu unübersichtlich. Von dieser Idee kam die Entschiedung zur Genuaigkeit. Doch da die Prozentzahlen nun auf dem Kreisdiagramm nicht zu lesen sind, spielt dies nicht mehr so eine grosse Rolle. <br> Darauf aufbauend verknüpften wir die Daten zum Solarenergiepotential mit der Karte und wiesen diesen Werten jeweils eine Farbstufe zu. So wird das Solarenergiepotential visualisiert. Während dieser Arbeit haben wir gleichzeitig auch begonnen, die gesamte Internetseite zu gliedern und zu gestalten. Zuletzt zeichneten wir mit D3.js die Legenden zur Karte und zum Kreisdiagramm und ergänzten die schriftlichen Informationen über die Visualisierung. Im Lauf der Arbeit an der Visualisierung haben wir uns dafür entschieden, aus den zur Verfügung stehenden sechs Szenarien vier auszuwählen. Um den Umfang der Visualisierung zu reduzieren, haben wir vier Szenarien ausgewählt. Wir haben uns für die Szenarien mit Strom entschieden, um gleichzeitig die Vergleichbarkeit zu gewährleisten und einen Fokus zu setzen für die Visualisierung.</p><br> 
+        <p class="text-justify"> Als erstes mussten wir uns mit den Daten vertraut machen. Schnell war uns klar, dass wir die Daten zum Solarenergiepotential auf einer Schweizer Karte als Choropleth visualisiert haben wollten. So ist das Solarenergiepotential pro Gemeinde intuitiv mittels Farbabstufungen sichtbar. Unser Ansatz war "von innen nach aussen". Das heisst, wir wollten zuerst die inneren, grundlegenden Funktionen unserer Visualisierung erstellen, also eine Karte der Schweiz und ein Tooltip für die Gemeinden. Die Szenarien, Legenden und das Design, das die Visualisierung umfasst, sollten danach hinzugefügt werden. So sollten wir den Überblick über unseren geschriebenen Code behalten. <br>Unser erster Schritt war daher, aus einer auf GitHub bereits vorhandenen TopoJSON-Datei eine Schweizer Karte zu generieren. Dazu mussten wir die Daten vom Bundesamt für Energie aufbereiten. Die Karte wurde mit einem Tooltip ausgestattet, der zuerst nur den Namen der Gemeinde anzeigte. Dies dient der Orientierung. Ebenfalls fügten wir eine Funktion hinzu, die die Gemeinde einfärbt, wenn sich der Mauszeiger über sie bewegt. Als nächstes fügten wir zum Tooltip ein Kreisdiagramm hinzu, das die Gebäudeklassen der jeweiligen Gemeinde anzeigt. <br>Für dieses Ringdiagramm haben wir einige Gebäudeklassen, die uns zur Verfügung verstanden, zusammengefasst aus Gründen der Übersichtlichkeit. Die Anteile der Gebäudeklassen liegen in den Rohdaten in Prozentzahlen vor. Für die Zusammenfassung einiger Gebäudeklassen haben wir uns für eine Rundung der Prozentzahlen auf plus/minus 1 Prozent. Zuerst wollten wir die Prozentzahlen auf dem Ringdiagramm einblenden, doch erschien uns das zu unübersichtlich. Von dieser Idee kam die Entschiedung zur Genauigkeit. Doch da die Prozentzahlen nun auf dem Ringiagramm nicht zu lesen sind, spielt dies nicht mehr so eine grosse Rolle. Um die Übersichtlichkeit zu fördern, haben wir uns dazu entschieden, die Legende für das Ringdiagramm ausserhalb des Tooltips anzeigen zu lassen, um diesen nicht zu überladen. <br> Von diesem Stand ausgehend verknüpften wir die Daten zum Solarenergiepotential mit der Karte und wiesen diesen Werten jeweils eine Farbstufe zu. So wird das Solarenergiepotential visualisiert. Während dieser Arbeit haben wir gleichzeitig auch begonnen, die gesamte Internetseite zu gliedern und zu gestalten, sind also von unserem "von innen nach aussen"-Ansatz ein wenig abgewichen, um mehr Fortschritte machen zu können. Zuletzt zeichneten wir mit D3.js die Legenden zur Karte und zum Kreisdiagramm und ergänzten die schriftlichen Informationen über die Visualisierung. Im Lauf der Arbeit an der Visualisierung haben wir uns dafür entschieden, aus den zur Verfügung stehenden sechs Szenarien vier auszuwählen. Um den Umfang der Visualisierung zu reduzieren, haben wir vier Szenarien ausgewählt. Wir haben uns für die Szenarien mit Strom entschieden, um gleichzeitig die Vergleichbarkeit zu gewährleisten und einen Fokus zu setzen für die Visualisierung. Um die offen verfügbaren Daten auch für möglichst viele Personen verständlich zu halten, haben wir während des gesamten Prozesses darauf geachtet, in den Fraben auch der Karte und im Diagramm rot und grün zu meiden, damit auch rot-grün-blinde Personen unsere App gut gebrauchen können.</p><br> 
     </div>
         
     <div id="quellen" class="container tab-pane fade"><br>
       <h3 class="font-weight-lighter"> Quellen</h3><br>
-      <p class="text-justify"> Die Daten zum Solarenergiepotential sind verfügbar unter <a href="https://opendata.swiss/de/dataset/solarenergiepotenziale-der-schweizer-gemeinden" target="_blank"> Opendata.swiss</a>. Sie stammen vom Bundesamt für Energie BFE und wurden für diese Visualisierung verwendet. Weitere Hintergrundinformationen zu den im Kreisdiagramm verwendeten Daten der Gebäudeklassen können beim<a href="https://www.bfs.admin.ch/bfsstatic/dam/assets/346493/master"> Bundesamt für Statistik BFS</a> als Bericht heruntergeladen werden (2MB). Ausserdem sind weitere Hintergrundinformationen und Berechnungsmöglichkeiten für das eigene Haus verfügbar unter <a href="https://www.uvek-gis.admin.ch/BFE/sonnendach/" target="_blank">Sonnendach.ch</a>.<br>
+      <p class="text-justify"> Die Daten zum Solarenergiepotential sind verfügbar unter <a href="https://opendata.swiss/de/dataset/solarenergiepotenziale-der-schweizer-gemeinden" target="_blank"> Opendata.swiss</a>. Sie stammen vom Bundesamt für Energie BFE und wurden für diese Visualisierung verwendet. Weitere Hintergrundinformationen zu den im Kreisdiagramm verwendeten HIntergrunddaten der Gebäudeklassen können beim<a href="https://www.bfs.admin.ch/bfsstatic/dam/assets/346493/master"> Bundesamt für Statistik BFS</a> als Bericht heruntergeladen werden (2MB). Die in der App verwendeten Angaben zu den Gebäudeklassen wurden vom Bundesamt für Energie zur Verfügung gestellt. Sie können beim Bundesamt für Statistik bezogen werden, sind allerdings kostenpflichtig. Ausserdem sind weitere Hintergrundinformationen und Berechnungsmöglichkeiten für das eigene Haus verfügbar unter <a href="https://www.uvek-gis.admin.ch/BFE/sonnendach/" target="_blank">Sonnendach.ch</a>.<br>
     <p>
         <h6 class="font-weight-lighter">Design und Umsetzung: </h6>
           Suvetha Somasundram (Bsc Betriebswirtschaftslehre), suvetha.somasundram@students.unibe.ch <br>
@@ -153,7 +165,6 @@
         <p> Suvetha Somasundram und Carine Hürbin, Universität Bern – Frühlingssemester 2019 </p>
         </div>
         </footer>
-        <!--- hier wird das Skript für das Zeichnen der Karte ausgeführt -->  
-        <script> drawMap();</script>
+    <script> drawMap();</script>
     </body>
 </html>

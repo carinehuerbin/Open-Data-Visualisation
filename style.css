@@ -29,22 +29,25 @@ div.tooltip {
     font-family: sans-serif;
     font-weight: normal;
     font-size: 16;
-
 }
 
 .h3 {
     font-family: sans-serif;
     font-weight: lighter;
-    font-size: 12;
-    
-    
+    font-size: 14;   
 }
+
+.h6 {
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 13;   
+}
+
 
 .p {
     font-family: sans-serif;
     font-weight: lighter;
-    font-size: 14;
-    
+    font-size: 12;   
 }
 
 .nav {
@@ -58,7 +61,7 @@ body {
 }
 
 .jumbotron {
-     background: url('D:/Carine/Studium Master/FS19/Open Data (Vorlesung_Übung)/Übung/App Solarenergiepotential/Solar-Panels-Switzerland.jpg') fixed center no-repeat;
+     background: url('D:/Carine/Studium Master/FS19/Open Data (Vorlesung_Übung)/Übung/App Solarenergiepotential/Solar-Panels-Switzerland.jpg') center no-repeat;
      background-size: cover;
 }
 
@@ -81,3 +84,4 @@ a:active {
   color: none;
   background-color: transparent;
   text-decoration: underline;
+}

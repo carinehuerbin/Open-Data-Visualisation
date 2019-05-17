@@ -14,6 +14,35 @@ function drawDonutChart (gklasse) { // gklasse ist der Parameter, der an die Fun
         // color range
         var color = d3.scaleOrdinal()
             .range(["darkorange", "gold", "darkslateblue", "royalblue"]); // hier Farben wählen für den Donut Chart
+    
+    /*
+    var legend = d3.select('svg')
+    .append("g")
+    .selectAll("g")
+    .data(color.domain())
+    .enter()
+    .append('g')
+      .attr('class', 'legend')
+      .attr('transform', function(d, i) {
+        var height = legendRectSize;
+        var x = 0;
+        var y = i * height;
+        return 'translate(' + x + ',' + y + ')';
+    })
+
+
+legend.append('rect')
+    .attr('width', legendRectSize)
+    .attr('height', legendRectSize)
+    .style('fill', color)
+    .style('stroke', color)
+
+legend.append('text')
+    .attr('x', legendRectSize + legendSpacing)
+    .attr('y', legendRectSize - legendSpacing)
+    .text(function(d) { return d; })
+    
+    */
 
 
         // donut chart arc
@@ -37,7 +66,8 @@ function drawDonutChart (gklasse) { // gklasse ist der Parameter, der an die Fun
         
         svgDonutChart
             .append("g")
-            .attr("transform", "translate(100,100)") 
+            .attr("transform", "translate(105,100)") 
+    
     // transform und translate versetzt den Donut Chart vom Mauszeiger aus => so eingestellt, dass die Grafik direkt im Tooltip sichtbar ist
             .selectAll("path")
             .data(donutChart) // Variable Donut Chart auswählen, da dort die Daten verknüpft sind
