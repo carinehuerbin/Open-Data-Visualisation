@@ -2,7 +2,7 @@ function drawDonutChart (gklasse) { // gklasse ist der Parameter, der an die Fun
 
     var data = [parseInt(gklasse[0].Einfamhaus), parseInt(gklasse[0].Mehrfamhaus), parseInt(gklasse[0].GebOhneNutzung), parseInt(gklasse[0].Uebrige)] 
     // parseInt verwandelt string (Buchstaben) in Zahlenwerte. [0] wählt das erste Element (da Programme mit 0 zu zählen beginnen)
-    // Variable data wir innerhalb der Funktion, also lokal definiert und überschreibt die Variable data im App Skript nicht
+    // Variable data wird innerhalb der Funktion, also lokal definiert und überschreibt die Variable data im App Skript nicht
     
         // load data and variables for donut Chart
         // margin
@@ -15,10 +15,11 @@ function drawDonutChart (gklasse) { // gklasse ist der Parameter, der an die Fun
         var color = d3.scaleOrdinal()
             .range(["darkorange", "gold", "darkslateblue", "royalblue"]); // hier Farben wählen für den Donut Chart
 
+        // Farben und Namen definieren für den Donut Chart
     var colorNames = [
         {color: "darkorange", name: "Einfam.häuser"},
         {color: "gold", name: "Mehrfam.häuser"},
-        {color: "darkslateblue", name: "Ohne Wohnnutzung"},
+        {color: "darkslateblue", name: "ohne Wohnnutzung"},
         {color: "royalblue", name: "übrige"},
     ];
 
@@ -55,6 +56,7 @@ function drawDonutChart (gklasse) { // gklasse ist der Parameter, der an die Fun
             .style("stroke-width", "2px");
     
       
+    // hier folgt der Code für die Legende des Donut Charts
     var legendRectSize = 10;
     
     var legendSpacing = 5;
@@ -70,14 +72,12 @@ function drawDonutChart (gklasse) { // gklasse ist der Parameter, der an die Fun
       .attr('class', 'legend')
       .attr('transform', function(d, i) {
         var height = legendRectSize;
-        var x = (i%2==1)? 130 : 0;          // Modulo
+        var x = (i%2==1)? 130 : 0;        // Modulo: Division mit Rest
         var y = i > 1? height + 5 : 0;  // Kurzform (einzeilig) einer if/else Bedingung
         return 'translate(' + x + ',' + y + ')';
     })
     
     
-
-
 legend.append('rect')
     .attr('width', legendRectSize)
     .attr('height', legendRectSize)
