@@ -3,10 +3,11 @@ function drawScenarios(potenzial) {
 
             // Gemeinden grau markieren, die keine ID haben => keine Daten vorhanden
            
-            
+            if(document.getElementById("scenario1").checked) {
+                
             // zeichne Szenario 1 mit Abstufungen in Farben
             if (parseInt(potenzial.Scenario1) > 100) {
-                return " #e69900"
+                return "#e69900"
             }
             
             if (parseInt(potenzial[0].Scenario1) > 80) {
@@ -25,7 +26,7 @@ function drawScenarios(potenzial) {
             if (parseInt(potenzial[0].Scenario1) > 0) {
                 return "#ffeecc"
             }
-    
+       }
             // zeichne Szenario 2 (in Originaldaten Szenario 3) mit Abstufungen in denselben Farben
             // => Vergleich dann via Radio Buttons (umschalten möglich)
             if (parseInt(potenzial.Scenario3) > 100) {

@@ -1,3 +1,5 @@
+var globalPotenzial;
+
 
 function drawMap() {
     
@@ -23,6 +25,8 @@ function drawMap() {
         // die Funktion d3.queue lädt die Datensätze der Reihe nach in die unten angegebenen Variablen (error, data, GKlassen, Potenziale)
 
         function ready (error, data, GKlassen, Potenziale){
+            
+            globalPotenzial=Potenziale;
 
         if(error){console.log("Error: "+ error)};
 
@@ -35,6 +39,16 @@ function drawMap() {
         var Seen = topojson.feature(data, data.objects.lakes).features;   
         
         var Kantone = topojson.feature(data, data.objects.cantons).features; 
+            
+        var colorNames = [
+                {color: "#e69900", name: "Potential > 100 GWh"},
+                {color: "#ffaa00", name: "Potential > 80 GWh"},
+                {color: "#ffc34d", name: "Potential > 60 GWh"},
+                {color: "#ffcc66", name: "Potential > 40 GWh"},
+                {color: "#ffdd99", name: "Potential > 20 GWh"},
+                {color: "#ffeecc", name: "Potential > 0 GWh"},
+    ];
+
         
         
         var path = d3.geoPath()
@@ -71,7 +85,7 @@ function drawMap() {
                 }
              return drawScenarios(potenzial)
 
-            })
+            }) 
         
         
         // hier folgt die Mouseover-Funktion
@@ -82,7 +96,7 @@ function drawMap() {
             .style('stroke-width', function (d) {
             return '1';
           });
-           
+        
             
         div.transition()
             .duration(200)
@@ -132,7 +146,9 @@ function drawMap() {
             .style("opacity", 0);
         })
 		      .attr("d", path); 
-   
+   // hier Legende mit svg. append (g)
+    // Legendencode hier einfügen 
+    // wieder Array einfügen mit Farbennamen, 
         
         // Hervorhebung der Kantone mit dickeren Linien
         svg.append("g")
@@ -162,7 +178,24 @@ function drawMap() {
          
  
     d3.selectAll('svg')
-        .attr("transform", "translate(40, 20)scale(1.3)"); // makes the Swiss map larger and moves it inside the svg;
+        .attr("transform", "translate(40, 80)scale(1.3)")   // makes the Swiss map larger and moves it inside the svg;
+        .style("margin-bottom", "60px");                      // Abstand zwischen Karte und Footer
     }    
     
 };
+
+// innerhalb der Funktion der drawMap zuoberst, 
+
+function refillFeatures() {
+    d3.selectAll(".municipalities")
+    .selectAll("path")
+    .style("fill", function(d) { 
+            var potenzial = globalPotenzial.filter(el => {
+            return parseInt(el.MunicipalityNumber) === d.properties.id
+            })
+            if (potenzial.length === 0) {
+                return "lightgrey"
+            }
+            return drawScenarios(potenzial)
+            });
+}
