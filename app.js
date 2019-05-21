@@ -167,7 +167,7 @@ function drawMap() {
  
     d3.selectAll('svg')
         .attr("transform", "translate(85, 80)scale(1.3)")   // makes the Swiss map larger and moves it inside the svg;
-        .style("margin-bottom", "60px");                    // Abstand zwischen Karte und Footer
+        .style("margin-bottom", "80px");                    // Abstand zwischen Karte und Footer
     }    
     
     // hier folgt der Code für die Kartenlegende
